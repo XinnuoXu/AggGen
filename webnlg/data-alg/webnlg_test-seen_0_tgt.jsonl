@@ -1,0 +1,971 @@
+(S F1-served )	cityServed	Abilene , Texas is served by the Abilene regional airport .
+(S F1-found )	location	Adolfo Suárez Madrid – Barajas Airport can be found in Madrid , Paracuellos de Jarama , San Sebastián de los Reyes and Alcobendas .
+(S F1-is )	runwayName	The runway name of Adolfo Suárez Madrid – Barajas Airport is 18L/36R.
+(S F1-is )	ICAO_Location_Identifier	Afonso Pena International Airport ICAO Location Idenitifier is SBCT .
+(S F1-serves )	cityServed	Afonso Pena International Airport serves the city of Curitiba .
+(S F1-serves )	cityServed	The Al Taqaddum Air Base serves the city of Fallujah .
+(S F1-is )	runwayLength	The runway length of Al - Taqaddum Air Base is 3684.0 .
+(S F1-is )	runwayName	Alderney Airport runway name is 14/32 .
+(S F1-is )	runwayLength	The runway length at Allama Iqbal International Airport is 3,360.12 .
+(S F1-known )	1st_runway_Number	The first runway at Amsterdam 's Schiphol Airport is known as Number 18 .
+(S F1-has )	5th_runway_SurfaceType	The 5th runway at Amsterdam airport Schiphol has an asphalt surfacing .
+(S F1-is )	runwayName	Amsterdam Airport Schiphol runway name is 06/24 Kaagbaan .
+(S F1-is )	elevationAboveTheSeaLevel_(in_metres)	Andrews County Airport is 973 metres above sea level .
+(S F1-owned )	owner	The Andrews County Airport is owned by Andrews County , Texas .
+(S F1-is )	runwayLength	The runway length of Andrews County Airport is 896 .
+(S (ARG2 F1-is F2-made ) )	|	Angola International Airport is the first runway	made of asphalt .
+(S F1-is )	elevationAboveTheSeaLevel_(in_metres)	Antwerp International Airport is 12 metres above sea level .
+(S F1-operated )	operatingOrganisation	The Antwerp International Airport is operated by the Flemish Government .
+(S F1-is )	runwayLength	The runway length of Appleton International Airport is 2,439 .
+(S F1-is )	runwayLength	Ardmore Airport ( New Zealand ) runway length is 518.0 .
+(S F1-is )	ICAO_Location_Identifier	UTAA is the ICAO Location Identifier of Ashgabat International Airport .
+(S F1-is )	runwayName	The runway name of Ashgabat International Airport is 11/29 .
+(S F1-is )	owner	Atlantic City International Airport owner is South Jersey Transportation Authority .
+(S F1-is )	runwayName	The name of the runway at Atlantic City International Airport is " 13/31 " .
+(S F1-spoken )	language	The Dutch language is spoken in Belgium .
+(S F1-is )	isPartOf	Curitiba is part of the South Region , Brazil .
+(S F1-is )	demonym	Denmark demonym is Danes .
+(S F1-is )	country	Fallujah is in the country of Iraq .
+(S F1-is )	country	Greenville , Wisconsin is in the U.S.A.
+(S F1-is )	isPartOf	Greenville , Wisconsin is part of Grand Chute , Wisconsin .
+(S F1-is )	language	Iraq language is Arabic .
+(S F1-is )	country	Madrid is in the country of Spain .
+(S F1-is )	isPartOf	Maple Ridge Township in Alpena County , Michigan is part of the United States .
+(S F1-is )	leaderName	The leader of Pakistan is Sardar Ayaz Sadiq .
+(S (ARG2 F1-is F2-served ) )	regionServed|regionServed	New Jersey is a region	served by the Port Authority of New York and New Jersey .
+(S F1-is )	largestCity	Houston is the largest city in Texas .
+(S F1-involved )	battles	The USAF was involved in the 1986 bombing of Libya .
+(S F1-has )	transportAircraft	The United States Air Force has a Boeing C-17 Globemaster III transport aircraft .
+(S F1-established )	established	The 11th Mississippi Infantry Monument was established in the year 2000 .
+(S F1-lies )	has_to_its_southeast	To the southeast of Adams County , Pennsylvania lies Carroll County , Maryland .
+(S F1-was )	leader	Artur Rasizade was an Azerbaijan leader .
+(S F1-is )	leaderTitle	Prime Minister of Azerbaijan is the official title of the leader of Azerbaijan .
+(S F1-is )	nativeName	The Native name of the Baku Turkish Martyrs ' Memorial is " Türk Sehitleri Aniti " .
+(S F1-located )	location	11 Diagonal Street is located in South Africa .
+(S F1-has )	architecturalStyle	250 Delaware Avenue has the Postmodern style of architecture .
+(S F1-located )	location	300 North LaSalle is located in Chicago .
+(S F1-was )	architect	George Winkler was the architect of 320 South Boston Building .
+(S F1-started )	buildingStartDate	The building of 320 South Boston Building started in 1910 .
+(S F1-has )	numberOfRooms	The AC Hotel Bella Sky Copenhagen has 814 rooms .
+(S F1-designed )	architect	The architects James Pain and George Richard Pain designed Adare Manor , .
+(S F1-located )	location	Adisham Hall is located in Haputale .
+(S F1-located )	country	Akita Museum of Art is located in Japan .
+(S F1-is )	owner	The College of William and Mary is the owner of the Alan B. Miller Hall .
+(S F1-is )	address	The address for Amdavad ni Gufa is Lalbhai Dalpatbhai Campus , near CEPT University , opp . Gujarat University , University Road .
+(S F1-has )	ReferenceNumber_in_the_National_Register_of_Historic_Places	Asher and Mary Isabelle Richardson House has the reference number 88002539 in the National Register of Historic Places .
+(S F1-was )	architect	Julia Morgan was the architect of the grounds of Asilomar Conference .
+(S F1-designed )	architecture	Asilomar Conference Grounds is designed based on the architecture style of " Arts and Crafts Movement and American craftsman Bungalows " .
+(S F1-constructed )	yearOfConstruction	The Asilomar Conference Grounds were constructed in 1913 .
+(S F1-located )	location	Asser Levy Public Baths are located in New York City .
+(S F1-is )	isPartOf	Buffalo New York is part of Erie County New York .
+(S F1-is )	leaderName	The leader of Buffalo , New York is Byron Brown .
+(S F1-is )	isPartOf	County Limerick is a part of Munster .
+(S F1-was )	leaderName	Críona Ní Dhálaigh was Lord Mayor of Dublin .
+(S F1-is )	leaderName	Mulatu Teshome is an Ethiopian leader .
+(S (ARG1-of F2-living F1-is ) )	demonym|	The demonym for people living in India	is Indian .
+(S (ARG1 F1-designed F2-including ) )	|significantBuilding	Julia Morgan has designed	many significant buildings , including the Los Angeles Herald Examiner building .
+(S F1-located )	location	Live Nation Entertainment is located at Beverly Hills , California .
+(S F1-is )	isPartOf	Manhattan is part of New York .
+(S F1-is )	isPartOf	New York City is a part of New Netherland .
+(S F1-is )	isPartOf	Pacific Grove , California is part of California .
+(S F1-are )	ethnicGroup	The white South Africans are an ethnic group of South Africa .
+(S F1-is )	leaderName	A leader in the United Kingdom is Elizabeth 11 .
+(S F1-is )	ISBN_number	The ISBN number of 1634 : The Ram Rebellion is 1 - 4165 - 2060 - 0 .
+(S F1-is )	author	Eric Flint is the author of 1634 : The Ram Rebellion .
+(S F1-published )	mediaType	1634 : The Ram Rebellion was published in print .
+(S F1-published )	country	The AIDS journal was published in the United Kingdom .
+(S F1-has )	OCLC_number	A Glastonbury Romance has the OCLC number 76798317 .
+(S F1-found )	mediaType	" A Glastonbury Romance " can be found in hardcover .
+(S F1-written )	language	A Long Long Way is written in the English language .
+(S F1-wrote )	author	Diane Duane wrote A Wizard of Mars .
+(S F1-is )	ISSN_number	The Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg ISSN number is " 0025 - 5858 " .
+(S F1-is )	author	Garth Nix is the author of Above the Veil .
+(S F1-produced )	mediaType	Above the Veil was produced in Print .
+(S F1-has )	ISSN_number	Acta Palaeontologica Polonica has the ISSN number 0567 - 7920 .
+(S F1-has )	LCCN_number	The journal Addiction has the LCCN number 93645978 .
+(S F1-is )	academicDiscipline	Addiction journal is about addiction .
+(S F1-written )	language	Aenir is written in English .
+(S F1-is )	country	Alcatraz Versus the Evil Librarians is from The United States .
+(S F1-written )	language	The book Alcatraz Versus the Evil Librarians is written in English .
+(S F1-null )	academicDiscipline	The American Journal of Mathematics studies mathematics .
+(S F1-written )	language	The novel " Castle " is written in English .
+(S F1-is )	birthPlace	Burbank California is the birth place of Eric Flint .
+(S F1-are )	parentCompany	Macmillan publishers are the parent company of Farrar , Straus and Giroux .
+(S F1-is )	notableWork	A Glastonbury Romance is John Cowper Powys notable work .
+(S F1-located )	country	The Soho Press is located in the U.S.
+(S F1-published )	publisher	The Secret Scripture is published by Faber and Faber .
+(S (ARG1 F1-has F2-called ) )	|ethnicGroup	The United States has	an ethnic group called Asian Americans .
+(S F1-is )	language	English is the language of the United States .
+(S F1-preceded )	precededBy	A Glastonbury Romance preceded Weymouth Sands .
+(S F1-managed )	manager	Rolando Maran has managed AC Chievo Verona .
+(S (ARGM-LOC F1-play F2-called ) )	|league	A D Isidro Metapán play	in a league called the Salvadoran Primera Division .
+(S F1-has )	fullname	AFC Blackpool has the full name " Association Football Club Blackpool " .
+(S F1-is )	ground	A.F.C. Blackpool 's ground is The Mechanics .
+(S F1-is )	ground	A.F.C. Blackpool is in Blackpool .
+(S F1-is )	ground	The ground of A.S. Gubbio 1910 is in Gubbio .
+(S F1-has )	numberOfMembers	The A.S. Gubbio 1910 has 5300 members .
+(S F1-is )	ground	AEK Athens F.C. 's ground is in Athens .
+(S F1-played )	season	AEK Athens FC played the 2014 - 2015 season in the Football League ( Greece ) .
+(S F1-is )	location	The AZAL Arena is in Baku .
+(S F1-play )	league	AZAL PFK play in the Azerbaijan Premier League .
+(S F1-played )	season	AZ Alkmaar played in the Eredivisie in 2014 - 15 .
+(S F1-is )	country	Akron , Ohio is in the U.S.
+(S F1-located )	location	Akron is located in Summit County , Ohio .
+(S F1-is )	fullname	The full name of Akron Summit Assault is ' ' Akron Metro Futbol Club Summit Assault .
+(S F1-is )	leader	Amsterdam 's leader is Eberhard van der Laan .
+(S F1-played )	club	Christian Panucci has played for Chelsea FC .
+(S F1-plays )	club	Christian Panucci plays for Inter Milan .
+(S F1-played )	club	Frank de Boer once played football for FC Barcelona .
+(S F1-is )	region	Gubbio is in the region of Umbria .
+(S F1-is )	leader	Italy 's leader is Sergio Mattarella .
+(S F1-represented )	club	Jens Härtel has represented the club FC Sachsen Leipzig .
+(S F1-is )	club	Jorge Humberto Rodríguez is a member of the club FC Dallas .
+(S F1-played )	club	Luciano Spalletti played for Udinese Calcio .
+(S F1-played )	club	Massimo Drago played for A.S.D. S.S. Nola 1925 .
+(S F1-played )	club	Michele Marcolini has played for Atalanta BC .
+(S F1-played )	club	Michele Marcolini played for Vicenza Calcio .
+(S F1-was )	club	Peter Stöger was once a player for 1 . FC Köln .
+(S F1-worked )	club	Rolando Maran has worked at FC Bari 1908 .
+(S F1-are )	tenant	Jong Ajax are the tenants of the De Toekomst Sportpark .
+(S F1-is )	country	St. Vincent - St . Mary High School is in the United States .
+(S F1-located )	state	The 1 Decembrie 1918 University is located in the state of Alba .
+(S F1-is )	president	The President of Acharya Institute of Technology is B. M. Reddy .
+(S F1-is )	has_to_its_northwest	The northwest border to Kerala is Mahe in India .
+(S F1-are )	neighboringMunicipality	Mendrisio and Meride are neighboring Municipalities .
+(S F1-is )	capital	The capital of Romania is Bucharest .
+(S F1-is )	dean	Thomas Pallesen is the dean of Aarhus University School of Business and Social Sciences .
+(S F1-has )	numberOfStudents	The School of Business and Social Sciences at Aarhus University has 16000 students .
+(S F1-is )	nationality	The nationality of Alan Bean is United States .
+(S F1-was )	backup_pilot	Buzz Aldrin was a backup pilot on the Apollo 8 mission .
+(S F1-graduated )	almaMater	Buzz Aldrin graduated from Massachusetts Institute of Technology with a Sc . D in 1963 .
+(S F1-was )	was_a_crew_member_of	Buzz Aldrin was a crew member of Apollo 11 .
+(S F1-selected )	was_selected_by_NASA	NASA selected Buzz Aldrin in 1963 .
+(S F1-is )	gemstone	The gemstone of California is Benitoite .
+(S F1-died )	deathDate	Elliot See died on 28 February , 1966 .
+(S F1-died )	deathPlace	Elliot See died in St. Louis .
+(S F1-is )	status	Elliot See is dead .
+(S F1-created )	creator	April O'Neil was created by Kevin Eastman .
+(S F1-broadcast )	broadcastedBy	Bananaman is broadcast by the BBC .
+(S F1-is )	fullName	Ben Urich 's full name is actually Benjamin Urich .
+(S F1-is )	creator	Jerry Ordway is the creator of Bibbo Bibbowski .
+(S F1-is )	fullName	Bo Bibbowski is the full name of Bibbo Bibbowski .
+(S F1-born )	birthPlace	Bill Oddie was born in Lancashire .
+(S F1-known )	alternativeName	The Black Pirate is also known as Jon Valor .
+(S F1-won )	award	John Buscema won the Eisner Award .
+(S F1-is )	nationality	Karl Kesel 's nationality is American .
+(S F1-won )	award	Marv Wolfman has won the Kirby Award .
+(S F1-is )	nationality	Peter Laird is a United States national .
+(S F1-born )	birthPlace	Scott Adsit was born in Northbrook , Illinois .
+(S F1-is )	areaCode	The area code for Albany , Georgia is 229 .
+(S F1-is )	isPartOf	Albany Oregon is part of the U.S.
+(S F1-is )	leaderTitle	The Mayor is the leader in Albuquerque , N.M.
+(S F1-is )	leaderTitle	The New Mexico House of Representatives , is what the leader in Albuquerque ( New Mexico ) , is called .
+(S F1-leads )	leaderTitle	The New Mexico Senate leads Albuquerque in New Mexico .
+(S F1-is )	areaTotal	The total area of Amarillo Texas is 233.9 SqKm .
+(S F1-is )	isPartOf	Amarillo Texas is part of Randall County , Texas .
+(S F1-is )	isPartOf	Anderson is within Richland Township , Madison County , Indiana .
+(S F1-has )	elevationAboveTheSeaLevel	Angola , in Indiana , has an elevation of 324.0 metres above sea level .
+(S F1-is )	areaCode	925 is the area code of Antioch , in California .
+(S F1-is )	isPartOf	Antioch , is part of Contra Costa County in California .
+(S F1-has )	populationDensity	Arlington , Texas , has a population density , of 1472.0 inhabitants per square kilometre .
+(S F1-is )	leader	Kasim Reed is the leader in Atlanta .
+(S F1-has )	areaTotal	Atlantic City , New Jersey has a total area of 44.125 ( square kilometres ) .
+(S F1-is )	isPartOf	Atlantic City is part of New Jersey .
+(S F1-is )	elevationAboveTheSeaLevel	Attica , in Indiana is 166.0 above sea level .
+(S F1-is )	isPartOf	Auburn is part of Lee County in Alabama .
+(S F1-has )	areaTotal	Auburn ( Washington ) has a total area of 77.4 square kilometres .
+(S F1-located )	isPartOf	Austin is located in Texas .
+(S F1-spoken )	language	Spanish is spoken in California .
+(S F1-is )	largestCity	Dunwoody is the largest city in DeKalb County , Georgia .
+(S F1-is )	country	Fulton County is in Georgia , in the United States .
+(S (ARG2 F1-is F2-is ) )	|	Anderson is the county seat of Madison County ,	which is in Indiana .
+(S F1-is )	country	Michigan is in the United states .
+(S F1-is )	largestCity	Detroit is the largest city in Michigan .
+(S F1-is )	country	Orange County is in California , in the United States .
+(S F1-is )	largestCity	Portland is the largest city in Oregon .
+(S F1-is )	largestCity	Fort Worth , Tarrant County is the largest city in Texas .
+(S F1-is )	leader	Barack Obama is the leader of the United States .
+(S F1-located )	location	The United States House of representatives , is located in the United States Capitol .
+(S F1-is )	ingredient	An ingredient of amatriciana sauce is pecorino romano .
+(S F1-is )	ingredient	An important ingredient in arrabbiata sauce is chili pepper .
+(S F1-contains )	ingredient	Arros negre contains white rice as an ingredient .
+(S F1-is )	region	Arros negre is from the region of Catalonia .
+(S F1-comes )	region	Arros negre comes from the region of the Valencian Community .
+(S F1-is )	region	Ayam penyet is a dish from the region of Singapore .
+(S F1-is )	ingredient	Tomato is an ingredient in a BLT .
+(S F1-served )	region	Baked Alaska is served in the region of Hong Kong .
+(S F1-served )	served	Bakewell pudding can be served either warm or cold .
+(S F1-is )	country	Bandeja paisa is a dish from Colombian cuisine .
+(S F1-is )	ingredient	Chicharrón is one of the ingredients in Bandeja paisa .
+(S F1-null )	region	Bandeja paisa originates from the Paisa region .
+(S F1-served )	servingSize	Barny cakes can be served in 30 gram sizes .
+(S F1-are )	dishVariation	Batagor and shumai are variations on the same dish .
+(S (ARG2 F1-consists F2-dumpling ) )	|mainIngredients	A batagor consists of a fried fish	dumpling with tofu and vegetables in peanut sauce .
+(S F1-is )	ingredient	Shrimp is an ingredient in Batchoy .
+(S (ARG2 F1-is F2-found ) )	|region	Beef kway teow is a food	found in Indonesia .
+(S F1-are )	alternativeName	Bhaji and bajji are alternative names for Bhajji .
+(S (ARG2 F1-is F2-found ) )	|	Binignit is an ingredient	found in taro .
+(S (ARGM-MNR F1-varied F2-using ) )	|dishVariation	Bionico can be varied	by using cottage cheese .
+(S F1-found )	region	Bionico is found in the region of Jalisco .
+(S F1-is )	class	Chicken is a type of bird .
+(S F1-is )	currency	The currency of India is the Indian rupee .
+(S F1-is )	leaderName	Sumitra Mahajan is a leader in India .
+(S (ARG2 F1-is F2-spoken ) )	language|	Indonesian language is the language	spoken in Indonesia .
+(S F1-is )	leaderName	Aristoteles Sandoval is a leader of Jalisco .
+(S F1-are )	ethnicGroup	The Banyumasan people are an ethnic group from Java .
+(S F1-is )	ethnicGroup	Malay is the ethnic group of Malaysia .
+(S F1-is )	leaderName	The leader of Mexico is Silvano Aureoles Conejo .
+(S (ARG2 F1-is F2-spoken ) )	language|	Spanish language is one of the languages	spoken in New York .
+(S (ARG2 F1-is F2-comes ) )	country|	China is the country Shumai	comes from .
+(S F1-is )	ingredient	Peanut sauce is an ingredient in Siomay .
+(S F1-are )	ethnicGroup	Malays are an ethnic group of Sumatra .
+(S F1-is )	leaderName	David Cameron is the leader of the United Kingdom .
+(S (AND F1-categorized F1-established ) )	category|established	The 11th Mississippi Infantry Monument is categorized as a Contributing Property	and was established in 2000 .
+(S F1-is )	district	The 14th New Jersey Volunteer Infantry Monument is near Frederick , Maryland in the district of the Monocacy National Battlefield .
+(S (ARG2 (ARG1-of F3-located F1-dedicated ) F2-killed ) )	location||	The Baku Turkish Martyrs Memorial , located in Azerbaijan ,	is dedicated to the Ottoman Army soldiers	killed in the Battle of Baku .
+(S (ARG2 (ARG1-of F3-is F1-dedicated ) F2-killed ) )	nativeName||	The Baku Turkish Martyrs Memorial , which native name is Türk Şehitleri Anıtı ,	has been dedicated to Ottoman Army soldiers	killed in the Battle of Baku .
+(S (ARG2 F1-are F2-located ) )	ethnicGroup|country	African Americans are an ethnic group in the US ,	where Akron , Ohio is located .
+(S (ARG2 F1-is F2-is ) )	isPartOf|capital	Albany is part of Oregon	where Salem is the capital .
+(S F1-is )	leaderTitle	The leader for Albuquerque , New Mexico in the United States is the United States House of Representatives .
+(S F1-is )	isPartOf&&country	Amarillo is part of Texas in the United States .
+(S (ARG2 F1-is F2-led ) )	isPartOf|leaderTitle	California is home to Anaheim ,	which is led by the United States House of Representatives .
+(S F1-is )	isPartOf	Anaheim is in Orange County , California , in the United States .
+(S F1-is )	isPartOf	Anderson is part of Adams Township , Madison County , Indiana , in the United States .
+(S (AND F1-is F1-has ) )	elevationAboveTheSeaLevel|areaTotal	Antioch , California is 13.0 metres above sea level	and has a total area of 75.324 sq km .
+(S (AND F1-located F1-has ) )	elevationAboveTheSeaLevel|areaTotal	Arlington in Texas is located at 184.0 metres above sea level	and has a total area of 258.2 square kilometres .
+(S F1-is )	isPartOf	Arlington is part of Texas , in the U.S.
+(S F1-is )	isPartOf	Atlanta is part of Georgia in the U.S.
+(S F1-is )	isPartOf	Atlantic City is part of Atlantic County , New Jersey , in the United States .
+(S (C-ARG1 F1-is F2-is ) )	country|capital	Atlantic City , New Jersey is in the United States ,	the capital of which is Washington DC .
+(S F1-located )	isPartOf	Atlantic City is located in Atlantic County , New Jersey , United States .
+(S F1-has )	populationDensity	With a total area of 44.125 square kilometres , Atlantic City ( in New Jersey ) , has a population density of 1421.2 inhabitants per square kilometre .
+(S F1-is )	isPartOf	Auburn is part of Pierce County , Washington , United States .
+(S (ARG2 F1-is F2-is ) )	isPartOf|capital	Albany , Oregon is part of the United States ,	where Washington , D.C. is the capital .
+(S (ARG2 F1-is F2-is ) )	country|capital	Amarillo is in Texas , in the United States , the capital of which	is Washington , D.C.
+(S (ARG2 F1-is F2-are ) )	country|ethnicGroup	Albuquerque , New Mexico is in the United States ,	where African Americans are one of the ethnic groups .
+(S (ARG2 F1-are F2-located ) )	ethnicGroup|isPartOf	The Native Americans are an ethnic group within the United States , the country	where Albany , Georgia is located .
+(S (ARGM-LOC F1-located F2-are ) )	country|ethnicGroup	Auburn , Alabama is located in the United States , a country	where one of the ethnic groups are Native Americans .
+(S F1-is )	country	The country of Akron , Ohio , is United States , where English is the language spoken .
+(S (ARG2 F1-is F2-called ) )	|	Albuquerque , New Mexico is in the United States ,	where the leader of the country is called the President of the United States .
+(S-LIST F1-made F2-is )	|	Amatriciana sauce is made with tomatoes .	It is a traditional Italian sauce .
+(S (ARG2 F1-is F2-found ) )	country|leaderName	Arem - arem is a food	found in Indonesia where Jusuf Kalla is the leader .
+(S (ARGM-LOC F1-found F2-spoken ) )	country|language	Arrabbiata sauce can be found in Italy	where the Italian language is spoken .
+(S (ARG2 F1-is F2-is ) )	leaderName|country	Sergio Mattarella is a leader in Italy ,	where Arrabbiata sauce is a traditional dish .
+(S (ARG2 F1-is F2-contains ) )	country|ingredient	Arrabbiata is an Italian sauce	that contains chili pepper .
+(S (AND F1-is F1-comes ) )	country|region	Arros negre is a traditional Spanish dish	and comes from the region of the Valencian Community .
+(S (ARG2 F1-is (ARG2 F2-made F3-cooked ) ) )	country||mainIngredients	A dish popular in Indonesia is asam pedas	which is made from fish	cooked in hot and sour sauce .
+(S (AND F1-is F1-is ) )	country|region	Ayam penyet is from Indonesia	and is a popular dish in Malaysia .
+(S (ARG2 F1-called F2-is ) )	dishVariation_2|dishVariation	A bacon sandwich can be called a BLT	which is a variation of a Club Sandwich .
+(S-LIST F1-is F2-is )	ingredient|mainIngredients	Sausage is an ingredient of a bacon explosion	but the main ingredient is bacon .
+(S (ARG0-of F2-known F1-has ) )	alternativeName|ingredient	A bacon sandwich - which can also be known as a bacon butty , bacon sarnie , rasher sandwich , bacon sanger , piece ' n bacon , bacon cob , bacon barm , or bacon muffin -	has the ingredient bacon .
+(S (ARG2 F1-transformed (ARG1 F2-has F3-found ) ) )	dishVariation||ingredient	A bacon sandwich can be transformed into a BLT	which has	an ingredient widely found called bread .
+(S (AND F1-comes F1-is ) )	country|ingredient	Baked Alaska comes from the country of France	and one of the ingredients is sponge cake .
+(S (ARG2 F1-comes F2-is ) )	country|leaderName	Baked Alaska comes from the country of France	where Manuel Valls is the leader .
+(S F1-is )	ingredient&&country	Meringue is one of the main ingredients of a Baked Alaska , Baked Alaska originates from the United States .
+(S (ARG2 F1-is F2-are ) )	ingredient|dishVariation	Fruit preservatives is an ingredient in bakewell tarts	which are a variant of bakewell pudding .
+(S (ARG2 F1-is F2-comes ) )	ingredient|country	Vermicelli is an ingredient of the dish Bakso	which comes from Indonesia .
+(S (AND F1-is F1-is ) )	family|ingredient	Celery is a member of the Apiaceae family	and is an ingredient of Bakso .
+(S (ARG1-of F2-found F1-is ) )	country|ingredient	An ingredient found in Bandeja paisa ( typical Colombian cuisine )	is Chicharrón .
+(S (ARG2 (ARG1-of F3-come F1-is ) F2-is ) )	country||leaderName	The country Barny Cakes come from	is	France where the leader is Claude Bartolone .
+(S (ARG2 F1-is F2-found ) )	ingredient|country	Peanut sauce is an ingredient of batagor	which is found in Indonesia .
+(S (AND F1-has F1-is ) )	ingredient|dishVariation	Batagor has peanut sauce as an ingredient	and is a variation of the Siomay dish .
+(S (ARG2 F1-is F2-had ) )	country|ingredient	Beef kway teow is a dish from the country of Singapore	that had palm sugar as an ingredient .
+(S (AND F1-is (ARG2 F1-is F2-'s ) ) )	country||	Beef kway teow is a popular dish from Singapore	and Halimah Yacob is it	's leader .
+(S (AND F1-made F1-are ) )	|	The main ingredients in Beef Kway Teow made in Singapore	and Indonesia are kway teow , beef tender loin , gula Melaka , sliced , dried black beans , garlic , dark soy sauce , lengkuas , oyster sauce , soya sauce , chilli and sesame oil .
+(S (ARG3 F1-comes F2-live ) )	country|demonym	Bhajji comes from the country India ,	where Indians live .
+(S (ARG3 F1-come F2-is ) )	|	Bhajji 's come	from India where T.S. Thakur is the leader .
+(S (ARG2 F1-are F2-found ) )	ethnicGroup|country	The Igorot people are one of the ethnic groups in the Philippines	where the binignit dish can be found .
+(S (AND F1-comes F1-has ) )	country|mainIngredients	Binignit comes from the Philippines	and has banana as the main ingredient .
+(S F1-are )	mainIngredients	The main ingredients of binignit are sweet potatoes and banana .
+(S (ARG0-of F2-led F1-boasts ) )	leaderName|country	Mexico ( led by Enrique Pena Nieto )	boasts the dish Bionico .
+(S (AND F1-requires F1-found ) )	ingredient|region	Bionico requires granola as one of its ingredients	and can be found in Guadalajara .
+(S (ARGM-ADV F1-served F2-be ) )	course|dishVariation	Bionico is served at the dessert course ,	as would cake be as a variation .
+(S (ARG2 (ARG1-of F2-is F1-is ) F3-comes ) )	leaderName||	Indonesia , where Joko Widodo is the leader ,	is also where Bakso	comes from .
+(S (ARG1 F1-includes F2-features ) )	dishVariation|ingredient	A variation of Shumai includes Batagor	which features the ingredient Shiitake .
+(S (ARG0-of F2-operated F1-has ) )	|	Aarhus Airport ,	operated by Aarhus Lufthavn A / S , has a runway length of 2777.0 .
+(S F1-is )	location	Adolfo Suarez Madrid - Barajas Airport at Madrid , Paracuellos de Jarama , San Sebastián de los Reyes and Alcobendas is 610 metres above sea level ..
+(S (AND F1-located F1-has ) )	location|runwayLength	Adolfo Suarez Madrid - Barajas Airport is located in Madrid , Paracuellos de Jarama , San Sebastian de los Reyes and Alcobendas	and has a runway length of 3500 .
+(S F1-is )	location	Agra Airport is in Uttar Pradesh , Awadh .
+(S (AND F1-is F1-has ) )	location|runwayLength	The Al Asad Airbase is situated in the Al Anbar Province , Iraq	and has a runway length of 3090.0 .
+(S (ARG2 F1-is F2-speak ) )	location|language	Al Asad Airbase is in Iraq ,	where they speak Arabic .
+(S (AND (ARG1 F1-operates F2-airbase ) F1-fought ) )	operatingOrganisation||battles	The US Air force operates	the Al Asad airbase	and has previously fought in the Invasion of Grenada .
+(S (ARG2 F1-made F2-is ) )	1st_runway_SurfaceType|class	Alderney airport 's first runway is made from Poaceae	which is from the Monocotyledon class .
+(S F1-has )	runwayLength&&1st_runway_SurfaceType	The 1st runway at Alderney airport has an asphalt surface and a length of 877 .
+(S (ARGM-LOC F1-located F2-is ) )	location|leaderName	Allama Iqbal International airport is located	in Pakistan where Anwar Zaheer Jamali is a leader .
+(S (ARGM-PRD-of F2-Located F1-has ) )	location|runwayLength	Located in Punjab Pakistan ,	Allama Iqbal International Airport has a runway length of 2900.0 metres .
+(S (AND F1-is F1-has ) )	elevationAboveTheSeaLevel_(in_metres)|1st_runway_LengthMetre	Amsterdam Airport Schiphol is -3.3528 metres above sea level	and its first runway has a length of 3800 meters .
+(S (AND F1-is F1-made ) )	elevationAboveTheSeaLevel_(in_metres)|1st_runway_SurfaceType	Amsterdam Airport Schiphol is 3.3528 below sea level	and its first runway is made of asphalt ..
+(S (AND F1-serves F1-has ) )	cityServed|runwayLength	Amsterdam Airport Schiphol serves the city of Amsterdam	and has a runway length of 2014.0 .
+(S (AND F1-serves F1-is ) )	cityServed|runwayLength	Amsterdam Airport Schiphol serves Amsterdam	and the runway length is 3300 .
+(S (ARGM-LOC F1-located F2-is ) )	location|largestCity	Andrews County Airport is located in Texas	where Houston is the largest city .
+(S (ARG0 F1-served (ARG1 F2-has F3-is ) ) )	cityServed|runwayLength|	The city of Luanda is served by Angola International Airport	which has a runway	that is 3800 metres long .
+(S (AND F1-made F1-is ) )	3rd_runway_SurfaceType|runwayLength	The 3rd runway at Ardmore Airport ( New Zealand ) is made of Poaceae ,	and its length is 597.0 .
+(S (AND F1-is F1-is ) )	1st_runway_LengthFeet|elevationAboveTheSeaLevel_(in_metres)	The 1st runway at Ashgabat International airport is 12467 feet in length	and the Airport is elevated 211 metres above sea level .
+(S (ARG1-of F2-headquartered F1-is ) )	headquarter|operatingOrganisation	Turkmenistan Airlines , which is headquartered in Turkmenistan ,	is the operating organization for Ashgabat International Airport .
+(S F1-is )	location	Atlantic City International Airport is in Egg Harbor Township , New Jersey , United States .
+(S (ARG2 F1-is F2-operated ) )	runwayName|operatingOrganisation	4/22 is the runway name of Atlantic City International Airport	which is operated by the Port Authority of New York and New Jersey .
+(S F1-operated )	runwayLength&&operatingOrganisation	Atlantic City International Airport , ( runway length 3048.0 ) , is operated by the Port Authority of New York and New Jersey .
+(S (ARG0 F1-operated F2-is ) )	operatingOrganisation|location	Afonso Pena International Airport is operated by Infraero	which is in Brasilia .
+(S (AND F1-has F1-was ) )	numberOfMembers|season	FC Magedburg has 27250 members	and was in Regionalliga in 2014 .
+(S (ARG2 F1-is F2-has ) )	ground|numberOfMembers	Verona , Italy is the home to A.C. Chievo Verona	which has 39371 members .
+(S (ARG1-of F2-managed F1-born ) )	manager|placeOfBirth	Rolando Maran , who has managed AC Chievo Verona ,	was born in Italy .
+(S-LIST F1-manages F2-plays )	manager|club	Jorge Humberto Rodriguez manages A.D. Isidro Metapan .	He plays for FC Dallas .
+(S F1-were )	numberOfMembers&&season	With 1500 members , A.E Dimitra Efxeinoupolis , were in the 2014 - 15 A EPSTH , Greece .
+(S (AND F1-was F1-managed ) )	club|manager	Stuart Parker ( footballer ) was at Blackburn Rovers FC	and has also managed AFC Blackpool .
+(S (AND F1-had F1-attached ) )	manager|club	AFC Blackpool have had Stuart Parker as their manager ,	and he is attached to Irlam Town Football Club .
+(S-LIST F1-found F2-has )	ground|numberOfMembers	The ground of AFC Fylde can be found in the county of Lancashire ,	it has 3180 members .
+(S (AND F1-has F1-has ) )	numberOfMembers|ground	The A.S. Gubbio 1910 has 5300 members	and has a ground in Gubbio .
+(S (AND F1-is F1-plays ) )	ground|league	A.S Livorno Calcio ground is in Livorno	and the club plays in Serie B.
+(S-LIST F1-plays F2-manages )	manager|club	Christian Panucci plays at A.S. Roma .	He also manages A.S. Livorno Calcio .
+(S-LIST F1-is F2-is )	manager|club	The manager of ACF Fiorentina is Paulo Sousa ,	his club is Juventus .
+(S (AND F1-has F1-is ) )	numberOfMembers|fullname	ACF Fiorentina has 47290 members	and their full name is ACF Fiorentina S.p . A.
+(S (AND F1-has F1-is ) )	numberOfMembers|ground	AEK Athens F.C. has 69618 members	and its ground is in Greece .
+(S (ARG1-of F2-are F1-is ) )	league|ground	The ground for AEK Athens FC , who are in the Superleague of Greece	is the Olympic Stadium ( Athens ) .
+(S (ARG2 F1-is F2-is ) )	ground|tenant	AFC Ajax ( amateurs ) 's ground is Sportpark De Toekomst	where the tenant is Jong Ajax .
+(S (ARG2 F1-is F2-located ) )	ground|location	AZAL Arena is the ground of AZAL PFK	which is located in Shuvalan , Baku , Azerbaijan .
+(S F1-play )	season	Akron Summit Assault , 3000 members strong , play in the 2011 PDL season .
+(S (ARG1 F1-has F2-is ) )	ground|region	A.S. Gubbio 1910 has a ground in Gubbio	which is a region of Umbria .
+(S (ARG2 F1-is F2-located ) )	leader|ground	Pietro Grasso is the leader in Italy	where the ground of A.S. Gubbio 1910 is located .
+(S F1-plays )	manager&&club	Luciano Spalletti , manager of AS Roma , plays for Empoli F.C.
+(S (AND F1-written F1-preceded ) )	author|precededBy	1634 : The Bavarian Crisis was written by Eric Flint	and preceded by The Grantville Gazettes .
+(S F1-authored )	author	1634 : The Ram Rebellion , available in ebook is authored by Virginia DeMarce .
+(S (ARG0-of F2-abbreviated F1-had ) )	abbreviation|EISSN_number	AIP Advances ( abbreviated to " AIP Adv . " )	had the EISSN number 2158 .
+(S (AND F1-is F1-written ) )	mediaType|author	A Fortress of Grey Ice is available in print	and was written by J. V. Jones .
+(S (AND F1-has F1-has ) )	numberOfPages|ISBN_number	A Fortress of Grey Ice has 672 pages ,	and has the ISBN number 0 - 7653 - 0633 - 6 .
+(S (ARG1 F1-wrote F2-followed ) )	author|followedBy	John Cowper Powys wrote A Glastonbury Romance ,	which was followed by Weymouth Sands .
+(S (AND F1-published F1-has ) )	mediaType|OCLC_number	A Long Long Way was published in Print & Paperback	and has the OCLC number 57392246 .
+(S (AND F1-has F1-is ) )	numberOfPages|ISBN_number	A Long Long Way has 292 pages	and the ISBN number is 0 - 670 - 03380 - 4 .
+(S (ARG2 F1-is F2-published ) )	parentCompany|publisher	Penguin Random House is the parent company of Viking Press ,	which published A long long way .
+(S (ARG1-of F2-is F1-penned ) )	mediaType|author	A Loyal Character Dancer which is in print ,	was penned by Qiu Xiaolong .
+(S (ARG0-of F2-has F1-has ) )	ISBN_number|OCLC_number	A Severed Wasp which has the ISBN number 0 - 374 - 26131 - 8 ,	also has an OCLC number of 8805735 .
+(S F1-assigned )	OCLC_number	The hardcover A Severed Wasp was assigned the OCLC number 8805735 .
+(S (ARG2 F1-is (ARG2 F2-is F3-spoken ) ) )	language||spokenIn	A Severed Wasp is in the English language	which is the language	spoken in Great Britain .
+(S F1-is )	ISBN_number	A Severed Wasp , ISBN number 0 - 374 - 26131 - 8 , is currently in print .
+(S (AND F1-is F1-is ) )	founder|publisher	Julius Springer is the founder of Springer Science	and Business Media which is the publisher of Abhandlungen aus dem Mathematischen Seminar der Universitat Hamburg .
+(S (AND F1-is F1-has ) )	literaryGenre|ISBN_number	Alcatraz Versus the Evil Librarians is considered Fantasy literature	and has the ISBN number 0 - 439 - 92550 - 9 .
+(S F1-has )	ISBN_number	Alcatraz Versus The Evil Librarians has the OCLC and ISBN numbers 78771100 and 0 - 439 - 92550 - 9 , respectively .
+(S (ARG1 F1-followed F2-authored ) )	followedBy|author	Alcatraz versus the Evil Librarians is followed	by Alcatraz Versus the Scrivener 's Bones authored by Brandon Sanderson .
+(S (ARG0-of F2-abbreviated F1-has ) )	abbreviation|academicDiscipline	The American Journal of Mathematics ( abbreviated to Am . J. Math . )	has the academic discipline of Mathematics .
+(S F1-is )	parentCompany&&publisher	Johns Hopkins University is the parent company of Johns Hopkins University Press , the publisher of the American Journal of Mathematics .
+(S (ARG3 F1-comes F2-is ) )	country|capital	1634 The Ram Rebellion comes from the United States	where the capital is Washington DC .
+(S (ARG2 F1-is F2-is ) )	country|capital	A Fortress of Grey Ice is from the United States	where the capital is in Washington , D.C.
+(S (ARG2 F1-is F2-is ) )	country|ethnicGroup	A Fortress of Grey Ice is from the United States	where one of the ethnic groups is African American .
+(S F1-are )	ethnicGroup	A Wizard of Mars originates from the United States where the African Americans are an ethnic group .
+(S F1-are )	ethnicGroup	A Wizard of Mars originates from the United States where the Asian Americans are an ethnic group .
+(S F1-is )	nickname	The Uab is the nickname of the 1 1918 Decembrie University in the state of Alba .
+(S F1-affiliated )	city&&affiliation	The Acharya Institute of Technology is affiliated with the Visvesvaraya Technological University in the city of Belgaum .
+(S F1-is )	president	B M Reddy is president of the Acharya Institute of Technology in Bangalore .
+(S (ARG0-of F2-located F1-gave ) )	|	The All India Council for Technical Education which is located in Mumbai ,	gave the status of " Technical Campus " to the Acharya Institute of Technology .
+(S F1-located )	leaderName	AWH Engineering College is located in Kerala whose leader is Kochi .
+(S F1-created )	creator	April O'Neil was created by Peter Laird , from the US .
+(S (ARG1-of F2-starring F1-broadcasted ) )	starring|broadcastedBy	Bananaman , starring Jill Shilling ,	is broadcasted by the BBC .
+(S F1-broadcast )	starring	Graeme Garden stars in Bananaman , which is broadcast by STV .
+(S F1-born )	starring	Tim Brooke - Taylor , star of Bananaman was born in Derbyshire .
+(S (ARG1-of F2-starring F1-was ) )	starring|firstAppearanceInFilm	Big Hero 6 , starring Alan Tudyk ,	was Baymax 's first film appearance .
+(S (ARG2 F1-was F2-starred ) )	firstAppearanceInFilm|starring	The first appearance in a film for the character Baymax was Big Hero 6 , the film that Scott Adsit	starred in .
+(S (ARG1-of F2-created F1-is ) )	creator|series	Baymax , created by Steve T. Seagle ,	is a character in Big Hero 6 .
+(S F1-created )	fullName&&creator	The comic book character Ben Urich ( full name , Benjamin Urich ) was created by Roger McKenzie .
+(S F1-created )	creator_2	Bibbo Bibbowski was created by Jerry Ordway and Marv Wolfman .
+(S (ARG1-of F2-called F1-created ) )	fullName|creator	Bibbo Bibbowski , often called Bo Bibbowski ,	was created by Marv Wolfman .
+(S (ARG1-of F2-is F1-born ) )	status|birthDate	Alan Bean , who is now retired ,	was born on March 15th , 1932 .
+(S F1-died )	occupation	Former test pilot Alan Shepard has died .
+(S F1-born )	birthPlace	Buzz Aldrin was born on the 20th January , 1030 in Glen Ridge , New Jersey .
+(S (ARGM-LOC F1-born F2-located ) )	isPartOf|birthPlace	Buzz Aldrin was born	in Glen Ridge , located in the Essex County in New Jersey .
+(S (ARG1 F1-included F2-born ) )	was_a_crew_member_of|birthPlace	The Apollo 8 crew included	the British Hong Kong - born William Anders .
+(S (AND F1-graduated F1-retired ) )	almaMater|status	William Anders graduated , with an M.S. , from AFIT in 1962 ,	and is now retired .
+(S (AND F1-completed F1-has ) )	completionDate|floorCount	108 St Georges Terrace was completed in 1988	and has a floor count of 50 .
+(S (ARG0-of F2-located F1-has ) )	location|floorCount	200 Public Square , located in the United States ,	has 45 floors .
+(S F1-has )	floorArea	20 Fenchurch Street has an area of 62145.3 square metres and 34 floors .
+(S (ARG1 F1-are F2-located ) )	floorCount|location	There are 60 floors at 300 North LaSalle ,	which is located in Chicago .
+(S (AND F1-is F1-is ) )	architect|country	George Winkler is the architect of the 320 South Boston Building	and is from the United States of America .
+(S (ARG2 F1-was F2-located ) )	architect|location	HOK SVE was the architect of 3Arena ,	located on the East Link Bridge .
+(S (ARG1-of F2-designed F1-located ) )	architect|location	The 3Arena , which was designed by the architect company Populous ,	is located in Dublin .
+(S (AND F1-is F1-located ) )	tenant|location	Marriott International is the tenant of AC Hotel Bella Sky	and is located in Copenhagen .
+(S (AND F1-was F1-completed ) )	architect|completionDate	Adare Manor 's architect was George Richard Pain	and it was completed in 1862 .
+(S F1-found )	location_2	Adare Manor is found in Adare , County Limerick .
+(S F1-located )	location	The Addis Ababa City Hall is located in Addis Ababa , Ethiopia .
+(S F1-built )	architecturalStyle&&location	Adisham Hall in Haputale , Sri Lanka is built in the Tudor Revival style .
+(S (AND F1-located F1-has ) )	location|architecturalStyle	Adisham Hall is located in Sri Lanka	and has the architectural style Tudor Revival .
+(S F1-located )	ethnicGroup	Akita Museum of Art is located in Japan , which has as one of its ethnic groups the Brazilians .
+(S (AND F1-located F1-has ) )	address|floorCount	Akita Museum of Art is located at 1 - 4 - 2 Nakadori	and has 3 floors .
+(S F1-is )	address	The address of Amdavad ni Gufa is Lalbhai Dalpatbhai Campus , near CEPT University , opp . Gujarat University , University Road , Gujarat .
+(S (ARG2 F1-is F2-is ) )	state|leaderName	Ampara Hospital is in the Eastern Province , of Sri Lanka	whose leader is Austin Fernando .
+(S F1-located )	location	Asser Levy Public Baths are located in New York City , United States .
+(S (ARGM-LOC F1-located F2-is ) )	|	Asser Levy Public Baths are located	in New York City , of which Brooklyn is a part .
+(S (ARGM-LOC F1-found F2-is ) )	location|isPartOf	Adare Manor can be found in County Limerick ,	which is part of Munster .
+(S (ARG2 F1-is F2-is ) )	location|isPartOf	The 3Arena is in Dublin	which is part of the Republic of Ireland .
+(S F1-born )	birthPlace	American retiree Alan Bean was born in Wheeler , Texas .
+(S (ARGM-LOC F1-born F2-was ) )	|leaderName&&birthPlace	Buzz Aldrin was born	in Glen Ridge , New Jersey , USA ( the leader of which was Joe Biden ) .
+(S (ARG1-of F2-graduated F1-hired ) )	almaMater|	The United States National Buzz Aldrin , who graduated from Massachusetts Institute of Technology , Sc . D. in 1963 ,	was hired by NASA shortly after his graduation .
+(S (AND F1-born F1-graduated ) )	birthPlace|almaMater	Elliot See , a US national , was born in Dallas	and graduated from the University of Texas at Austin .
+(S (AND F1-graduated F1-died ) )	almaMater|deathPlace	Elliot See , who graduated from the University of Texas at Austin	and was chosen by NASA in 1962 , died in St. Louis .
+(S (ARGM-LOC F1-died F2-is ) )	almaMater|leaderName	Elliot See , a past graduate of the University of Texas , Austin , died in St Louis	where the leader is Francis G Slay .
+(S (ARGM-PRD F1-died F2-is ) )	deathPlace|isPartOf	Elliot see died on the 28th of February 1966 in St. Louis ,	which is part of the Kingdom of France .
+(S (AND F1-born F1-spent ) )	bird|timeInSpace	Alan Shepard was born in New Hampshire , the home of the Purple Finch ,	and spent 130170 minutes in space .
+(S (AND F1-null F1-has ) )	mediaType|numberOfPages&&author	Available in print form , ' 1634 : The Bavarian Crisis ' by Virginia DeMarce	and Eric Flint has 448 pages .
+(S (ARG2 F1-is F2-spoken ) )	precededBy|spokenIn	1634 : The Ram Rebellion is the sequel to 1634 : The Galileo Affair	written in English which is spoken in Great Britain .
+(S-LIST F1-is F2-are )	|	Alexander L. Wolf is a leader of the Association for Computing Machinery , headquarters in New York City ,	are the publishers of ACM Transactions on information Systems .
+(S (AND F1-comes F1-has ) )	academicDiscipline&&academicDiscipline_2|ISSN_number	The Aids Journal comes under the academic discipline HIV / AIDS	and has the ISSN number 0269 - 9370 .
+(S F1-is )	academicDiscipline_2	The academic discipline of AIDS journal is HIV ( ISSN number : 1473 - 5571 . ) studies HIV / AIDS .
+(S (AND F1-studied F1-is ) )	editor|residence	A T Charlie Johnson , editor of AIP Advances , studied at Stanford University	and is a resident of the United States .
+(S F1-is )	ISBN_number	J. V. Jones is the author of A Fortress of Grey Ice OCLC 51969173 ISBN 0 - 7653 - 0633 - 6 .
+(S (AND F1-written F1-has ) )	author|ISBN_number	A Loyal Character Dancer was written by Qiu Xiaolong	and has the OCLC number 49805501 and the ISBN number 1 - 56947 - 301 - 3 .
+(S (AND F1-written F1-published ) )	language|publisher	A Loyal Character Dancer is written in English	and published by Soho Press in the United States .
+(S (ARGM-MNR F1-written (ARG2 F2-is F3-spoken ) ) )	country|language|spokenIn	A Severed Wasp ( from the United States ) is written in English ,	which is the language	spoken in Great Britain .
+(S F1-has )	numberOfPages	The hardback book , A Severed Wasp , has 388 pages and the OCLC number 8805735 .
+(S (ARG0-of F2-abreviated F1-has ) )	|	The Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg ( abreviated Abh . Math . Semin . Univ . Hambg )	has an ISSN of 1865 - 8784 and a LCCN number 32024459 .
+(S (ARG1 (ARG2-of F2-written F1-followed ) F3-is ) )	language|followedBy|country	The novel Aenir , which was written in English ,	was followed by Above the Veil	which is from Australia .
+(S (AND F1-written F1-preceded ) )	followedBy|	Above the Veil is written in English by Garth Nix	and was preceded by Aenir .
+(S (AND (ARGM-LOC-of F2-is F1-has ) F1-written ) )	mediaType|numberOfPages|author	Above the Veil	is available in hardcover , has 248 pages	and was written by Garth Nix .
+(S (ARG0-of F2-is F1-has ) )	abbreviation|ISSN_number	Acta Palaeontologica Polonica , whose abbreviated name is Acta Palaeontol . Pol . ,	has the LCCN number of 60040714 and the ISSN number of 0567 - 7920 .
+(S (AND F1-is F1-has ) )	academicDiscipline|ISSN_number	Addiction journal , or Addiction , is about addiction	and has the ISSN number of 1360 - 0443 .
+(S (ARG0 F1-published F2-has ) )	ISSN_number&&publisher|parentCompany	The journal Addiction ( ISSN number 0965 - 2140 ) is published by Wiley - Blackwell ,	which has the parent company John Wiley & Sons .
+(S-LIST F1-located (AND F2-affiliated F1-is ) )	state|affiliation|publisher	Cornell University is located in the state of New York .	It is affiliated with the Association of American Universities	and is the publisher of Administrative Science Quarterly .
+(S-LIST F1-written F2-is )	author|followedBy	Aenir is written in English by Garth Nix ,	the followed book is Above the Veil .
+(S (ARG2 F1-is F2-written ) )	|language&&spokenIn	Alcatraz Versus the Evil Librarians is a book from the USA ,	written in English , the language of Great Britain .
+(S-LIST (AND F1-published F2-has ) F1-is )	mediaType|numberOfPages|OCLC_number	Alcatraz Versus the Evil Librarians is published in Hardcover	and has 320 pages .	The OCLC number is 78771100 .
+(S (AND (ARG2 F1-is F2-spoken ) F1-comes ) )	language|spokenIn|country	English is the language	spoken in both Great Britain	and the United States . The book Alcatraz Versus the Evil Librarians comes from the U.S.
+(S (AND (ARG2 F1-was F2-born ) F1-died ) )	author|birthPlace|deathPlace	The author of A Glastonbury Romance was John Cowper Powys ,	who was born in Shirley , Derbyshire	and died in Blaenau Ffestiniog .
+(S (ARG2 F1-is (ARG1 F2-publishes F3-has ) ) )	founder|publisher|ISSN_number	Sara Miller McCune is the founder of SAGE publications	which publishes the Administrative Science Quarterly	which has the ISSN number of 0001 - 8392 .
+(S (AND (ARG2 F1-is F2-is ) F1-counts ) )	|capital|	A Severed Wasp is from the United States ,	whose capital is Washington D.C. ,	and which counts Native Americans among its ethnic groups .
+(S (AND F1-published F1-is ) )	language|ethnicGroup&&country	A Wizard of Mars is published in English	and originates from the United States , where one of the ethnic groups is African American .
+(S (AND F1-is F1-Published ) )	capital&&ethnicGroup|	The capital city of the United States is Washington D.C. Some Asian Americans live in the United States	and A Wizard of Mars was Published there .
+(S-LIST (ARG2 F1-are F3-is ) F2-is )	ethnicGroup|leaderName|country	Asian Americans are one of the ethnic groups in the United States	where Barack Obama is the leader .	It is also the country where ' A Wizard of Mars ' originates from .
+(S (AND (ARG3 F1-comes F2-known ) F1-are ) )	||ethnicGroup	1634 The Ram Rebellion comes from the United States	where the leader is known as the President	and one of the ethnic groups are the African Americans .
+(S-LIST (ARG2 F1-is (ARG2 F2-is F4-is ) ) F3-are )	leaderTitle|||ethnicGroup	The President is the leader of the United States ,	which is where A Fortress of Grey Ice	is from .	Additionally , Native Americans are an ethnic Group in the U.S.
+(S-LIST F1-plays (AND F2-was F1-managed ) )	club_2||	Jens Hartel currently plays for SV Germania Schoneiche ,	his first club was FC Lokomotive Leipzig	and he has managed 1 FC Magdeburg .
+(S (AND F1-plays F1-was ) )	manager&&club_2|club	Massimo Drago has been the manager of A C Cesena , plays for ASD SS Nola 1925	and was also at the club ASD Licita 1931 .
+(S (AND (ARG2 F1-is F2-play ) F1-have ) )	fullname|league|numberOfMembers	The " Associazione Calcio Lumezzane SpA " is the full name of A.C. Lumezzane	who play in Lega Pro / A	and have 4150 members .
+(S F1-is )	manager&&club_2	Jorge Humberto Rodriguez is not only the manager of A. D. Isidro Metapan , but also plays for Alianza F.C. as well as the El Salvador national football team .
+(S (AND (ARG1-of F2-has F1-chaired ) F1-located ) )	||ground	A.E. Dimitra Efxeinoupolis	has 1500 members , is chaired by Antonis Milionis ,	and is located in the town of Efxeinoupoli .
+(S-LIST F1-is (AND F2-located F1-have ) )	fullname|ground|numberOfMembers	The full name of AFC Blackpool is Association Football Club Blackpool .	Their ground is located in Blackpool	and they have 1500 members .
+(S-LIST F1-had (AND F2-is F1-was ) )	manager||	AFC Blackpool have had Stuart Parker as their manager .	He is a member of the Chesterfield F.C.	and was previously a player for Runcorn FC Halton .
+(S (AND F1-manages F1-is ) )	manager|club	Dave Challinor manages A.F.C. Fylde	and plays at the Stockport County F.C. He is also at Colwyn Bay FC .
+(S-LIST F1-is (AND F2-is F1-have ) )	fullname|ground|numberOfMembers	The full name of A.S. Livorno Calcio is Livorno Calcio S.p . A. ,	their ground is in Livorno , Italy	and they have 19238 members .
+(S (AND F1-play F1-managed ) )	champions|manager	AS Livorno Calcio play in Serie B ( previous champions : Carpi FC 1909 )	and are managed by Christian Panucci .
+(S-LIST (AND F1-played F1-attached ) F2-manages )	manager|club_2|club	Christian Panucci has played for Chelsea FC	and was attached to the Real Madrid CF club .	He now manages AS Livorno Calcio , .
+(S-LIST (ARG1-of (ARG1-of F4-'s F2-are ) F1-is ) F3-are )	ground||league|champions	AEK Athens F.C. ( who 's grounds	are in Athens )	is in the Superleague of Greece .	Olympiacos FC are previous champions of the Superleague Greece .
+(S-LIST (AND F1-played F1-was ) F2-is )	club_2|manager|club	Gus Poyet played for Chelsea F.C.	and was the manager for AEK Athens FC	but he is now in the Real Zaragoza club .
+(S-LIST F1-found (AND F2-is F1-is ) )	ground|part|leader	The ground of AFC Ajax ( amateurs ) can be found in Amsterdam .	Amsterdam - Centrum is part of the city	and its leader is Eberhard van der Laan .
+(S-LIST (ARG2 F2-is F3-is ) F1-is )	part|leader|ground	Amsterdam Noord is part of	Amsterdam whose leader is Eberhard van der Laan .	The city is the location of the homeground of AFC Ajax ( amateurs ) .
+(S (AND F1-manages F1-plays ) )	manager|club	John van den Brom manages the AZ Alkmaar	and is in the Jong Ajax club . He currently plays for Istanbulspor A.S.
+(S-LIST F2-based F1-known )	league|ground	Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league based in Brazil .	Their ground is known as Estádio Municipal Coaracy da Mata Fonseca .
+(S (ARG2 F1-is F2-plays ) )	manager|club	The manager of A.S. Roma is Luciano Spalletti	who used to play for Udinese Calcio but now plays for Empoli FC .
+(S (AND (ARG0-of F2-was F1-manages ) F1-plays ) )	manager|club_2|club	Massimo Drago	was at the club ASD Licita 1931 but currently manages A.C. Cesena	and plays for S.S. Chieti Calcio .
+(S (AND F1-been F1-plays ) )	manager|club_2	Massimo Drago has been the manager of A C Cesena	and played for A.S.D. S.S. Nola 1925 . He currently plays for U.S Castrovillari Calcio .
+(S F1-plays )	manager&&club_2	Massimo Drago has been the manager of A C Cesena but currently plays for US Castrovillari Calcio and SS Chieti Calcio .
+(S (ARG0 F1-designed F2-born ) )	location|birthPlace	103 Colmore Row was designed by John Madin	who was born in Birmingham .
+(S (ARGM-LOC F1-located F2-led ) )	isPartOf|leaderName	200 Public Square is located in Cleveland , part of Cuyahoga County , Ohio	which is led by Frank G Jackson .
+(S (ARG1 F1-has F2-cover ) )	location|floorArea	250 Delaware Avenue in the United States has 12 floors	that cover 30843.8 square metres .
+(S (ARGM-LOC F1-located F2-is ) )	isPartOf|leaderName	300 North LaSalle is located in Chicago , DuPage County in Illinois ,	where Rahm Emanuel is the leader .
+(S F1-is )	architect	George Winkler , United States , is the architect of the 22 floor 320 South Boston Building .
+(S (AND (ARG2 F1-was F2-completed ) F1-located ) )	architect|completionDate|location	HOK SVE was the architect of the 3Arena	which was completed in December 2008	and located on North Wall Quay .
+(S (AND F1-has F1-is ) )	floorCount|tenant	AC Hotel Bella Sky Copenhagen has 23 floors	and is located in Denmark . The tenant is Marriott International .
+(S (AND F1-has F1-is ) )	floorCount|tenant	The tenant of the AC Hotel Bella Sky Copenhagen , which has 23 floors	and was designed by 3XN , is the Marriott International .
+(S-LIST (ARG1-of F3-born F1-is ) F2-is )	||significantBuilding	Augustus Pugin who was born in Bloomsbury	is the architect of Adare Manor .	Another of his significant buildings is the Palace of Westminster .
+(S-LIST (AND F1-designed F2-finished ) F1-owned )	architect|completionDate|owner	Adare Manor was designed by architect Philip Charles Hardwick	and construction finished in 1862 .	The Manor is owned by J P McManus .
+(S (AND (AND F1-located F1-completed ) F1-null ) )	location|architecturalStyle|completionDate	Adisham Hall is located in Haputale	and was completed in the Tudor	and Jacobean style in 1931 .
+(S (AND (ARG1-of F2-finished F1-located ) (ARG1 F1-has F2-known ) ) )	completionDate|location||architecturalStyle	Adisham Hall , which was finished in 1931 ,	is located in Sri Lanka	and has	an architectural style known as Tudor and Jacabian .
+(S (ARGM-LOC F1-located F2-is ) )	|leaderName&&country	Adisham Hall is located	in Haputale , Sri Lanka where the leader is Ranil Wickremesinghe .
+(S (ARG2 (ARG2 F1-is F2-is ) F3-located ) )	capital|currency|country	Sri Jayawardenepura Kotte is the capital of Sri Lanka ,	whose currency is the rupee Adisham Hall	is located in Sri Lanka .
+(S (AND F1-started F1-has ) )	buildingStartDate|currentTenants	Alan B. Miller Hall was started on March 30,2007	and has The Mason School of Business in the U.S. as a tenant .
+(S (AND F1-born F1-is ) )	|significantBuilding	Julia Morgan was born in San Francisco	and is the architect of the grounds of Asilomar Conference at the Riverside Art Museum .
+(S (AND (ARG1-of F2-born F1-is ) F1-designed ) )	|significantBuilding|	Julia Morgan who was born in California ,	is the architect behind Chinatown in San Francisco	and designed the Asilomar Conference Grounds .
+(S (AND (ARG1-of F2-located F1-added ) F1-has ) )	location|added_to_the_National_Register_of_Historic_Places|ReferenceNumber_in_the_National_Register_of_Historic_Places	Asilomar Conference Grounds , located at Asilomar Blvd . , Pacific Grove , California ,	was added to the National Register of Historis Places February 27 , 1987	and has the reference number 87000823 .
+(S-LIST F2-built F1-added )	location|added_to_the_National_Register_of_Historic_Places	Asser Levy Public Baths were built in 1904 at Avenue A , Manhattan .	They were added to the National Register of Historic Places on " 1980 - 04 - 23 " .
+(S (AND F1-built F1-added ) )	yearOfConstruction|added_to_the_National_Register_of_Historic_Places	The Asser Levy Public Baths was built in 1904	and are in New York City . They were added to the National Register of Historic Places on " 1980 - 04 - 23 " .
+(S-LIST F2-is (ARG2 F1-is (ARG2 F3-was F4-designed ) ) )	leaderName|||	The leader of Birmingham is the Conservative Party ( UK ) ,	this city is the home town of John Madin	who was the architect	that designed 103 Colmore Row .
+(S (AND F1-led (ARG2 F1-is F2-designed ) ) )	leaderName|architect|birthPlace	Birmingham is led by the Liberal Democrats	and is the birthplace of the architect John Madin	who designed 103 Colmore Row .
+(S (AND F1-is (ARGM-LOC F1-located F2-located ) ) )	leaderName||	The leader of Ethiopia is Hailemariam Desalegn	and Addis Ababa City Hall is located	in Addis Ababa located in Ethiopia .
+(S F1-is )	location_2	Anandiben Patel is the leader of Gujarat , the location of Amdavad ni Gufa in Ahmedabad .
+(S (AND (ARG2 F1-is F2-based ) F1-is ) )	|location|	Bill Marriott is one of the key people at the Marriott International	based in Bethesda , Maryland	and which is a tenant of AC Hotel Bella Sky Copenhagen .
+(S (AND F1-is F1-are ) )	isPartOf|ethnicGroup	Albany , Georgia is in Dougherty County	and Asian Americans are an ethnic group in the United States .
+(S (AND F1-has F1-is ) )	populationDensity|areaTotal&&leaderTitle	Albuquerque , New Mexico , has a population density of 1142,3 inhabitants per square kilometre	and a total area of 490.9 sq . km . The New Mexico Senate is the political party in Albuquerque .
+(S-LIST F1-is F2-called )	isPartOf&&country|ethnicGroup	Alpharetta is part of Fulton County , Georgia in the United States . The	US is home to an ethnic group called African Americans .
+(S (ARGM-LOC F1-found (ARG2 F2-is F3-called ) ) )	country||	Alpharetta can be found in Georgia in the United States , the country	that is home to an ethnic group	called Asian Americans .
+(S (AND (ARG2 F1-is F2-is ) F1-is ) )	country|capital|ethnicGroup	Alpharetta , Georgia , is in the United States ,	where the capital is Washington DC	and where one of the ethnic groups is Asian Americans .
+(S (AND (ARG1 F1-has F2-are ) F1-is ) )	UTCOffset|areaCode|areaTotal	Anaheim , California has	a UTC offset of - 7,its area codes are 657 and 714	and its total area is 131.6 sq km .
+(S (ARG0 F1-led F2-located ) )	isPartOf|leaderTitle	Anaheim , part of California , is led	by the California State Senate located at the California State Capitol .
+(S (ARG2 F1-is F2-located ) )	isPartOf|country	Anderson is part of Lafayette Township , Madison County ,	which is located in Indiana , United States .
+(S (ARG2 F1-is F2-is ) )	|ethnicGroup	Angola is in Pleasant Township	which is part of Steuben County , Indiana in the U.S. Asian Americans are an ethnic group in the U.S.
+(S-LIST (ARG2 F1-is F2-located ) F3-is )	isPartOf|isPartOf_2|leaderTitle	Antioch is part of Contra Costa County ,	located in the San Francisco Bay area of California .	The leader of Antioch is the United States House of Representatives .
+(S (ARGM-LOC F1-located F2-is ) )	|countySeat&&isPartOf	Arlington is located	in Tarrant County , Texas whose county seat is Fort Worth in the United States .
+(S (ARG2 F1-is F2-is ) )	country|ethnicGroup	Atlanta is in the United States	whose capital is Washington , D.C. Asian Americans are an ethnic group in the U.S.
+(S (AND F1-has F1-is ) )	populationDensity|areaTotal	Atlanta(area code:404 ) has a population density of 1299 inhabitants per square kilometre	and its total area is 347.1(square kilometres ) .
+(S (C-ARG1 F1-is F2-is ) )	country|largestCity	Atlantic City , New Jersey is in the United States .	The largest city in New Jersey is Newark .
+(S (ARG2 F1-is F2-is ) )	isPartOf|largestCity	Atlantic City , New Jersey is in Atlantic County , New Jersey U.S.	where New York is the largest City .
+(S F1-is )	isPartOf	Auburn is part of Lee County , Alabama in the U.S.
+(S (ARG2 F1-is F2-has ) )	isPartOf&&country|capital	Auburn is part of Washington State in the United States	which has the capital of Washington DC .
+(S-LIST F1-is F2-is )	country|isPartOf	Olympia is the state capital of Washington in the United States .	Auburn is also part of Washington state .
+(S (AND F1-is F1-is ) )	isPartOf&&isPartOf_2|capital	Albany is part of Dougherty County in Georgia	and the state 's capital is Atlanta .
+(S-LIST F1-is F2-is )	isPartOf&&country|largestCity	Alexandria , Indiana is part of Madison County Indiana in the United States .	The largest city in Madison County is Anderson .
+(S F1-is )	capital	Atlantic City is part of New Jersey in the U.S. The capital of New Jersey is Trenton .
+(S (AND (ARG2 F1-is F2-is ) F1-spoken ) )	isPartOf|largestCity|language	Arlington is part of Texas	where Houston is the largest city	and English is spoken .
+(S (ARG1-of F2-has F1-is ) )	capital&&country|isPartOf	The United States , which has the capital city of Washington DC ,	is also the location of Attica , part of Fountain County in Indiana .
+(S F1-is )	capital&&isPartOf	Attica , Indiana is in Fountain County , Indiana in the U.S. Washington , D.C. is the capital of the U.S.
+(S (AND (ARGM-LOC F1-located F2-is ) F1-spoken ) )	||language	Akron , Ohio is located	in the United States ; where Washington , D.C. is the capital ,	and where English is spoken .
+(S F1-is )	ethnicGroup	Akron is in Summit County , Ohio in the U.S. Asian Americans are an ethnic group in the U.S.
+(S (ARG2 F1-is F2-are ) )	isPartOf|ethnicGroup	Albany is part of Benton County in Oregon within	the United States where Asian Americans are an ethnic group .
+(S (AND (ARG2 F1-is F2-located ) F1-are ) )	leader|country|ethnicGroup	Barack Obama is the leader of the United States	where Albuquerque , New Mexico is located	and Asian Americans are an ethnic group .
+(S (AND (ARG0-of F2-includes F1-uses ) F1-is ) )	country|ethnicGroup|language	The United States	includes the African Americans ethnic group , uses the English language	and is the location of Albany , Georgia .
+(S (AND (ARGM-LOC F1-located F2-spoken ) F1-are ) )	country|language|ethnicGroup	Angola , Indiana is located in the United States	where the English language is spoken	and the Native Americans are an ethnic group .
+(S (AND (R-ARG0-of F2-Operated F1-has ) F1-null ) )	operatingOrganisation|runwayLength|runwayName	Operated by Aarhus Lufthavn A / S ,	Aarhus Airport has a runway length of 2776.0 metres	and a runway name 10R/28L.
+(S (AND F1-serves F1-is ) )	|runwayLength&&cityServed_2	Adirondack regional airport serves both Lake Placid	and Saranac Lake , New York . The length of the runway at Asirondack regional airport is 2003 .
+(S (ARG2 F1-is F2-located ) )	location|isPartOf	Adolfo Suarez Madrid - Barajas Airport is in Paracuellos de Jarama ,	which is located in the community of Madrid , Spain .
+(S (AND F1-located F1-operated ) )	ICAO_Location_Identifier&&location|operatingOrganisation	Agra Airport ( ICAO Location Identifier - VIAG ) is located in Uttar Pradesh	and operated by the Indian Air Force .
+(S (AND (ARGM-ADV-of F2-Operated F1-is ) F1-has ) )	operatingOrganisation|location|runwayLength	Operated by the United States Air Force ,	Al Asad Airbase is in Iraq	and has a runway length of 3992.88 metres .
+(S (AND (ARG0 F1-operated F2-carried ) (ARG1 F1-uses F2-called ) ) )	operatingOrganisation|battles||aircraftFighter	Al Asad Airbase is operated by the United States Air Force	which carried out the 1986 United States bombing of Libya	and which uses	an aircraft fighter called the McDonnell Douglas F-15 Eagle .
+(S (AND (ARG2 F1-is F2-operated ) F1-used ) )	aircraftFighter|operatingOrganisation|battles	The McDonnell Douglas F-15 Eagle is an aircraft fighter in the United States Air Force	operated Al Asad Airbase	and was used during the Invasion of Grenada .
+(S-LIST (ARG0-of F2-is F1-serves ) F3-is )	runwayLength|cityServed|1st_runway_SurfaceType	Alderney Airport , whose runway is 877 m ,	serves the city of Alderney .	Its surface is poaceae .
+(S (ARG0 (ARG1-of F3-located F1-operated ) F2-headquartered ) )	||	Allama Iqbal International airport located in Pakistan	is operated	by the Pakistan Civil Aviation Authority headquartered at Jinnah International Airport .
+(S (ARG1 F1-has F2-known ) )	location|runwayLength&&runwayName	Allama Iqbal International Airport in Punjab , Pakistan has	a runway known as 18L/36R with a length of 2900.0 .
+(S F1-located )	location	With an elevation of 210 metres above sea level , Alpena County Regional Airport is located in Maple Ridge Township , Alpena County , Michigan , in the United States .
+(S (AND F1-located F1-is ) )	location|	The runway length at Andrews County airport ( located in Texas	and 973.0 above sea level ) , is 1773.0 .
+(S (AND F1-located F1-is ) )	runwayLength&&location|elevationAboveTheSeaLevel_(in_metres)	The runway length of Andrews County Airport ( located in Texas	and 973.0 above sea level ) is 896 .
+(S (AND F1-located (TOK (ARG1 F1-is F2-spoken ) F1-is ) ) )	|||	Andrews County Airport is located in Texas , Austin	and	the language spoken in Texas	is English .
+(S-LIST (AND F1-located F2-is ) F1-located )	country|demonym|location	Texas is located in the United States ,	and its demonym is Tejano .	The Andrews County airport is located in Texas .
+(S (AND (ARG2 F1-serves F2-is ) F1-is ) )	cityServed|country|language	Antwerp International Airport serves the city	of Antwerp which is in Belgium	and one of the spoken languages is German .
+(S F1-located )	isPartOf&&location	Atlantic City International Airport is located at Egg Harbor Township , New Jersey , part of Atlantic County , New Jersey , in the United States .
+(S (AND F1-headquartered F1-operates ) )	headquarter|operatingOrganisation	The Port Authority of New York and New Jersey is headquartered in the Four World Trade Center	and serves New Jersey . It operates the Atlantic City International Airport .
+(S F1-is )	runwayLength&&location	Atlantic City International Airport is in Egg Harbor Township , New Jersey , United States . Its runway length is 3048.0 .
+(S-LIST F1-located F2-is )	country|leaderName	Allama Iqbal International airport is located in Lahore , Pakistan .	The leader of the country is Anwar Zaheer Jamali .
+(S (AND F1-is F1-is ) )	isPartOf|	The leader party in Madrid ( which is part of the community of Madrid	and has the Adolfo Suarez Madrid - Barajas Airport ) is Ahora Madrid .
+(S (ARG1-of F2-located F1-called ) )	leaderParty|	The leader party in Madrid Spain ( in which the Adolfo Suarez Madrid - Barajas Airport is located ) ,	is called Ahora Madrid .
+(S (ARG2 F1-is F2-is ) )	location|leaderParty	The Adolfo Suárez Madrid – Barajas Airport is in San Sebastián de los Reyes ( Spain ) ,	where the lead party is the People 's Party .
+(S F1-is )	location&&country	The United States 11th Mississippi Infantry Monument 's location is Adams County , Pennsylvania , northwest of Carroll County Maryland .
+(S (ARGM-LOC F1-located F2-has ) )	location|has_to_its_southeast	The 11th Mississippi Infantry Monument is located in Gettysburg , Pennsylvania , in Adams County ,	which has Carroll County , Maryland to its southeast .
+(S (ARG1-of F2-known F1-located ) )	nativeName|capital	The Baku Turkish Martyrs ' Memorial , known locally as Türk Şehitleri Anıtı ,	is located in Baku , the capital city of Azerbaijan .
+(S (AND (ARG2 F1-is F2-is ) F1-based ) )	location|leader|legislature	The Baku Turkish Martyrs ' Memorial is located in Azerbaijan ,	where the leader is Artur Rasizade ,	and legislature is based in the National Assembly .
+(S (AND (ARGM-LOC F1-found F2-is ) F1-is ) )	location|capital|leaderName	The Ataturk Monument ( Izmir ) can be found in Turkey ,	where the capital is Ankara	and leader is Ahmet Davutoglu .
+(S (ARG2 F1-is (ARG2 F2-used (ARG2 F3-is F4-comes ) ) ) )	ingredient|||region	Guanciale is an ingredient	used in the preparation of Amatriciana sauce	which is a traditional Italian sauce ,	that comes from the region of Lazio .
+(S (ARG1 F1-has (ARGM-MNR F2-cooked F3-minced ) ) )	region|ingredient|mainIngredients	A dish of Javanese cuisine , Arem arem has compressed	rice cooked in banana leaf	with vegetables or minced meat fillings .
+(S (ARG2 (ARG1-of (ARGM-TMP F2-used F3-making ) F1-is ) F4-flowering ) )	ingredient|||division	Tomato , used	when making Arrabbiata sauce ,	is part of the	flowering plant division and the Solanaceae family .
+(S-LIST (ARG2 F2-is F4-is ) (ARG1 F1-includes F3-used ) )	region|||ingredient	Rome , Italy is where the sauce called arrabbiata	is from ,	it includes	olive oil as an ingredient used in it 's preparation .
+(S (ARGM-LOC F1-found F2-is ) )	|region	Tomatoes are found in Arrabbiata sauce ,	which is a dish from Rome in Italy .
+(S (AND (AND F1-cooked F1-called ) F1-found ) )	mainIngredients|country|region	Fish cooked in hot	and sour sauce is called asam pedas	and can be found in the Malay Peninsula region of Malaysia .
+(S (AND (ARG2 F1-is (ARGM-LOC F2-found F3-is ) ) F1-is ) )	|country|capital|leaderName	Asam pedas is a food	found in Malaysia ,	where the capital is Kuala Lumpur ,	and Arifin Zakaria is the leader .
+(S-LIST F1-is F2-is )	region|ethnicGroup	From Indonesia , Ayam penyet , is a popular dish in Malaysia .	Malaysian Chinese is an ethnic group from Malaysia .
+(S-LIST F1-has F2-is )	|dishVariation_2	A variation on the club sandwich , BLT , has lettuce as an ingredient .	A variation of the BLT is a bacon sandwich .
+(S (AND (ARG2 F1-come F2-is ) F1-are ) )	country|leaderName|ethnicGroup	Bacon Explosion come from the United States	where Barack Obama is the leader	and white Americans are an ethnic group .
+(S (AND F1-is F1-is ) )	leaderName&&country|capital	Bacon Explosion originates in the United States , where John Roberts is a leader	and the capital is Washington DC .
+(S (ARG2 F1-are F2-has ) )	dishVariation&&dishVariation_2|ingredient	The BLT and bacon sandwich are variations of a club sandwich	which has bread as an ingredient .
+(S (ARG2 F1-is F2-comes ) )	ingredient|region	Sponge cake is one of the ingredients of Baked	Alaska which comes from the region of New York and France .
+(S (AND (ARG2 F1-is F2-is ) (TOK (ARG1 F1-is F2-baked ) F1-is ) ) )	leaderName|currency|||	The leader of France is Manuel Valls	where the Euro is the currency	and	the dish baked Alaska	is from .
+(S (AND (ARG2 F1-is F2-contains ) F1-comes ) )	country|ingredient|region	Baked Alaska is a dish	found in the USA which contains christmas pudding	and comes from New York .
+(S-LIST (ARG2 F1-is F3-is ) F2-is )	ingredient||	Sponge cake is an ingredient of Baked Alaska	which is a dessert .	Another type of dessert is a cookie .
+(S (AND F1-are F1-is ) )	mainIngredients|region	Bakewell pudding 's main ingredients are almond , jam , butter	and eggs . It is a dessert from the Derbyshire Dales region .
+(S-LIST (ARG2 F2-is F3-originates ) F1-are )	dishVariation|region|mainIngredients	Bakewell tart is a variation of Bakewell pudding	which originates from the Derbyshire Dales .	Some main ingredients in Bakewell pudding are ground almonds , jam , butter and eggs .
+(S (AND F1-is F1-found ) )	ingredient|region	Beef is an ingredient of Bakso which comes from	and is found in Indonesia .
+(S-LIST F1-is F2-is )	region&&country|ingredient	Part of Colombian cuisine , Bandeja paisa is a traditional dish from the Paisa region .	One of the main ingredients in this dish is avocado .
+(S (AND F1-is F1-is ) )	region|ingredient&&country	Bandeja paisa is a traditional dish from the Paisa region	and part of Colombian cuisine . Hogao is an ingredient of Bandeja paisa .
+(S (ARG3 F1-come F2-are ) )	|leaderName&&leaderName_2	Barny Cakes come	from France where two of the leaders are Claude Bartolone and Manuel Valls .
+(S (R-ARG0-of F2-Eaten F1-has ) )	country|mainIngredients	Eaten in the Philippines ,	batchoy has the main ingredients , noodles , pork organs , vegetables , chicken , shrimp , and beef .
+(S (AND F1-are F1-eaten ) )	mainIngredients|country	The main ingredients of batchoy are noodles , pork organs , vegetables , chicken , shrimp ,	and beef . It is eaten in the Philippines .
+(S (ARG2 (ARG2 F1-is F3-is ) F2-is ) )	leaderName|country|region	Tony Tan is a leader in Singapore , where Beef kway teow	is from The dish	is popular nationwide in Singapore and Indonesia .
+(S (AND F1-null F1-is ) )	region|ingredient	An ingredient in beef kway teow , from the Singapore region	and popular in Indonesia , is sesame oil .
+(S (AND F1-null F1-is ) )	region|ingredient	Beef kway teow originates from Singapore	and is also made in Indonesia . One of the ingredients in the dish is oyster sauce .
+(S (AND (ARGM-ADV F1-comes F2-is ) F1-is ) )	country|leaderName|currency	Bhajji comes from the country India ,	which leader is Sumitra Mahajan	and its currency is the Indian rupee .
+(S-LIST (ARG2 F1-is F3-is ) F2-is )	ingredient||	Banana is an ingredient in binignit	which is a dessert .	A cookie is also a dessert .
+(S-LIST F1-is F2-is )	ingredient|course	Binignit is a type of dessert with the ingredient sago ,	a cookie is also a dessert .
+(S-LIST (ARG2 F1-is F3-is ) F2-is )	ingredient||	Taro is an ingredient in Binignit	which is a dessert .	Similarly , a cookie is a dessert .
+(S F1-are )	mainIngredients	Sweet potato , from the Solanales order of plants , and banana are two of the key ingredients in Binignit .
+(S (R-ARG1-of F2-Found F1-served ) )	country|course	Found in Mexico ,	the food , Bionico ( with granola as an ingredient ) , is served at the dessert course .
+(S (ARG2 F1-is F2-contains ) )	|country	Bionico is a food	which contains raisins from Guadalajara , Mexico .
+(S (AND (ARG2 F1-is F2-is ) F1-found ) )	leaderName|currency|country	Silvano Aureoles Conejo is the leader in Mexico . The country	where the currency is the peso	and where the food Bionico is found .
+(S (AND (ARG2 F1-comes F2-has ) F1-led ) )	country|capital|leaderName	Amatriciana sauce comes from Italy	which has the capital city of Rome	and is led by Pietro Grasso .
+(S (AND (ARG2 F1-is F2-spoken ) F1-is ) )	country|language|ethnicGroup	Batchoy is a dish from the Philippines ,	where Arabic is spoken	and where one of the ethnic groups is the Igorot people .
+(S (AND (ARG2 F1-is F2-spoken ) F1-is ) )	leaderName|language|country	The leader of Singapore is Tony Tan	where English is spoken	and beef kway teow is a popular dish .
+(S (AND F1-are F1-are ) )	family|order	Tomatoes which are part of the solanaceae family	and solanales order are a key ingredient in Amatriciana sauce .
+(S (AND F1-located F1-has ) )	country|academicStaffSize	AWH Engineering College is located in Kerala , India	and it has 250 academic staff .
+(S-LIST F1-is (AND F2-has F1-affiliated ) )	city|numberOfPostgraduateStudents|affiliation	The Acharya Institute of Technology is in Bangalore .	It has 700 postgraduate students	and is affiliated with the Visvesvaraya Technological University .
+(S-LIST F2-located F1-is )	state|leaderName	AWH Engineering College is located in Kerala .	The leader of Kerala is Kochi . To the northwest of Kerala is Mahe , India .
+(S-LIST (AND F1-is F2-is ) F1-called )	ethnicGroup|country|anthem	Romania 's ethnic group is Germans of Romania	and its university is 1 Decembrie 1918 University .	Its anthem is called Desteapta - te romane .
+(S-LIST F2-is F1-led )	country|ethnicGroup	The 1 Decembrie 1918 University is in Romania .	Romania is led by Klaus Iohannis , a member of Germans of Romania .
+(S-LIST F1-established F2-affiliated )	established|affiliation	The School of Business and Social Sciences at the Aarhus University was established in 1928 .	It is affiliated with the European University Association in Brussels .
+(S-LIST F1-is F2-established )	city|established	The School of Business and Social Sciences at the Aarhus University is in Aarhus , Denmark .	It was established in 1928 .
+(S (AND F1-created F1-is ) )	creator_2|creator	Asterix was created by Albert Uderzo	and Rene Goscinny who is a French national .
+(S (AND F1-starred F1-aired ) )	starring|lastAired&&broadcastedBy	The TV series Bananaman starred Tim Brooke - Taylor	and was last aired on the BBC on 15th April 1986 .
+(S (ARG1 F1-distributed F2-starring ) )	distributor|firstAppearanceInFilm	Walt Disney Studios Motion Pictures distributed	Big Hero 6 , a film starring Scott Adsit in which Baymax first appeared .
+(S (AND (ARG2-of F2-includes F1-stars ) F1-distributed ) )	series|starring|distributor	The film , Big hero 6 which includes the character of Baymax ,	stars Scott Adsit	and is distributed by Walt Disney Studios Motion Pictures .
+(S (AND (ARG1 F1-distributed F2-starred ) F1-is ) )	distributor|starring|series	Walt Disney Studio Motion Picture distributed the film Big Hero 6 ,	in which Ryan Potter starred	and Baymax is a character .
+(S F1-created )	creator_2	The comic character Blockbuster , AKA Mark Desmond , was created by Gardner Fox and Carmine Infantino .
+(S F1-created )	alternativeName	The comic character Bolt , with the alternative name Larry Bolatinsky , was created by Gary Cohn and Dan Mishkin .
+(S (AND F1-has F1-created ) )	alternativeName|creator	The comic character of Bolt has the alternative name of Larry Bolatinsky	and was created by Ernie Colon and the comic book writer , Gary Cohn .
+(S-LIST (AND F1-began F2-completed ) (AND F1-located F1-has ) )	buildingStartDate|completionDate|location|floorCount	The building of 103 Colmore Row began in 1973	and it was completed in 1976 .	It is located at 103 Colmore Row , Birmingham	and it has 23 floors .
+(S-LIST (ARG2 F2-is F3-is ) F1-are )	location||ethnicGroup	11 Diagonal Street is in South Africa , the capital of which	is Cape Town .	Two of the ethnic groups within South Africa are coloured people and Asian South Africans .
+(S (ARG1 F1-govern F2-located ) )	governingBody|	Cleveland City Council govern Cleveland , Cuyahoga County , Ohio , United States	where 200 Public Square is located .
+(S-LIST (AND F1-located F2-built ) F1-has )	location|cost|floorArea	250 Delaware Avenue is located in Buffalo , New York	and was built at a cost of 110 million ( dollars ) .	It has 12 floors with a total area of 30843.8 ( square metres ) .
+(S-LIST F1-is F2-is )	isPartOf|leaderName	300 North LaSalle is in Chicago , Cook County , Illinois , USA .	Rahm Emanuel is the leader of the aforementioned city .
+(S (ARG1 (ARG0-of F2-completed F1-has ) F3-covering ) )	location||floorArea	The building at 300 North LaSalle , Illinois , completed in 2009 ,	has	60 floors covering an area of 120770.0 square metres .
+(S F1-is )	owner	The owner of 3Arena , Dublin , Leinster , Republic of Ireland is Live Nation Entertainment .
+(S (ARG2 F1-is F2-designed ) )	tenant|architect	Marriott International is the tenant of AC Hotel Bella Sky in Copenhagen which has 23 floors	was designed by the architects 3XN .
+(S (ARGM-LOC F1-located F2-governed ) )	location_2|governmentType	Adare Manor is located in Adare , County Limerick , Munster ,	which is governed by the Limerick City and County Council .
+(S (ARG0-of F2-located F1-displays ) )	isPartOf|ethnicGroup	Akita Museum of Art , located in Akita , Akita , part of Akita Prefecture , Japan	displays art from Brazilians , one of the ethnic groups in that country .
+(S-LIST F1-is (ARG2 F2-is F3-including ) )	isPartOf|ethnicGroup&&country|	Akita Museum of Art is an art museum in the Japanese city of Akita on the Akita Prefecture .	Japan is diverse with a number of ethnic groups	including Filipinos .
+(S-LIST F1-located F2-is )	location_2|ethnicGroup	The Akita Museum of Art is located in the Akita Prefecture of Japan , in Akita , Akita .	One ethnic group of Japan is the Vietnamese People .
+(S-LIST (ARGM-LOC F1-located F3-is ) (ARG2 F2-are F4-found ) )	location_2|location|ethnicGroup|country	The Akita Museum of Art is located in Akita ,	which is part of the Akita Prefecture in Japan .	The Brazilians in Japan are an ethnic group	found in this country .
+(S F1-completed )	owner	The College of William and Mary own Alan B Miller Hall which was completed on 1 June 2009 at 101 Ukrop Way , Williamsburg , Virginia .
+(S (ARG2 F1-are F2-located ) )	leaderName&&leaderName_2|location	Sumitra Mahajan and Narendra Modi are leaders of India	where Amdavad ni Gufa is located in Gujarat .
+(S (AND F1-Added F1-located ) )	ReferenceNumber_in_the_National_Register_of_Historic_Places|location	Added to National Register of Historic Places on February the 27nd , 1987 ( reference number 87000823 ) , the Asilomar Conference Grounds was built in 1913	and are located in Pacific Grove , California .
+(S (AND (R-ARG1-of F2-Located F1-built ) F1-added ) )	location|yearOfConstruction|ReferenceNumber_in_the_National_Register_of_Historic_Places	Located in Avenue A in Manhatten ,	Asser Levy Public Baths was built in 1904	and was added to the National Register of Historic Places on 1980/04/23 with the reference number of 80002709 .
+(S (ARGM-LOC F1-located F2-is ) )	isPartOf_2|leaderName	The Asser Levy Public Baths are located in Brooklyn , Manhattan , New York City	where Cyrus Vance Jr. is one of the leaders .
+(S-LIST F2-are (ARG2 F1-is F3-is ) )	|leaderName|isPartOf	Asser Levy Public Baths are in New York , USA .	Gale Brewer is the leader of Manhattan ,	which is a part of New York .
+(S (AND (TOK (ARG0 (ARG0 F1-designed F2-born ) F3-is ) F1-designed ) F1-is ) )	architect||||leaderName	103 Colmore Row was designed by the architect John Madin ,	who was born in Birmingham	The B postcode area	is the postal code of Birmingham	and the city 's leader is Andrew Mitchell .
+(S (AND (ARG1-of F2-has F1-led ) (ARG2 F1-is F2-designed ) ) )	birthPlace|postalCode|architect|leaderName	Birmingham	has the B postcode , is led by the Labour party	and is the birthplace of architect John Madin	who designed 103 Colmore Row .
+(S-LIST (ARG2 F1-was F2-located ) F3-is )	leaderName||leaderName_2	Anandiben Patel was the leader of Gujarat , India ,	where Amdavad ni Gufa is located .	The leader of India 's name is Sumitra Mahajan .
+(S-LIST (S-LIST F3-was F2-is ) F1-located )	leaderName|leaderName_2|location	T. S. Thakur was an Indian leader	but the current leader of India is Narendra Modi .	Amdavad ni Gufa is located in Gujarat , India .
+(S (ARG2 F1-are F2-found ) )	|ethnicGroup&&location_2	The Brazilians are one of the	ethnic groups found in Japan which is the location of the Akita Museum of Art , Akita , Akita Prefecture .
+(S-LIST F1-is (AND F2-is F1-located ) )	leaderTitle|leaderName|	The Parliament of the United Kingdom is the leader of London , the capital city .	Elizabeth II is also a leader	and 20 Fenchurch Street is located in the country .
+(S-LIST (AND (ARGM-LOC F1-located F2-spoken ) F2-has ) F1-is )	|language||leaderName	250 Delaware Avenue is located in the United States ,	where English is spoken	and the leader has the title President .	Joe Biden is one of the leaders .
+(S (ARG2 (ARG1-of F2-established F1-is ) F3-categorised ) )	established|state&&country|category	The 11th Mississippi Infantry Monument ( established in 2000 )	is in Pennsylvania in the United States ,	where it is categorised as a contributing property .
+(S (ARGM-LOC F1-located F2-called ) )	|leaderTitle	The Turkish martyrs memorial is located	in Baku , the capital of Azerbaijan , where the leader ( Prime Minister of Azerbaijan ) is called Artur Rasizade .
+(S (AND (ARG2 (ARG1-of F2-has F1-dedicated ) F3-killed ) F1-known ) )	capital|||	The Baku Turkish Martyrs Memorial in Azerbaijan , which has Baku as its capital ,	is dedicated to the Ottoman Army soldiers	killed in the Battle of Baku	and is known locally as Türk Sehitleri Aniti .
+(S F1-established )	nearestCity&&established	The 14th New Jersey Volunteer Infantry Monument was established 1907 - 07 - 11 at the Monocacy National Battlefield in the county of Frederick , Maryland , with Frederick , Maryland as its nearest city .
+(S-LIST (AND F1-is F2-is ) F1-is )	capital|leaderName|location&&material	The capital of Turkey is Ankara	and the leader is Ahmet Davutoglu .	Turkey is the location of the bronze Ataturk monument .
+(S (AND (ARG1-of F2-governed F1-designed ) F1-inaugurated ) )	leaderTitle|designer|	The Atatürk Monument in Izmir , Turkey , which is governed by a president ,	was designed by Pietro Canonica	and was inaugurated on July 27th , 1932 .
+(S-LIST (ARGM-LOC F1-located F3-is ) F2-are )	|language|ethnicGroup	Albany , Georgia , is located within the United States ,	where English is one of the spoken languages .	Native Americans are one of the ethnic groups in the United States of America .
+(S (AND (AND (ARG1-of F2-has F1-are ) F1-has ) F1-are ) )	populationDensity|areaTotal|areaOfLand|areaCode	Albuquerque , in New Mexico ,	has a total are of 490.9 square kilometres	and a land area of 486.2 square kilometres . It has a population density of 1142.3 people per square kilometers ,	and the area codes are 505 and 575 .
+(S-LIST F1-located F2-is )	isPartOf_2|countySeat	Alpharetta , Fulton County , Georgia is located within the United States .	Atlanta is the county seat of Fulton County .
+(S-LIST (ARG2 F2-is F3-are ) (ARG2 F1-is (ARG1 F4-find F5-is ) ) )	capital&&country|ethnicGroup|||isPartOf	Washington DC is the capital of the United States ,	where African Americans are an ethnic group .	The US is also	where you will find Amarillo ,	which is part of Potter County in Texas .
+(S-LIST F1-is F2-is )	isPartOf|state	Amarillo is a part of Potter County , in Texas , USA .	Austin is the state capital of Texas .
+(S (ARG2 (ARG2 F1-is (TOK (ARG0 F2-led F3-found ) F2-led ) ) F4-spoken ) )	isPartOf||leaderTitle|language|	Anaheim is in California	which is led	by the California State Assembly found in the California State Capitol	Spanish	is spoken in that state .
+(S (AND (AND F1-is F1-is ) F1-is ) )	isPartOf|populationDensity|areaTotal	Anderson , Indiana is part of Adams Fall Creek , Lafayette , Richland , Union ,	and is located at 268.0 above sea level . The population density of Anderson , Indiana , is 523.9 ( inhabitants per square kilometre )	and the area is 107.43 square kilometres .
+(S (AND F1-is F1-is ) )	isPartOf|areaTotal	Angola is part of Pleasant Township in Steuben County , Indiana , in the U.S.	and is 16.55 square kilometres in size .
+(S (AND (AND F1-is (ARG0 F1-uses F2-has ) ) F1-is ) )	areaTotal|UTCOffset|populationTotal|areaCode	The total area of Antioch , California is 75.324 square km	and uses UTC offset	of -7.It has a total population of 102372 inhabitants	and its area code is 925 .
+(S-LIST (AND F1-is F1-is ) (AND F2-is F1-is ) )	areaTotal|populationDensity|areaCode|leaderTitle	The total area of Atlantic City , New Jersey is 44.125 square kilometres	and the population density is 1421.2 inhabitants per square kilometre .	609 is the area code of Atlantic City , N.J.	and " Mayor " is the title of the leader .
+(S (C-ARG1 F1-is F2-is ) )	isPartOf|ethnicGroup	Auburn , Alabama is part of Lee County , United States ,	of which one of the ethnic groups is Asian Americans .
+(S-LIST F1-is F2-are )	isPartOf|ethnicGroup&&country	Auburn is part of Lee County , Alabama in the United States .	African Americans are an ethnic group within the United States .
+(S-LIST (ARG2 F1-is F2-found ) F3-is )	capital|country|isPartOf&&isPartOf_2	Washington DC is the capital	of the United States where Auburn is to be found .	It is part of both King County and Pierce County in Washington .
+(S-LIST F1-located F2-is )	isPartOf_2|capital&&country	Auburn , King County , Washington is located within the United States .	The capital of the United States is Washington DC .
+(S-LIST (ARG2 F1-is F2-is ) F3-is )	|largestCity|countySeat	Austin is in	Hays County Texas , where the state 's largest city is Houston .	San Marcos is the county seat of Hays County , Texas .
+(S-LIST (ARG0 F1-led F2-located ) F3-spoken )	|leaderTitle|language	Anaheim , California is led	by the California State Assembly located in the California State Capitol .	Chinese is spoken in some parts of that state .
+(S (ARG2 F1-is F2-is ) )	|country	Alpharetta is part of Fulton County ( Atlanta	is the county seat ) , in Georgia , in the United States .
+(S-LIST F2-is (ARGM-LOC F1-located F3-has ) )	isPartOf&&country|isPartOf_2|capital	The city of Anderson is part of Lafayette Township in the United States .	It is located in Madison County , Indiana	which has the capital city of Indianapolis .
+(S (AND (ARG2 F1-is F2-spoken ) F1-is ) )	largestCity&&isPartOf|language|	Houston is the largest city in Texas in the U.S.	where English is spoken	and is also home to Arlington .
+(S F1-has )	capital&&isPartOf	United States has its capital as Washington , DC , home to African Americans and Albany , Benton County , Oregon .
+(S (ARGM-ADV (ARGM-ADV F1-is F3-is ) F2-located ) )	largestCity|capital|	New York City is the largest city in the United States	although the capital is Washington DC	Atlantic City , part of New Jersey , is located within the country .
+(S-LIST (ARG2 F1-is F2-located ) (AND F3-is (ARG1 F1-has F2-are ) ) )	||leader||ethnicGroup	Albuquerque is in New Mexico ,	which is located in the United States .	The leader of the US is Barack Obama	and he has	the title of President of the United States . African Americans are an ethnic group in the country .
+(S-LIST (AND F1-located F3-are ) (ARGM-LOC F1-is F2-leading ) )	|ethnicGroup||	Albuquerque , New Mexico is located in the United States	and Asian Americans are an ethnic group there .	John Sánchez , is one of the leaders , in the New Mexico Senate	which is leading the state .
+(S-LIST (ARG2 F1-are F2-has ) F3-is )	ethnicGroup|capital|isPartOf	The Asian Americans are an ethnic group in the United States ,	which has the capital city of Washington DC .	It is also the location of Albany , part of Benton County in Oregon .
+(S (ARGM-ADV F1-led F2-is ) )	|	Barack Obama led the United States ,	while the mayor is the leader of Albuquerque , New Mexico , home to many Native Americans .
+(S (ARG2 (ARG2 F1-are F3-is ) F2-is ) )	ethnicGroup|language|	Native Americans are an ethnic group in the United States ,	where English is the language . Also in the United States ,	is Albany , in Georgia .
+(S-LIST F1-is F2-spoken )	ethnicGroup|country	Angola , Indiana ( U.S. ) , is home to one of its ethnic groups , the Asian Americans .	English is spoken in the United States .
+(S (AND (ARG2 (ARG1-of F2-is F1-is ) F3-spoken ) F1-are ) )	isPartOf|country|language|ethnicGroup	Angola , Indiana , which is part of Pleasant Township Steuben County ,	is in the U.S.	where English is spoken	and among its ethnic groups are Asian Americans .
+(S (AND F1-been F1-attched ) )	|	Jens Härtel has been the manager of 1 FC Magdeburg , part of SV Babelsberg 03 club	and 1 FC Union Berlin . He is also attched to FSV Zwickau .
+(S-LIST F1-worked (AND F2-managed F1-born ) )	club||club_2	Rolando Maran has worked at FC Bari 1908 .	He managed Associazione Calcio ChievoVerona	and is in the Carrarese Calcio club . He was born in Italy .
+(S (AND (ARG0-of F2-plays F1-owns ) F1-is ) )	|club_2|	Italian born , Michele Marcolini ,	plays for A.C. Chievo Verona , owns Torino F.C. ,	and is manager of A.C. Lumezzane .
+(S-LIST (ARG2 F1-is F3-has ) (AND F2-is F1-are ) )	chairman|numberOfMembers|league|ground	Antonis Milionis is chairman of A.E Dimitra Efxeinoupolis	which has 1500 members .	It is in the league EPSTH 2nd GROUP	and its grounds are in the town of Efxeinoupoli .
+(S-LIST (ARG1-of F3-plays F1-was ) F2-is )	club|manager&&ground|leader	Stuart Parker who plays for Stockport County F.C.	was a manager at AFC Blackpool .	The club is also located in Blackpool . The Conservative Party ( UK ) is the leader of Blackpool .
+(S (AND F1-plays (ARGM-ADV F1-is (ARG2 F2-is F3-is ) ) ) )	club|manager|ground|leader	Footballer , Stuart Parker , plays for Stockport County F.C.	and is the manager of A.F.C. Blackpool .	The ground of which is in Blackpool ,	where Gordon Marsden is one of the leaders .
+(S-LIST (S-LIST F2-Based F1-is ) (AND F3-played F1-has ) )	ground|fullname|season|numberOfMembers	Based at Warton , Fylde , Lancashire ,	is A.F.C. Fylde . The full name of which , is Association Football Club Fylde .	The club played in 2014	and has 3180 members .
+(S (AND (AND F1-based F1-have ) F1-competed ) )	ground|numberOfMembers&&fullname|season	A.F.C. Fylde are based at Bryning Lane	and their full name is " Association Football Club Fylde . " They have 3180 members	and competed in the 2014 season .
+(S-LIST (ARG1 F1-Attached F3-is ) (AND F2-plays F1-is ) )	||club_2|manager	Attached to the club Inter Milan ,	Paulo Sousa 's club	is Juventus . He also plays for Maccabi Tel Aviv F.C.	and is manager of ACF Fiorentina .
+(S-LIST F1-has (AND F2-play F1-played ) )	numberOfMembers|ground|season	With 69618 members , AEK Athens F.C. has its ground in Greece .	They play in the Superleague Greece ,	and played in the 2014 season .
+(S (AND (ARG2 F1-is F2-operated ) F1-is ) )	ground|operator|tenant&&owner	AFC Ajax ( amateurs ) 's ground is Sportpark De Toekomst	operated by AFC Ajax	and owned by AFC Ajax N.V. The current tenant is Jong Ajax .
+(S-LIST (S-LIST F1-is (AND F2-played F2-have ) ) F1-is )	fullname|season|numberOfMembers|nickname	The full name of AFC Ajax ( amateurs ) is Amsterdamsche Football Club Ajax Amateurs ,	they played in the 2014 season	and have 5000 members .	Their nickname is Joden , Godenzonen .
+(S (AND F1-play F1-played ) )	manager&&club_2|	John Van Den Brom , manager for AZ Alkmaar , play for Vitesse Arnhem and AFC Ajax ,	and has played for the Netherlands National Football team .
+(S-LIST (ARG2 F1-is F3-located ) F2-are )	ground|location|champions	Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league . Their ground is the Estadio Municipal Coaracy da Mata Fonseca	located in Alagoas .	The champions of Campeonato Brasileiro Serie C are Vila Nova Futebol Clube .
+(S-LIST F2-based (AND F1-called F1-located ) )	league|ground|location	Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league , which is based in Brazil .	The club 's ground is called the Estádio Municipal Coaracy da Mata Fonseca	and it is located in Alagoas .
+(S F1-is )	ground	Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league in Brazil . Their home ground is Estádio Municipal Coaracy da Mata Fonseca in Arapiraca .
+(S-LIST F1-is F2-is )	ground|isPartOf	St Vincent - St Mary High School is the ground of Akron Summit Assault ,	Akron , Ohio , U.S. Akron , Ohio is part of Summit County , Ohio .
+(S (AND (ARGM-LOC F1-located (ARG1 F2-are F3-called ) ) F1-is ) )	ground|leader_2|leader|capital	The ground of A.S. Gubbio 1910 is located in Italy ,	where there are	leaders called Pietro Grasso and Sergio Mattarella	and the capital is Rome .
+(S-LIST F2-is F1-is )	manager|club_2	Peter Stöger is the manager at 1 . FC Köln .	He is a former player of SK Vorwärts Steyr , FC Admira Wacker Mödling and FK Austria Wien .
+(S-LIST (R-ARG1-of F2-Serving F1-is ) (AND F3-has F1-has ) )	cityServed|elevationAboveTheSeaLevel_(in_metres)|runwayName|runwayLength	Serving the city of Abilene in Texas ,	the Abilene Regional Airport is 546 metres above sea level .	It has the runway name 17L/35R	and has a runway length of 21940 metres .
+(S-LIST F1-served (AND F2-is (ARG1 F1-has F2-is ) ) )	|elevationAboveTheSeaLevel_(in_metres)|runwayLength|	Lake Placid and the city of Saranac Lake ( both in New York ) are served by the Adirondack Regional Airport .	This airport is 507 metres above sea level	and has a runway	that is 2003 metres long .
+(S (AND (AND (ARG1-of F2-operated F1-located ) F1-designated ) F1-has ) )	operatingOrganisation|location|runwayName|runwayLength	Adolfo Suárez Madrid - Barajas Airport , operated by ENAIRE ,	is located in Madrid , Paracuellos de Jarama , San Sebastian de los Reyes	and Alcobendas . The airport 's runway is designated 18L/36R	and has a length of 3500 .
+(S-LIST (S-LIST (ARG2 F1-is F2-operated ) F3-is ) F4-is )	location|operatingOrganisation|IATA_Location_Identifier|ICAO_Location_Identifier	Agra Airport is in India ,	which is operated by the Indian Air Force .	The IATA I.D. of the Agra Airport is AGR ;	the ICAO Location Identifier of Agra Airport is VIAG .
+(S (AND (R-ARG0-of F2-Operated F1-has ) F1-null ) )	operatingOrganisation|runwayName&&location|runwayLength	Operated by the United States Air Force ,	Al Asad Airbase ( Iraq ) has a runway name 08/26 ,	and a runway length 3990.0 .
+(S (AND (AND F1-located (ARG2 F1-is F2-operated ) ) F1-has ) )	location|runwayName|operatingOrganisation|runwayLength	Al Asad airbase is located at Al Anbar Province in Iraq	and the runway name is 09R/27L. It	is operated by the United States Air Force	and has a runway length of 3990 .
+(S-LIST F1-used (AND F2-is (TOK (ARG1 F1-was F2-noted ) F1-was ) ) )	|operatingOrganisation|||	The attack aircarft , the Lockheed AC-130 , and the fighter aircraft , McDonnell Douglas F-15 Eagle are used by the United States Air Force .	It is the operating organisation for Al Asad airbase	and	one of the noted United States Air Force battles	was the Invasion of Grenada .
+(S-LIST (S-LIST F1-served F2-operated ) F3-has )	cityServed&&location|operatingOrganisation|runwayLength	The city of Lahore , Pakistan , is served by Allama Iqbal International airport .	It is operated by the Pakistan Civil Aviation Authority .	It has a runway length of 2900 .
+(S-LIST (ARG0 F1-Serving F2-has ) (AND F3-named F1-null ) )	cityServed|elevationAboveTheSeaLevel_(in_metres)|runwayName|runwayLength	Serving the city of Amsterdam , Amsterdam Airport Schiphol	is -3.3528 metres above sea level . It	has a runway named 09/27 Buitenveldertbaan	and a runway length of 2014.0 .
+(S-LIST F1-served (AND F2-has F1-has ) )	cityServed|elevationAboveTheSeaLevel_(in_metres)|runwayName	The city of Amsterdam is served by Amsterdam Schiphol Airport .	This airport has an elevation of -3.3528 from sea level	and the runway name 18L/36R ' Aalsmeerbaan . It also has the runway length of 2014.0 metres .
+(S-LIST F1-serves (AND F2-is F1-has ) )	cityServed&&location||runwayLength	Andrews County Airport in Texas serves the city of Andrews .	It is 973 metres above sea level	and has a runway length of 929 .
+(S-LIST F1-situated (AND F2-is F1-is ) )	country|capital|demonym	Andrews County Airport is situated in Texas , United States .	The state capital is Austin	and the demonym for the local people is Tejano .
+(S (AND (ARGM-LOC F1-located F2-has ) F1-uses ) )	country|capital|language	Andrews County Airport is located in Texas , United States	which has the capital city of Austin	and uses the English language .
+(S (AND F1-located F1-serves ) )	location|cityServed	Angola International Airport is located at Ícolo e Bengo in Luanda Province , Angola ,	and serves the city of Luanda .
+(S (AND F1-has (ARG2 F1-'s F2-is ) ) )	operatingOrganisation||	Antwerp International Airport is operated by the Flemish government , owned by the flemish region , has an elevation of 12.o metres above sea level ,	and it 's runway length	is 600.0 .
+(S (AND F1-have F1-are ) )	headquarter_2|operatingOrganisation&&hubAirport	Turkmenistan Airlines have their HQ in Ashgabat , Turkmenistan	and their hub airport at Turkmenbashi International airport . They are the operating organisation for Ashgabat International airport .
+(S (AND (R-ARG0-of F2-Located F1-has ) F1-has ) )	location|runwayLength|elevationAboveTheSeaLevel_(in_metres)	Located in Spata and serving the city of	Athens , is Athens International Airport . This airport has a runway length of 3,800	and has an elevation of 94 metres above sea level .
+(S-LIST (ARGM-DIR F3-leads F5-is ) (ARG2 F1-is (TOK (ARG1 F2-located F4-serves ) F2-located ) ) )	leaderName|location||cityServed|cityServed|	Don Guardian leads	New Jersey ( United States ) where the township of Egg Harbor is .	This township is	where the Atlantic City International Airport ,	which serves serves Atlantic City , N.J. ,	is located .
+(S-LIST F1-located (ARG2 F2-is F3-headed ) )	location|owner|leaderName	Atlantic City International Airport is located at Egg Harbor Township , New Jersey in the United States .	The airport 's owner is South Jersey Transportation Authority	headed by Stephen Dilts .
+(S-LIST (ARG2 F1-serves F2-is ) (AND (ARG1-of F4-spoken F3-is ) F1-is ) )	cityServed||||leaderName	Antwerp International Airport serves the city of Antwerp	which is a popular tourist destination in Belgium .	One of the languages spoken in Belgium	is German ,	and the leader is Charles Michel .
+(S (AND (AND F1-served (ARG2 F1-is F2-is ) ) F1-spoken ) )	cityServed|country|leaderName|language	Antwerp is served by Antwerp International Airport	and is a popular tourism destination in Belgium	where the leader is Philippe of Belgium	and the French language is spoken .
+(S F1-serves )	isPartOf_2	Adirondack Regional Airport serves the city of Saranac Lake , New York part of Harrietstown and Essex County , New York , U.S.
+(S (AND (ARG2 F1-serves F2-spoken ) F1-is ) )	cityServed|language|leaderName	Al - Taqaddum Air Base serves the city of Fallujah , in Iraq ,	where Kurdish languages are spoken	and Fuad Masum is the leader .
+(S-LIST F1-serves (AND F2-led F1-uses ) )	cityServed|country|language	Al - Taqaddum Air Base serves the city of Fallujah in Iraq .	The country is led by Haider al - Abadi	and uses the Kurdish languages .
+(S-LIST (ARG1-of F2-serves F1-located ) F3-is )	cityServed|country|leaderName	Allama Iqbal International Airport , which serves the city of Lahore ,	is located in Punjab , Pakistan .	The leader of which is Malik Muhammad Rafique Rajwana .
+(S (AND F1-belongs F1-constitutes ) )	division|class	Poaceae belongs to the division of flowering plants , the order of Commelinids	and the class of Monocotyledon . It constitutes the surface of the 1st runway at Alderney airport .
+(S-LIST (ARG2 F1-is F2-are ) (AND F3-broadcast F1-produces ) )	keyPerson|locationCity|broadcastedBy|product	Rona Fairhead is the key person for the BBC	whose headquarters are at Broadcasting House .	The BBC broadcast Bananaman	and also produces BBC radio .
+(S-LIST (AND F1-aired F2-starred ) (AND F1-created F1-broadcast ) )	firstAired|starring|creator|broadcastedBy	Bananaman first aired on 3 October 1983	and starred Jill Shilling .	It was created by Steve Bright	and broadcast by STV .
+(S (AND (ARG2 F1-is F2-created ) (ARG2 F1-featured F2-starring ) ) )	nationality|creator|series|starring	Baymax is a character	which was created by American Duncan Rouleau	and featured in the film Big Hero 6	( starring Ryan Potter ) .
+(S (ARG1-of F2-has F1-created ) )	alternativeName|creator	The comic character Bolt , who has the alternative name of Larry Bolatinsky ,	was created by Gary Cohn and the Puerto Rican national , Ernie Colon .
+(S-LIST (ARG0 F1-written F3-born ) (ARG2 F2-was F4-was ) )	author|birthPlace|precededBy|precededBy_2	1634 : The Bavarian Crisis was written by Eric Flint	who was born in Burbank , California .	It was the sequel to Grantville Gazette	lll which was a DeMarce short story .
+(S-LIST (AND F1-written F2-has ) F1-found )	author|numberOfPages|ISBN_number	1634 : The Ram Rebellion was written by Eric Flint , Virginia DeMarce , et al .	and has 512 pages .	It can be found as an E book and the ISBN number of 1 - 4165 - 2060 - 0 .
+(S-LIST (ARG2 (ARG1-of F2-published F1-is ) F3-led ) F4-is )	publisher|country|leaderName|parentCompany	AIDS journal , published by Lippincott Williams & Williams ,	is from the United Kingdom	( led by Elizabeth II ) .	The parent company of Lippincott is Wolters Kluwer .
+(S (AND F1-has F1-is ) )	ISBN_number|mediaType	A Fortress of Grey Ice , by J V Jones , has the OCLC number 51969173 , the ISBN number 0 - 7653 - 0633 - 6	and is available in hardcover .
+(S (AND (AND F1-has F1-penned ) F1-found ) )	ISBN_number|OCLC_number&&author|mediaType	The book , A Loyal Character Dancer , has the ISBN number of 1 - 56947 - 301 - 3	and The OCLC number is 49805501 . It was penned by Qiu Xiaolong	and can be found in hardcover .
+(S-LIST (ARGM-MNR F2-written F4-spoken ) (ARGM-LOC F1-published F3-are ) )	|spokenIn||ethnicGroup	A Loyal Character Dancer is written	in English which is spoken in Great Britain .	The book is published in the United States	where the Native Americans are an ethnic group .
+(S (AND (ARG0 F1-published F2-speaks ) F1-contains ) )	publisher|language|ethnicGroup	A Loyal Character Dancer is published by Soho Press in the United States	which speaks English	and contains the ethnic group Asian Americans .
+(S (AND (AND F1-written F1-'s ) F1-is ) )	author|numberOfPages|ISBN_number	A Wizard of Mars was written by Diane Duane	and published in hardback . It 's 560 pages long	and the ISBN number is 978 - 0 - 15 - 204770 - 2 .
+(S-LIST (ARG1-of F2-abbreviated F1-is ) (AND F3-is F1-is ) )	academicDiscipline|abbreviation|LCCN_number|ISSN_number	The Acta Mathematica Hungarica , abbreviated to Acta Math . Hungar , discipline	is Math .	The LCCN number is 83646315	and the ISSN number is 0236 - 5294 .
+(S-LIST (AND F1-has F2-comes ) F1-has )	LCCN_number|academicDiscipline|ISSN_number&&abbreviation	The Acta Palaeontologica Polonica has a LCCN number of 60040714	and comes under the academic discipline of Paleobiology .	It has the abbreviated name of Acta Palaeontol . Pol . and the ISSN number 0567 - 7920 .
+(S-LIST (ARG1-of F3-abbreviated F1-published ) F2-has )	abbreviation|publisher|ISSN_number	Acta Palaeontologica Polonica ( abbreviated to Acta Palaeontol . Pol . )	was published by the Polish Academy of Sciences .	It has an ISSN number of 1732 - 2421 and a LCCN number of 60040714 .
+(S (AND F1-is F1-null ) )	publisher&&affiliation_2|affiliation	Cornell University , in New York is the publisher of the Administrative Science Quarterly as well as being affiliated with the Association of Public	and Land grant Universities and the Association of American Universities .
+(S-LIST (AND (AND F1-affiliated F1-null ) F2-publishes ) F1-located )	publisher|affiliation|city|state	Cornell University is affiliated with the Association of Public	and Land grant Universities	and publishes the Administrative Science Quarterly .	The University is located in Ithaca in the state of New York .
+(S-LIST (ARG1-of F3-written F1-is ) F2-is )	author|numberOfPages|ISBN_number	Aenir , written by Garth Nix ,	is a paperback with 233 pages .	Its ISBN number is 0 - 439 - 17684 - 0 .
+(S (AND (AND F1-spoken F1-is ) F1-written ) )	spokenIn|ethnicGroup&&country|language	English is spoken in Great Britain	and the United States where African Americans are an ethnic group . Alcatraz Versus the Evil Librarians is from The United States	and is written in the English language .
+(S (ARG1 F1-publishes F2-printed ) )	publisher|firstPublicationYear	Johns Hopkins University Press ( U.S. ) , subsidary of Johns Hopkins University , publishes	the American Journal of Mathematics first printed in 1878 .
+(S-LIST (ARG2 F1-is F2-spoken ) F3-is )	ethnicGroup|spokenIn|country	Asian - Americans is one of the ethnic group in the US	where English is spoken along with Great Britain .	Alcatraz Versus the Evil Librarians is from The United States .
+(S-LIST (ARG2 F1-is F3-published ) (ARG2 F2-is F4-spoken ) )	leaderName|country|language|spokenIn	Barack Obama is the leader of the United States	where A Wizard of Mars was published .	The book is in English ,	which is spoken in Great Britain .
+(S-LIST (ARGM-PRD-of F2-Originating F1-written ) (AND F3-is F1-includes ) )	country|language|leaderName|ethnicGroup	Originating in the United States ,	A Wizard of Mars is written in English .	The leader of the United States is Barack Obama	and the U.S. includes many Asian Americans .
+(S-LIST F1-Published (AND F2-was F1-is ) )	country|leaderName|language&&spokenIn	A Wizard of Mars was Published in the United States .	The previous president there was Barack Obama	and the main language is English ( the language of Great Britain ) .
+(S-LIST (ARG2 F1-is F2-is ) (AND F3-are F1-null ) )	|leaderName|ethnicGroup|	English is the language of the United States	where Barack Obama is president ,	Asian Americans are an ethnic group	and a severed Wasp originates .
+(S-LIST F1-born (AND F2-selected F1-spent ) )	nationality|was_selected_by_NASA|timeInSpace	Alan Bean was born in Wheeler , Texas in the United States .	He was selected by NASA in 1963 ,	and spent 100305.0 minutes in space .
+(S (AND F1-awarded (ARG2 F1-was F2-operated ) ) )	awards|higher|	Alan Shepard was awarded the Distinguished Service Medal ( United States Navy	and the Department of Commerce Gold Medal . He was a crew member of the NASA	operated Apollo 14 mission .
+(S-LIST (ARGM-LOC F1-born F2-is ) (AND F3-was F1-served ) )	birthPlace|representative|was_a_crew_member_of|crewMembers	William Anders was born in British Hong Kong ,	where Chris Patten is a representative .	William was a crew member of Apollo 8 ,	and served along Frank Borman .
+(S (AND (AND (TOK (ARGM-PRD F1-was F2-born ) F1-was ) F1-graduated ) F1-retired ) )	|birthPlace|was_a_crew_member_of||status	Buzz Aldrin	was born in Glen Ridge , New Jersey ,	was part of Apollo 11	and in 1963 graduated with a Sc . D. from MIT	and is now retired .
+(S-LIST F3-born (C-ARG1 F1-Joined F2-became ) )	birthPlace|was_selected_by_NASA|was_a_crew_member_of	Buzz Aldrin was born in Glen Ridge , New Jersey .	He Joined NASA in 1963	where he became a crew member of Apollo 11 as a Fighter pilot .
+(S (AND (ARG1-of F2-born F1-was ) F1-had ) )	birthName|was_a_crew_member_of|awards	Buzz Aldrin ( born as Edwin Eugene Aldrin Jr )	was a crew member for NASA 's Apollo 11	and had 20 awards .
+(S (AND (ARG1-of (TOK (C-ARG1 F2-awarded F3-is ) F2-awarded ) F1-born ) F1-died ) )	awards|higher||birthPlace|deathPlace	Alan Shepard , who was awarded the Distinguished Service Medal from the U.S. Navy , an award	that is higher than the Department of Commerce Gold	Medal ,	was born in New Hampshire	and died in California .
+(S (AND (AND (AND F1-died F1-had ) F1-null ) F1-is ) )	deathPlace||awards|	Alan Shepard died in California ,	and had a medal	and award for Distinguished Service in the United States Navy ,	and a gold medal for Department of Commerce . Dianne Feinstein is the Senator of California .
+(S-LIST F1-was (AND F2-born F1-died ) )	nationality|birthPlace|almaMater	Elliot See was a national of the United States .	He was born in Dallas	and attended the University of Texas in AUstin . He died in St. Louis .
+(S (AND F1-joined F1-became ) )	occupation|was_a_crew_member_of	William Anders joined NASA in 1963 as a fighter pilot	and became a crew member of Apollo 8 .
+(S-LIST F1-established F2-is )	established|river	AWH Engineering College ( Kuttikkattoor , India ) was established in 2001 .	One of the rivers in India is the Ganges .
+(S-LIST F1-located F2-affiliated )	campus|affiliation	The Acharya Institute of Technology 's campus is located in Soldevanahalli , Acharya Dr. Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore - 560090 , India .	It is affiliated with the Visvesvaraya Technological University in Belgaum .
+(S-LIST F1-located (AND F2-affiliated F1-is ) )	city|affiliation|director	The Acharya Institute of Technology is located in Bangalore , India .	It is affiliated with the Visvesvaraya Technological University	and its directore is Dr. G. P. Prabhukumar .
+(S-LIST (AND F1-offers (ARG0 F1-given F2-located ) ) (ARG1-of F4-governing F3-is ) )	sportsOffered||||	The Acharya Institute of Technology offers tennis as its sport	and it was given the " Technical Campus " status	by the All India Council for Technical Education ( located in Mumbai ) .	The sports governing body for tennis	is the International Tennis Federation .
+(S (ARGM-LOC F1-located F2-is ) )	isPartOf|capital	The 1 Decembrie 1918 University is located in Alba Iulia , part of Alba County in Romania	where Bucharest is the capital city .
+(S-LIST F1-located (AND F2-is F1-is ) )	city|leaderName|governmentType&&country	The School of Business and Social Sciences at the Aarhus University is located in the city of Aarhus , Denmark .	The leader of the country is Lars Løkke Rasmussen	and Denmark 's government type is Magistrate .
+(S-LIST (AND F1-located F1-has ) F2-is )	state|academicStaffSize|leaderName	The AWH Engineering College is located in Kuttikkattoor , Kerala	and it has 250 academic staff .	The leader of Kerala is Kochi .
+(S-LIST (ARGM-LOC F1-located F3-has ) (AND F2-is F1-is ) )	country|capital|anthem|ethnicGroup	1 Decembrie 1918 University is located in Romania ,	which has as its capital , Bucharest .	The country 's national anthem is Deșteaptă - te , române !	and one of the ethnic groups is Germans of Romania .
+(S (ARGM-ADV F1-is (ARGM-ADV-of F3-is F2-located ) ) )	leaderName|capital|city	Romania 's leader is Klaus Iohannis .	Although the capital city is Bucharest ,	the 1 Decembrie 1918 University is located in the city of Alba Iulia in Romania .
+(S-LIST F1-is F2-include )	region|mainIngredients	Amatriciana sauce is a traditional Italian sauce from the region of Lazio .	Its ingredients include tomatoes , guanciale , cheese and olive oil .
+(S (ARG2 (ARG2 F1-are F2-is ) (ARG2 F3-is F4-found ) ) )	|capital||country	Pietro Grasso and Sergio Mattarella are leaders of Italy ,	where the capital is Rome Arrabbiata	is a sauce	found in Italy .
+(S (AND F1-is F1-are ) )	country|mainIngredients	Arròs negre is from Catalonia Spain	and its ingredients are white rice , cuttlefish or squid , cephalopod ink and cubanelle peppers .
+(S-LIST F2-is F1-are )	region&&country|mainIngredients	A traditional dish from the Catalonia region in Spain is Arròs negre .	The main ingredients in it are , white rice , cuttlefish or squid , cephalopod ink , cubanelle peppers .
+(S-LIST (ARG2 F2-are F4-is ) (ARG2 F1-comes F3-led ) )	ethnicGroup&&country||region|	Spaniards are the ethnic group in Spain ,	where a traditional dish is Arròs negre .	It comes from the region of Catalonia ,	which is led by the Parliament of Catalonia .
+(S-LIST (ARG2 F1-is F2-found ) (ARG3 F3-comes F4-live ) )	|country||ethnicGroup_2	Asam pedas is a food	found in Malaysia , where the Malay live ,	but comes	from Sumatra where the Batak live .
+(S (ARG2 F1-is F2-are ) )	country|ethnicGroup	Asam pedas is a dish from Sumatra , Malaysia	where there are ethnic groups like the Malays and the Minangkabau people .
+(S-LIST (ARGM-LOC F1-originated F2-is ) (AND F3-is F1-are ) )	country|leaderName|capital|ethnicGroup	Bacon Explosion originated in the United States ,	where Barack Obama is leader ,	Washing DC is the capital	and where Asian Americans are an ethnic group .
+(S-LIST (AND F1-is (ARG2 F1-are F2-found ) ) (AND F3-is F1-is ) )	country|ethnicGroup||leaderName|capital	The United States is the country of the Bacon Explosion	and Asian Americans are one of the ethnic groups	found there .	John Roberts is the leader	and the capital is Washington , D.C.
+(S-LIST F1-are (AND F2-added (ARG2 F1-is F2-is ) ) )	|ingredient||	Bacon sandwiches are popular in the UK .	Ketchup can be added to them	and a variation is the BLT	which is similar to a club sandwich .
+(S-LIST (ARG1-of F3-comes F1-is ) (AND F2-are F1-known ) )	||mainIngredients|alternativeName	The country that bacon sandwich comes from	is the United Kingdom .	Its main ingredients are bread and bacon	and a condiment , often ketchup or brown sauce . A bacon sandwich can also be known as a bacon butty , bacon sarnie , rasher sandwich , bacon sanger , piece ' n bacon , bacon cob , bacon barm , or bacon muffin .
+(S-LIST F3-are (ARG2 F1-comes F2-has ) )	||ethnicGroup	Baked Alaska and cookies are desserts .	Baked Alaska comes from the U.S.	which has African Americans as an ethnic group .
+(S (AND (ARG2 F1-are F2-is ) F1-originated ) )	mainIngredients|region|country	Meringue , ice cream , sponge cake or Christmas pudding are the main ingredients of Baked Alaska	which is popular in Paris , New York and Hong Kong	and originated in the United States .
+(S (AND F1-comes F1-contains ) )	country|mainIngredients	Baked Alaska comes from Hong Kong , France , the United States or China	and contains Meringue , ice cream , sponge cake or Christmas pudding .
+(S-LIST (AND F1-served (ARG1 F2-known F3-be ) ) (AND F1-are F1-sponge ) )	region|||mainIngredients|	Baked Alaska is served in the region of Hong Kong	and known	to be from the USA .	The main ingredients are meringue , ice cream	and sponge cake ( or Christmas pudding ) .
+(S-LIST F1-is (AND F2-'s (ARG2 F1-are F2-used ) ) )	region|dishVariation|ingredient|isPartOf	Bakewell pudding is from the Derbyshire Dales region in Derbyshire .	It 's a variant of a bakewell tart	and fruit preserves are one of the ingredients	used in it .
+(S (AND (AND F1-is (TOK (ARGM-LOC F1-is F2-neighbouring ) F1-is ) ) F1-are ) )	||||	Bakso is a traditional dish throughout Indonesia	and is popular	in neighbouring Southeast Asian countries	too . Ground beef , tapioca , noodle , rice vermicelli , beef broth , kailan , celery , salted vegetables ,	and fried shallots are main ingredients in Bakso .
+(S (AND F1-is F1-are ) )	country|	Bakso is a food from the Country of Indonesia . Ground beef , tapioca , noodle , rice vermicelli , beef broth , kailan , celery , salted vegetables ,	and fried shallots are main ingredients in Bakso .
+(S-LIST F2-is F1-are )	region|mainIngredients	Bandeja paisa is part of Colombian cuisine that originates from the Paisa region .	Main ingredients are kidney beans , red beans , pork belly , white rice , ground meat , chicharon , fried egg , plantain ( patacones ) , chorizo , arepa , hogao sauce , black pudding ( morcilla ) , avocado and lemon .
+(S-LIST F2-is F1-are )	region|mainIngredients	Bandeja paisa is a Colombian cuisine from the Paisa region .	The main ingredients of Bandeja paisa are : red beans , pork belly , white rice , ground meat , chicharon , fried egg , plantain ( patacones ) , chorizo , arepa , hogao sauce , black pudding ( morcilla ) , avocado and lemon " .
+(S (AND (ARG2 F1-comes F2-spoken ) F1-include ) )	country|language|leaderName	Barny Cakes comes from France	where French is spoken	and leaders include Gerard Larcher and Francois Hollande .
+(S (AND F1-found (ARGM-ADV F1-are F2-is ) ) )	country|dishVariation|dishVariation_2	Batagor , which is found in Indonesia	and Siomay are both variations of the same dish .	Shumai is a variation of the dish Siomay while Shiitake is an ingredient of Shumai .
+(S-LIST F2-is F1-are )	region|mainIngredients	La Paz , Iloilo City , Philippines is the home of Batchoy .	The main ingredients of batchoy are noodles , pork organs , vegetables , chicken , shrimp , and beef .
+(S-LIST F2-is F1-are )	country|mainIngredients	Philippines is the home of the soup dish Batchoy .	The main ingredients are noodles , pork organs , vegetables , chicken , shrimp and beef .
+(S (AND F1-is (ARG2 F1-are F2-dried ) ) )	region|mainIngredients|	Beef kway teow is available nationwide in Singapore ( where its from )	and Indonesia . The main ingredients in it are ; Kway teow , beef tender loin , gula Melaka , sliced ,	dried black beans , garlic , dark soy sauce , lengkuas , oyster sauce , soya sauce , chilli and sesame oil .
+(S-LIST (ARG2 F2-is F4-found ) (AND (ARGM-LOC F1-found F3-is ) F1-is ) )	||region|leaderName|language	Beef kway teow is a dish commonly	found in Indonesia .	The same dish is found in Singapore ,	where Halimah Yacob is a leader	and Standard Chinese is the language spoken .
+(S-LIST (ARG2 F2-is F3-comes ) (ARG1 F1-include F4-dried ) )	|region||mainIngredients	Beef kway teow is a popular food	of Indonesia that comes from the Singapore region .	Its ingredients include	kway teow , beef tender loin , gula Melaka , dried black beans , garlic , dark soy sauce , lengkuas , oyster sauce , chilli and sesame oil .
+(S (R-ARG0-of F2-Originating (ARG0-of F3-known F1-has ) ) )	region&&country|alternativeName|ingredient	Originating from the Karnataka region in India ,	Bhajji ( also known as Bhali or bajji ) ,	has vegetables as a main ingredient .
+(S (AND (ARG2 F1-are F2-known ) F1-comes ) )	mainIngredients||region	Gram flour and vegetables are main ingredients in bhajji ( also	known as Bhaji	and bajji ) which comes from the Karnataka region .
+(S (AND (AND F1-calls F1-belongs ) F1-falls ) )	||order	The binignit recipe calls for sweet potatoes	and sago . The sweet potato belongs to the flowering plant	and falls under the order of Solanales .
+(S-LIST F1-is (AND F2-is F1-is ) )	region|mainIngredients|ingredient	Binignit is a dish from the region of Visayas in the Philippines .	One of the main ingredients of binignit is coconut milk	and another ingredient is sago .
+(S (AND (ARG2 (R-ARG1-of F2-Using F1-is ) F3-served ) F1-found ) )	ingredient||course|	Using one of the required ingredients , granola ,	Bionico is a dish	served for dessert	and is found in the region of Jalisco , in Mexico .
+(S (AND (ARG2 F1-is F2-found ) F1-are ) )	||	Bionico is a food	found in Guadalajara , Mexico . Sour cream , chopped fruits , condensed milk . granola , raisins	and shredded coconut are the main ingredients in Bionico .
+(S-LIST F2-are F1-is )	|leaderName	Bionico and cookies are desserts .	Bionico originates from Mexico , where the leader is Silvano Aureoles Conejo .
+(S-LIST (ARG2 F1-is F2-is ) F3-includes )	country&&region|leaderName|ingredient	Bakso is a dish from the country of Indonesia (	where the leader is Jusuf Kalla ) ,	it includes Tapioca .
+(S-LIST (AND F1-null F3-is ) (ARGM-LOC F1-found F2-are ) )	region|leaderName|country|ethnicGroup	Ayam penyet is originates from Singapore	and Tony Tan is the country 's leader .	It can also be found in Java	where Baduy people are one of the ethnic groups .
+(S-LIST (ARG2 F1-is F3-eaten ) (AND F2-is F1-are ) )	ethnicGroup_2|country|language|ethnicGroup	Batchoy is a dish	eaten in the Philippines .	The language used there is Philippines Spanish	and two of its ethnic groups are Ilocano people and Zamboangans .
+(S-LIST (ARG3 F3-comes F5-is ) (ARG2 F1-is (ARG1 F2-are F4-are ) ) )	country|language||ethnicGroup|ethnicGroup_2	Batchoy comes from the Philippines	where one of the languages is Arabic .	It is also	where there are several ethnic groups ,	two of which are Zamboangans and Igorot people .
+(S (ARGM-ADV (ARGM-ADV F1-is (ARG1 F2-is F4-comes ) ) F3-is ) )	course|dishVariation|country|language	Cookie is a type of dessert ,	as too is Binignit	which comes from the Philippines	Philippine English is the language of the Philippines .
+(S-LIST F3-are (ARG3 F1-comes F2-is ) )	|country|language	Sandesh and Binignit are desserts .	Binignit comes from the Philippines ,	where the language is Philippine English .
+(S (AND (AND F1-written F1-preceded ) F1-written ) )	followedBy|precededBy&&precededBy_2|author	The Ring of Fire II is written in English	and preceded by Grantville Gazette , Grantville Gazette II	and 1634 : The Bavarian Crisis . The latter book is written by Virginia DeMarce and Eric Flint .
+(S (AND (AND (AND F1-affiliated F1-null ) F1-located ) (ARG2 F1-is F2-publishing ) ) )	|affiliation||president|	Cornell University is affiliated with the Association of Public	and Land grant Universities	and the Association of American Universities . The University is located in Ithaca New York	and is overseen by its President , Elizabeth Garrett . It is responsible for	publishing the Administrative Science Quarterly .
+(S (AND F1-published F1-spoken ) )	ethnicGroup&&publisher|spokenIn	A Loyal Character Dancer is published by Soho Press in the United States , a country with an ethnic groups of African American	and a language of English ( also spoken in Great Britain ) .
+(S (AND F1-spoken F1-published ) )	spokenIn|ethnicGroup	The English language is spoken in Great Britain	and the United States where Native Americans are an ethnic group . A Loyal Character Dancer is published in the United States by Soho Press .
+(S-LIST (ARG0 F1-published F2-located ) (AND F3-is (ARG1 F1-has F2-called ) ) )	country|publisher|language|spokenIn|ethnicGroup	A Loyal Character Dancer is published	by Soho Press , located in the United States .	English is the main language of the U.S. ,	and is also spoken in Great Britain . The U.S. has	an ethnic group called Asian Americans .
+(S-LIST (ARG2 F1-is F2-are ) (AND F3-is (ARG1 F1-uses F2-spoken ) ) )	country|ethnicGroup|capital|language|spokenIn	A Severed Wasp is from the United States	where the Native Americans are an ethnic group .	The capital city is Washington DC	and uses the English language	which is also spoken in Great Britain .
+(S-LIST F3-published (ARG2 F1-is F2-including ) )	||followedBy	The novel Into Battle is published in Australia .	It is in a series of books	including The Violet Keystone , Above The Veil , Aenir and Castle .
+(S-LIST (ARGM-LOC F1-written F2-spoken ) (AND F3-is (ARG1 F1-is F2-called ) ) )	language|spokenIn|leaderName|country|ethnicGroup	A Severed Wasp was written in the English	language which is spoken in Great Britain . A	severed Wasp originates from the United States where Barack Obama is the leader	and there is	an ethnic group called Asian Americans .
+(S (AND F1-null F1-spoken ) )	ethnicGroup&&leaderName|spokenIn	A severed Wasp originates from the United States , a country with President Barack Obama , an ethnic group of Asian Americans ,	and a language of English ( also spoken in Great Britain ) .
+(S (AND (AND (ARG2 F1-is F2-are ) F1-written ) F1-preceded ) )	leaderName|ethnicGroup|capital|precededBy	Barack Obama is the president of the US	where there are many Asian Americans	and the capital is Washington D. C. 1634 The Ram Rebellion was written in the U.S	and is preceded by 1634 : The Galileo Affair .
+(S-LIST (S-LIST (AND (ARG1-of F2-living F1-is ) (ARG1 F2-is F3-called ) ) F1-is ) (AND F4-is F1-written ) )	country|||ethnicGroup|leaderName|capital|	The demonym for people living in the United States	is Americans	and there is	an ethnic group called African American .	The leader of the United States is Barack Obama ,	the capital is Washington D. C.	and 1634 The Ram Rebellion was written there .
+(S (AND (AND F1-spoken F1-published ) F1-is ) )	spokenIn||	English is spoken in Great Britain	and the United States where there are many Asian Americans . A Wizard of Mars was published in the United States	and the leader is the President .
+(S-LIST (AND (ARG1-of F2-known F1-led ) F2-has ) F1-is )	leaderTitle||ethnicGroup|isPartOf	The United States , whiere the inhabitants are known as Americans ,	is led by the President	and has Asian Americans as an ethnic group .	It is the location of Albany , part of the state of Georgia .
+(S-LIST (ARG2 F1-is F2-are ) F3-is )	||largestCity	Alpharetta , is in Fulton County , Georgia , in the United States ,	a country where Native Americans are an ethnic group .	The largest city in Fulton County is Atlanta .
+(S-LIST F2-is (ARG1-of F3-located F1-is ) )	country|language|isPartOf	The capital of the United States is Washington D.C ,	the language of this country is english . Amarillo , that its a beautiful place located in this country	is part of Potter County in the state of Texas .
+(S-LIST F1-is F2-spoken )	language|capital&&state	In Amarillo , Pottery County , Texas U.S. the native language is English .	It is also spoken in the capital of Texas , Austin .
+(S-LIST F3-spoken (ARG2 F1-is F2-is ) )	country|capital|	English is spoken in Texas , United States .	Austin is the capital of Texas ,	which is also the location of Amarillo , Potter County .
+(S (AND F1-is F1-has ) )	|areaTotal	Anderson , Indiana , is part of the Anderson Township	and Fall Creek Township , Madison County in Indiana , U.S. Anderson has 523.9 people per square kilometer and an area of 107.43 square kilometres .
+(S (ARGM-LOC (ARGM-LOC F1-spoken F2-find ) F3-governed ) )	isPartOf_2|isPartOf_3|leaderTitle	English is spoken in California ,	where you will find the city of Antioch , Contra Costa County , in the San Francisco Bay area	Antioch is governed by California 's 11th State Assembly district .
+(S (AND (ARG2-of F3-is F1-covers ) (TOK (ARG0 F1-has F2-is ) F1-has ) ) )	isPartOf|populationDensity|areaOfLand|areaTotal|areaCode	Atlanta which is part of DeKalb County Georgia	has a population of 1299.0 inhabitants per square kilometre , covers 344,9 square kilometres	and	total area	is 347.1 sq KM has an area code of 404 .
+(S (AND F1-lies F1-has ) )	elevationAboveTheSeaLevel&&isPartOf|populationDensity&&areaTotal	Attica , part of Logan Township , Indiana , United States , lies 166 above sea level	and has a population density of 783.1 people for each of its 4.14 square kilometres .
+(S-LIST (TOK (C-ARG2 F1-includes F2-is ) F1-includes ) (AND F3-located F1-is ) )	state|capital|ethnicGroup|country|isPartOf	The United States ,	where the capital is Washington DC ,	includes the ethnic group of African Americans .	Auburn is located in the country	and is part of Lee County in Alabama .
+(S-LIST F2-is F1-forms )	populationDensity|isPartOf&&isPartOf_2	The population density of Auburn is 914.8 person for each of its 77.21 square kilometres .	Auburn forms part of King County and Pierce County , both of Washington , United States .
+(S (AND (ARG2 F1-is F2-is ) F1-is ) )	isPartOf_2|largestCity&&language|countySeat	Austin is part of Williamson County , in Texas ,	where English is a language spoken . Round Rock is the largest city in Williamson County	and Georgetown is the county seat .
+(S (AND (ARG1-of F2-spoken F1-is ) (ARG2 F1-is F2-has ) ) )	isPartOf||largestCity|countySeat	Texas , where English is spoken ,	is home to Austin	and the largest city Houston . Austin is part of Hays County ,	which has San Marcos as its County seat .
+(S-LIST F1-is F2-is )	isPartOf_2|countySeat	One of the languages of Texas , the location of Austin in Hays County , is Spanish .	The county seat is San Marcos but the largest city in Texas is Houston .
+(S-LIST F1-is F2-spoken )	isPartOf&&isPartOf_2|capital	Alexandria , part of Madison County , Indiana is in the U.S.	The capital of Indiana is Indianapolis . American English is spoken in that state .
+(S-LIST (ARG2 F1-is F2-is ) (ARGM-LOC F3-spoken F4-is ) )	isPartOf|countySeat|isPartOf_2|largestCity	Arlington is part of Tarrant County in Texas	where Fort Worth is the county seat .	Spanish is spoken in Texas	where Houston is the largest city .
+(S (AND F1-has F1-is ) )	largestCity|country	Tarrant County has its largest city as Fort Worth . Arlington , Tarrant County , Texas ,	and Austin ( TX capital ) is part of the United States .
+(S-LIST F2-is (AND F1-are F1-null ) )	largestCity|country|ethnicGroup	New York City ( NYC ) is the largest U.S. city .	Atlantic City , New Jersey are also part of the United States with its capital as Washington , DC	and home to White Americans .
+(S-LIST F3-live (AND (ARG2 (ARG1-of F2-is F1-is ) F4-called ) (ARG2 F1-is F2-located ) ) )	|capital||demonym||isPartOf	People who live in the US	are referred to as Americans . The United States , where Washington DC is the capital ,	is home to an ethnic group	called Native Americans	and is	where Albany , Linn County , Oregon is located .
+(S-LIST (TOK (ARG1 F1-is F4-is ) F1-is ) (ARG2 F2-is F3-located ) )	country|capital||isPartOf|	One of the ethinic groups of the United states where	Washington D.C. is capital	is Asian Americans .	Albany is a city in Oregon	which is also located in the US .
+(S-LIST (AND (ARG2 F1-are F2-occupying ) F3-are ) (ARG2 F1-is F2-is ) )	||ethnicGroup|language|country	Americans are the people	occupying the US	and one of the ethnic groups are the African Americans .	English is the language spoken in the US . Angola is in Steuben County , Indiana ,	which is part of the United States .
+(S-LIST F1-is (AND F2-is F1-are ) )	isPartOf|capital|ethnicGroup	Auburn is part of Lee County in Alabama in the U.S.	The capital of the U.S. is Washington , D.C.	and Native Americans are one ethnic group in that country .
+(S-LIST F2-is F1-are )	isPartOf|ethnicGroup	Auburn is part of Lee County , Alabama in the U.S.	Opelika is the county seat in Lee County . Native Americans are one of the ethnic groups in the United States .
+(S F1-are )	ethnicGroup	Newark , Trenton and Atlantic City are all part of New Jersey , within the United States ( home of The Native Americans ) .
+(S-LIST (AND F1-located F2-is ) (TOK (ARG2 F1-called F3-was ) F1-called ) )	|language||leader|	Albuquerque , New Mexico is located in the United States	and English is the spoken language there .	The leader of the United States is called the President	whom was Barack Obama	recently .
+(S-LIST (AND (ARGM-LOC F1-live F2-spoken ) F3-are ) (ARG2 F1-is F2-is ) )	country|language|ethnicGroup|demonym|isPartOf	Americans live in the United States ,	where English is spoken	and where Asian Americans are an ethnic group .	The US is the location of Angola ,	which is in Steuben County , Indiana .
+(S (AND (ARG2 F1-is F2-is ) (ARG2 (ARGM-LOC-of F3-are F1-is ) F2-is ) ) )	leader|capital|||isPartOf	Barack Obama is leader of the United States ,	where the capital is Washington DC	and where Native Americans are an ethnic group .	The US is home to Akron ,	which is part of Summit County , Ohio .
+(S (AND (ARG2 F1-is F2-led ) (TOK (ARGM-LOC F1-are F2-called ) F1-are ) ) )	country|||demonym|ethnicGroup	Albany , Georgia is in the United States , a country	led by the President of the United States	and	where the inhabitants are called Americans .	One of the ethnic groups in the country are the African Americans .
+(S (AND (ARG1-of F2-established F1-built ) F1-is ) )	established|location|category	The 11th Mississippi Infantry Monument , established in 2000	was built at Seminary Ridge , Gettysburg Pennsylvania , USA	and is a contributing property .
+(S-LIST (S-LIST (AND F1-found F3-categorised ) F1-is ) (AND F2-lies F1-lies ) )	location|category|has_to_its_north|has_to_its_southeast|has_to_its_southwest	The 11th Mississippi Infantry Monument is found in the Adams County in Pennsylvania	and is categorised as a contributing property .	Cumberland County , Pennsylvania is to the north of the Adams County .	To the southeast lies Carroll County	and to southwest lies Frederick County , both of Maryland .
+(S (AND (AND F1-is F1-is ) (TOK (ARG1 F1-located F2-dedicated ) F1-located ) ) )	leaderName|leaderTitle||dedicatedTo|	Azerbaijan 's leader is Artur Rasizade	and his official title is Prime Minister of Azerbaijan . Baku is the capital	and	the Baku Turkish Martyrs Memorial which is dedicated to the Ottoman army soldiers killed in the Battle of Baku	is located in the country .
+(S-LIST (AND (ARG2 F1-is F2-is ) F4-is ) (ARG2 F1-is (ARG2 F2-dedicated F3-lost ) ) )	capital|legislature|leaderName|location|dedicatedTo|	Baku is the capital of Azerbaijan	where the legislature is the National Assembly	and the leader is Artur Rasizade .	The country is the location of the Baku Turkish Martyrs memorial	which is dedicated to the soldiers of the Ottoman army	who lost their lives in the battle of Baku .
+(S (ARGM-ADV (ARGM-ADV F1-is F3-is ) F2-is ) )	|capital|largestCity	Ahmet Davutoglu is the President of Turkey ( the leader ) .	While the capital of Turkey is Ankara	, the largest city is Istanbul . Turkey is the location of the Ataturk monument ( Izmir ) .
+(S-LIST F1-located (AND F2-established F1-has ) )	state|established|academicStaffSize	AWH Engineering College is located southeast of Mahe in Kuttikkattoor , Kerala , India .	The College was established in 2001	and has 250 academic staff .
+(S-LIST (S-LIST (AND F1-located F2-affiliated ) F1-is ) F3-been )	campus|affiliation|director|numberOfPostgraduateStudents	The Acharya Institute of Technology is located in Soldevanahalli , Acharya Dr. Sarvapalli on Radhakrishnan Road , Hessarghatta Main road , Bangalore 560090 ,	and is affiliated with Visvesvaraya Technological University .	Dr. G. P. Prabhukumar is the Director .	There have been 700 Post Graduate students .
+(S-LIST F1-has (AND F2-affiliated F1-is ) )	numberOfPostgraduateStudents&&city|affiliation|president	The Acharya Institute of Technology in Bangalore , India has 700 postgraduate students .	It is affiliated to the Visvesvaraya Technological University	and its president is B.M.Reddy .
+(S-LIST F1-affiliated (AND F2-has F1-is ) )	affiliation|leaderTitle|leaderName	The School of Business and Social Sciences at the Aarhus University in Denmark is affiliated to the European University Association in Brussels .	Denmark has a monarchy	and its leader is Lars Lokke Rasmussen .
+(S-LIST (AND F1-established F2-has ) F1-is )	established&&country|academicStaffSize|largestCity	The AWH Engineering College in Kuttikkattoor , India was established in 2001	and has a staff of 250 .	The country 's largest city is Mumbai .
+(S-LIST F1-located (AND F2-is F1-is ) )	||largestCity	AWH Engineering College is located in Kerala India .	Kochi is the leader of Kerala . Ganges is the main river in India	and Mumbai is the largest city .
+(S-LIST (AND F1-established F2-has ) F1-is )	established&&city|academicStaffSize|leaderName	The School of Business and Social Sciences at the Aarhus University in Aarhus , Denmark was established in 1928	and it has 737 academic staff .	The leader of Denmark is Lars Lokke Rasmussen .
+(S-LIST F1-affiliated F2-has )	headquarters&&affiliation|city	The School of Business and Social Sciences at the Aarhus University in Aarhus is affiliated to the European University Association ( headquarters in Brussels ) .	Aarhus has a magistrate government . Aarhus has Mols to its northeast .
+(S (AND F1-created (ARG2 F1-is F2-stars ) ) )	creator|creator_2|starring	Baymax was created by American Duncan Rouleau	and Steven T. Seagle . Baymax is a character in Big Hero 6	which stars Alan Tudyk .
+(S-LIST (AND F1-led (ARG2 F3-is F4-play ) ) (AND (ARG2 F1-is F2-is ) F1-plays ) )	leader|||manager|club_2|club	Italy is led by Pietro Grasso	and is	where AC Lumezzane play .	Their manager is Michele Marcolini	who is in the Vicenza Calcio club	and plays for FC Bari 1908 .
+(S-LIST (ARG2 F3-is F4-is ) (AND (ARG1 F1-had F2-was ) F1-attached ) )	|||club_2|club	A.F.C. Blackpool is in	Blackpool , which council is Labour ,	it has had	Stuart Parker as their manager , whose football club was Stockport County F.C	and is attached to Chesterfield football club .
+(S-LIST F1-are (AND (ARG1 F2-has F4-spoken ) F1-is ) )	champions|ground|language|leader	S.S. Robur Siena are champions of Serie D. league in which AS Gubbio 1910 also play .	This latter team has their ground in Italy	where the Italian language is spoken	and the leader is Sergio Mattarella .
+(S (AND F1-is (ARG1 F1-manages F2-have ) ) )	club_2||ground	Gus Poyet is in the Real Zaragoza club	and previously played for Chelsea FC . He now manages AEK Athens	who have their home ground at the Olympic Stadium ( Athens ) at Marousi .
+(S-LIST (AND (ARGM-LOC F1-located F2-spoken ) F3-is ) (ARG0 F1-inhabited F2-have ) )	ground|language|leader|demonym|capital	AS Gubbio 1910 is located in Italy	where the Italian language is spoken	and Pietro Grasso is the leader .	The country is inhabited by Italians	who have Rome as their capital city .
+(S-LIST (ARG2 F1-is F3-is ) (AND F2-is (ARG0 F1-occupied F2-located ) ) )	capital|officialLanguage|leader|ground|demonym	The capital of Rome is	Italy whose language is Italian .	The leader of the country is Sergio Mattarella	and it is occupied	by Italians . A.S. Gubbio 1910 is located there .
+(S-LIST (ARGM-LOC F1-found F3-is ) (AND (ARG2 F2-is F4-is ) F1-is ) )	region|language|country|currency|leaderName	Arem - arem while more specific to java , is found nationwide in Indonesia ,	where the language is Indonesian .	It is also	where the currency is the Indonesian rupiah	and Jusuf Kalla is a leader .
+(S-LIST (ARGM-LOC F2-are F4-is ) (AND (ARG2 F1-is F3-come ) F1-found ) )	ethnicGroup&&ethnicGroup_2|capital|||	The Malaysian Chinese and Malay are ethnic groups in Malaysia	where the capital is Kuala Lumpur .	It is also where the food dish Asam pedas ,	which come from the region of Sumatra	and the Malay Peninsula , is found .
+(S-LIST (ARGM-PRD F1-are F3-is ) F2-comes )	ethnicGroup&&ethnicGroup_2|capital|region	Malays and Malaysian Indians are both ethnic groups in Malaysia , the capital city	of which is Kuala Lumpur .	Asam pedas is a food found in Malaysia . It comes from the Sumatra and Malay Peninsula regions .
+(S-LIST F1-is (AND F2-is (TOK (ARG1 F1-are F2-found ) F1-are ) ) )	country|capital|||	Asam pedas is a dish from Sumatra in Malaysia ,	The capital of Malaysia is Kuala Lumpur	and	two of the ethnic group found here	are the Malay and Malaysian Indian .
+(S-LIST F3-is (ARG2 F1-is (ARG1 F2-are F4-called ) ) )	region|leaderName||ethnicGroup	Asam pedas is a food from the Malay Peninsula region of Malaysia .	Abu Zahar is a leader in Malaysia ,	where there are	ethnic groups called the Malays and the Malaysian Indians .
+(S-LIST F1-comes (AND F2-are F1-null ) )	region|mainIngredients&&ingredient|	Bacon Explosion comes from the Kansas City metropolitan area of the United States .	Its main ingredients are bacon	and sausage .
+(S-LIST (AND (ARG2 F1-comes F2-are ) F1-is ) (AND F2-spoken F1-is ) )	country|ethnicGroup|leaderName|language|capital	Bacon Explosion comes from the United States	where one of the ethnic groups are White American	and Paul Ryan is a leader .	English is spoken there	and the capital is Washington , D.C.
+(S-LIST (AND F1-uses F1-known ) (AND F2-is F1-is ) )	|alternativeName|dishVariation|country	The bacon sandwich uses bread	and bacon with ketchup or brown sauce as a condiment , is also known as a bacon butty , bacon sarnie , rasher sandwich , bacon sanger , piece ' n bacon , bacon cob , bacon barm , or bacon muffin .	A variation is the BLT ,	and the country of origin is the United Kingdom .
+(S-LIST (AND (ARGM-LOC F1-spoken F2-are ) F2-is ) F1-served )	language&&country|leaderName|leaderName_2|region	The French language is spoken in France	where the leaders are Manuel Valls	and Gerard Larcher . Baked Alaska is from France	but it 's also served in Hong Kong .
+(S (AND (AND (ARG2 F1-is F2-belongs ) F1-is ) F1-located ) )	ingredient|family|region|country	An ingredient of bandeja paisa is lemon	which belongs to the rutaceae family	and falls under the order of rosids . Bandeja paisa is a dish from the Antioquia Department region	and the department is located in Colombia .
+(S-LIST (ARG2 F1-are F4-is ) (ARG2 F2-is (TOK (ARG1 F3-are F5-made ) F3-are ) ) )	leaderName&&leaderName_2|language|||ingredient|	Francois Hollande and Gerard Larcher are leaders in France ,	where the language is French .	It is also	where	Barny cakes , made with sponge cake ,	are from .
+(S (AND (ARG2 (ARG2 F1-is F2-found ) F3-contains ) F1-are ) )	leaderName|dishVariation|ingredient|	Joko Widodo is the leader of Indonesia ,	where the dish batagor can be found . Batagor , Siomay	( which contains peanut sauce )	and Shumai are all variations of the same dish .
+(S-LIST (ARGM-LOC F1-found F2-is ) (AND F3-is F1-contains ) )	country|leaderName|dishVariation|ingredient	Batagor is found in Indonesia ,	where the leader is Joko Widodo .	The dish is a variation of siomay	and shumai ( which contains shiitake ) .
+(S-LIST (ARGM-LOC F1-found F4-led ) (ARG2 F2-is F3-is ) )	country|leaderName|ingredient|dishVariation	Batagor is found in the country of Indonesia	which is led by Jusuf Kalla .	Shiitake is an ingredient of Shumai	which is a variation of Bataho and Siomay .
+(S (AND (AND F1-null F1-originate ) F1-contain ) )	alternativeName|region|mainIngredients	Bhajji , alternative names : bhaji	and bajji , originate from the Karnataka region of India	and contain the main ingredients of gram flour and vegetables .
+(S (AND F1-is F1-is ) )	|leaderName_2	The Bhajji originates from the Karnataka region of India . The country 's leader is T. S. Thakur	and Vajubhai Vala is the leader of Karnataka .
+(S (ARG1 (ARG1 F1-enjoy F2-originates ) F3-led ) )	demonym|region&&country|leaderName_2	Indian people enjoy the dish bhajji ,	which originates from the Karnataka region of India	This nation is led by T.S. Thakur and Sumitra Mahajan .
+(S (AND F1-is F1-includes ) )	region&&country|mainIngredients	Bionico is a dessert dish from the Guadalajara region of Mexico	and it includes the ingredients chopped fruits , sour cream , condensed milk , granola , shredded coconut and raisins .
+(S (AND (ARG2 F1-is (ARG2 F2-is F3-speak ) ) (TOK (ARG1 F1-eat F2-flavoured ) F1-eat ) ) )	leaderName||language||dishVariation|course	Enrique Pena Nieto is the leader of Mexico	which is	where they speak Spanish	and eat	bionico , flavoured with honey ,	for dessert .
+(S (AND (ARG2 F1-is F2-is ) F1-used ) )	leaderName|region|dishVariation	Silvano Aureoles Conejo is the leader of Mexico ,	where the dish Bionico can be found in the Jalisco region . Bionico is a dessert dish	and honey is used in one of its variants .
+(S (ARG2 (ARG2 F1-is F3-is ) (ARG2 F2-is F4-is ) ) )	|ethnicGroup&&country||	Felipe VI of Spain is the leader of	Spain , whose main ethnic group is Spaniards Arròs negre	is a traditional dish from the Catalonia region of Spain , whose leader	is Carles Puigdemont .
+(S-LIST (S-LIST (ARG2 F1-is F4-comes ) F2-is ) (AND (ARG1-of F5-spoken F3-is ) F1-include ) )	country||capital|||leaderName	Italy is the country Amatriciana sauce	comes from .	The capital of the country is Rome ,	the language spoken	is Italian	and the leaders include Matteo Renzi and Laura Boldrini .
+(S (AND (AND F1-comes F1-is ) F1-are ) )	demonym|capital|leaderName_2	Amatriciana sauce comes from Italy , where Italians come from	and Rome is the capital city . Sergio Mattarella	and Laura Boldrini are leaders in Italy .
+(S-LIST (ARG2 F1-are F3-spoken ) (AND (ARG2 F2-is F4-is ) F1-comes ) )	leaderName&&leaderName_2|language||capital|	Matteo Renzi and Pietro Grasso are leaders in Italy	where Italian is spoken .	It is also	where Rome is the capital	and where Amatriciana sauce comes from .
+(S (AND (ARG1-of F2-fried F1-made ) F1-found ) )	ingredient|ethnicGroup|region	The fried chicken dish Ayam penyet	is made nationwide in Java ( land of the Javanese ) ,	and can also be found in Malaysia and Singapore .
+(S-LIST (ARG2 F1-are F2-found ) (AND F3-is F1-spoken ) )	ethnicGroup||leaderName|language	The Javanese people are an ethnic group of Java ,	where the dish Ayam penyet can be found .	The dish is from Singapore , where Tony Tan is the leader	and the English language is spoken .
+(S (AND (AND (ARG2-of F2-spoken F1-are ) F1-are ) F1-comes ) )	country|language|ethnicGroup&&language_2|ethnicGroup&&ethnicGroup_2	Among the languages spoken in the Philippines	are Arabic	and Philippine Spanish . The Zamboangans are a group in the Philippines	and another group is the Chinese Filipino . Batchoy comes from the Philippines .
+(S-LIST (AND F1-is F2-is ) (ARG2 (ARG2 F1-is F4-known ) F3-is ) )	ethnicGroup|language|country|region|leaderName	Spain 's major ethnic group is the Spaniards	and the main spoken language is Spanish .	Ajoblanco is one of the country 's well -	known food from the Andalusia region	where Susana Diaz is the regional leader .
+(S (ARG2 (ARG2 F1-is (TOK (ARG1 F3-originates F5-is ) F3-originates ) ) (ARG2 F2-is (TOK (ARG1 F4-called F6-live ) F4-called ) ) ) )	|region|leaderName||leaderName|||demonym	Ajoblanco is a Spanish dish	that originates Andalusia ,	where the leader is Susana Diaz	Felipe VI	is the leader of Spain ,	where the people	that live there	are called Spaniards .
+(S-LIST (ARG1-of F2-born F1-selected ) F3-is )	occupation|was_selected_by_NASA|status	The American test pilot Alan Bean ( born in Wheeler , Texas )	was selected by NASA in 1963 .	He is now retired .
+(S-LIST (AND F1-born F3-was ) (ARG1 F1-awarded F2-is ) )	birthPlace|was_a_crew_member_of|awards|higher	Alan Shepard was born in New Hampshire	and he was a member of the NASA Apollo 14 crew .	He was awarded the United States Navy Distinguished Service Medal ,	which is higher than the Department of Commerce Gold Medal .
+(S-LIST (ARGM-ADV-of F3-born F1-was ) (ARG1 F2-served F4-operated ) )	birthPlace|nationality||was_a_crew_member_of&&commander	Though William Anders was born in British Hong Kong ,	he was a United States national .	He served	as a crew member on NASA operated Apollo 8 under commander Frank Borman .
+(S-LIST F1-born (AND (ARG0-of F3-was F2-worked ) F1-was ) )	birthPlace||nationality|was_a_crew_member_of	Buzz Aldrin was born on January 20,1930 in Glen Ridge New Jersey .	He	was a United States national , worked as a fighter pilot	and was a crew member on Apollo 11 .
+(S-LIST (ARG2 F1-was F2-born ) (AND F3-was F1-organized ) )	|birthPlace|occupation|was_a_crew_member_of	Buzz Aldrin was a US national	who was born in Glen Ridge , New Jersey .	He was a fighter pilot	and crew member on the Apollo 11 program organized by NASA .
+(S-LIST (S-LIST F2-born F1-graduated ) (AND F3-was F1-is ) )	|almaMater|occupation|was_a_crew_member_of	Buzz Aldrin was born in Glen Ridge , NJ .	He graduated from MIT , Sc . D. in 1963 .	He was a fighter pilot	and a crew member of Apollo 11 . He is now retired .
+(S-LIST (S-LIST F3-born (ARG2 F1-was F2-organized ) ) F4-was )	|was_a_crew_member_of|operator|backup_pilot	Buzz Aldrin was born in Glen Ridge , NJ .	He was a member of the Apollo 11 crew ,	organized by NASA .	He is now retired . William Anders was a backup pilot for Apollo 11 .
+(S (ARG1-of F3-born (ARG1-of F2-was F1-retired ) ) )	|was_a_crew_member_of|status	Buzz Aldrin was born on January 20th , 1930	He was a crew member on NASA 's Apollo 11 . The backup pilot for Apollo 11 was William Anders .	Aldrin has now retired .
+(S (AND (ARG2 F1-is F2-found ) F1-died ) )	senators|gemstone|was_a_crew_member_of	Dianne Feinstein is senator of California , the state	in which the gemstone Benitoite is found	and the state Alan Shepard , NASA 's Apollo 14 crew member , died in .
+(S-LIST (AND F1-born F3-died ) (C-ARG1 F1-awarded F2-is ) )	nationality|deathPlace|awards|higher	Alan Shepard was born in New Hampshire ( United States )	and died in California .	He was awarded the Distinguished Service Medal by the United States Navy ,	which is higher than the Department of Commerce Gold Medal .
+(S-LIST (ARG2 F1-is F2-born ) (AND F3-became F1-retired ) )	|birthPlace|occupation|was_a_crew_member_of	William Anders is an American	who was born in British Hong Kong .	He became a fighter pilot	and later a member of the crew on Apollo 8 . He retired on 1 September 1969 .
+(S-LIST F1-is (AND F2-is F1-is ) )	isPartOf|leaderName|language	The location of Aarhus Airport is Tirstrup , part of the Central Denmark region , in Denmark .	Where the leader is Margrethe II of Denmark	and where the language is Faroese .
+(S (AND (AND (ARG1-of F2-operated F1-located ) F1-located ) (ARG1 F1-has F2-is ) ) )	operatingOrganisation|location|elevationAboveTheSeaLevel_(in_metres)|runwayName|runwayLength	Adolfo Suarez Madrid - Barajas Airport , operated by ENAIRE ,	is located in Madrid , Paracuellos de Jarama , San Sebastian de los Reyes	and Alcobendas . It is located 610 metres above sea level	and has a runway name of 14L/32R	which is 4100.0 in length .
+(S-LIST (AND F1-is F2-is ) (AND F1-operated F1-is ) )	runwayLength&&location|ICAO_Location_Identifier|operatingOrganisation|elevationAboveTheSeaLevel_(in_metres)	The runway length at Agra airport in India is 1818	and the ICAO location identifier is VIAG .	The airport is operated by the Indian Air Force	and is 167.94 metres above sea level .
+(S-LIST (AND F1-is F1-operated ) (AND F2-is (TOK (ARG0 F1-has F2-called ) F1-has ) ) )	location|operatingOrganisation|ICAO_Location_Identifier||runwayName|runwayLength	Al Asad airbase is in Iraq	and is operated by the United States Air Force .	the ICAO location identifier is ORAA	and the runway ,	which is called 08/26	has a length of 3990 .
+(S-LIST (ARG1 F2-has F3-is ) (AND (TOK (ARGM-PRD F1-operated F4-situated ) F1-operated ) F1-has ) )	runwayName|runwayLength||location|operatingOrganisation|ICAO_Location_Identifier	Al Asad air base has a runway name of 08/26	which is 3992.8 in length .	It	is situated in the Al Anbar Province of Iraq ,	is operated by the United States Air Force	and has the ICAO location identifier ORAA .
+(S-LIST (AND F1-found F2-is ) (ARG0 F1-carried F3-operates ) )	attackAircraft|transportAircraft|aircraftFighter&&battles|	The Lockheed AC-130 can be found on USAF aircraft carriers	and the Boeing C-17 Globemaster III is a transport aircraft of the United States Air Force .	The airforce also has the aircraft fighter the General Dynamics F-16 Fighting Falcon . The 1986 United States bombing of Libya was carried out by the United States Air Force	which now operates Al Asad Airbase .
+(S (AND (AND (ARG0 F1-operated F2-were ) F1-deploy ) F1-null ) )	operatingOrganisation|battles|attackAircraft|transportAircraft	Al Asad airbase is operated by the United States Air Force	who were involved in battles at the invasion of Grenada	and during Operation Enduring Freedom . They deploy the Lockheed AC-130 as an attack aircraft	and the Lockheed C-130 Hercules as a transport aircraft .
+(S (AND (AND F1-is (ARG1 F1-has (ARG2 F2-made F3-named ) ) ) F1-has ) )	elevationAboveTheSeaLevel_(in_metres)|cityServed|1st_runway_SurfaceType|runwayName|runwayLength	Alderney Airport is 88 metres above sea level	and serves the city of Alderney . It has	a 1st runway made of poaceae	which is named 08/26	and has a length of 733.0 .
+(S (AND (AND F2-Operated F1-has ) F1-null ) )	operatingOrganisation|runwayLength&&location|runwayName	Operated by the Pakistan Civil Aviation Authority	and located in Pakistan , is Allama Iqbal International Airport . This airport ; serves the city of Lahore , has a runway length of 3310.0	and a runway with the name 18L/36R.
+(S-LIST (AND F1-serves F1-operated ) (AND F2-is F1-is ) )	cityServed&&location|operatingOrganisation|runwayName|runwayLength	Allama Iqbal International Airport in Punjab , Pakistan , serves the city of Lahore	and is operated by Pakistan Civil Aviation Authority .	The airport runway name is 18R/36L	and it is 2900.0 in length .
+(S (AND (ARG1-of F2-serves F1-found ) (ARG1 F1-has F2-is ) ) )	|location|runwayLength|	Alpena County Regional Airport , which serves Alpena is	found in Maple Ridge Township , Alpena County , Michigan in the U.S.A. The airport is 210 metres above sea level	and has a runway	that is 1,533 long .
+(S-LIST (TOK (ARG2 F1-Serving F3-located ) F1-Serving ) (AND (ARG0-of F4-is F2-has ) F1-is ) )	cityServed|location|||runwayName&&elevationAboveTheSeaLevel_(in_metres)|runwayLength	Serving the city of Aplena and	located in Ridge Township , Alpena County , Michigan ,	is Alpena County Regional Airport .	It	is 210 metres above sea level , has a runway with the name 7/25	and a runway that is 1533.0 long .
+(S (AND (ARGM-LOC-of (ARGM-LOC-of F3-serving F2-is ) (ARG0-of F4-is F1-has ) ) F1-null ) )	cityServed&&location|||runwayName&&elevationAboveTheSeaLevel_(in_metres)|runwayLength	In Wilson Township , Alpena County , Michigan and serving Alpena ,	is Alpena County Regional Airport .	This airport	is 210 metres above sea level , has the runway name 1/19	and a runway length of 2744.0 .
+(S-LIST (ARG1-of F2-serving F1-located ) (AND F3-is F1-has ) )	cityServed||elevationAboveTheSeaLevel_(in_metres)|runwayLength	Alpena County Regional Airport serving Alpena , Michigan ,	is located in Wilson Township , Alpena County , USA .	The airport is 210 metres above sea level	and has a runway length of 1533.0 .
+(S-LIST (R-ARG0-of F3-Located F2-serves ) (AND (ARG0-of F4-is F1-has ) F1-null ) )	location|cityServed|||runwayName	Located in Ícolo e Bengo ,	Angola International Airport serves Luanda .	The airport	is 159 metres above the sea level , has a runway length of 3800	and the runway name , 05L/23R.
+(S (ARG2 (ARG2 F1-are F4-spoken ) F2-served ) )	leaderName&&leaderName_2||cityServed	Nikos Voutsis and Alexis Tsipras are leaders in Greece	where the Greek language is spoken The city of Athens , located in the country ,	is served by Athens International Airport .
+(S-LIST (ARG2 F1-serves F3-speaking ) F2-are )	cityServed|country|leaderName	Athens International Airport serves the city of Athens , in Greek	speaking Greece .	Two of the leaders of which are Alexis Tsipras and Prokopis Pavlopoulos .
+(S-LIST (ARG2 F1-serves F3-led ) F2-located )	cityServed|leaderName|location	Atlantic City International Airport serves Atlantic City in New Jersey	which is led by Don Guardian .	It is located at Egg Harbor Township , New Jersey , United States .
+(S (ARG2 (ARG2 F1-are F4-is ) (ARG1 F2-is F3-served ) ) )	leaderName|country||cityServed	Philippe of Belgium and Charles Michel are leaders in Belgium , the capital city of which	is Brussels In Belgium	is Antwerp	which is served by Antwerp International Airport .
+(S-LIST F2-is F1-located )	ICAO_Location_Identifier|isPartOf_2	The ICAO location identifier for Atlantic City International Airport is KACY .	It is located at Egg Harbor Township , Atlantic County , New Jersey in the United States .
+(S F1-serves )	cityServed_2	Adirondack Regional Airport serves the city of Lake Placid , part of New York , and also the city of Saranac Lake , part of Harrietstown , New York , United States .
+(S-LIST F2-served F1-serves )	isPartOf_2|cityServed	A part of both Harrietstown and Essex county , in New York ( United States ) , the the city of Saranac Lake is served by Adirondack Regional Airport .	the same airport also serves the city of Lake Placid , New York .
+(S (AND F1-is (ARG2 F1-is (ARG0 F2-operated F3-use ) ) ) )	isPartOf||operatingOrganisation|aircraftHelicopter	Uttar Pradesh is part of both Awadh	and Bundelkhand . It is the location of Agra airport	which is operated by the Indian Air Force	who use the HAL Light Combat helicopter .
+(S-LIST (ARG2 F2-is (ARG0 F4-used F5-operates ) ) (ARGM-LOC F1-located F3-is ) )	aircraftHelicopter|||location|leaderName	The HAL Light Combat Helicopter is a Helicopter	used by the Indian Air Force	which operates Agra Airport .	This airport is located in Uttar Pradesh	( part of Bundelkhand ) , where Ram Naik is the leader .
+(S-LIST (AND F1-led F2-uses ) F1-is )	|language|country	Iraq is led by Haider al - Abadi and Fuad Masum	and uses the Arabic language .	The country is the location of Al - Taqaddum air base in Fallujah .
+(S F1-completed )	isPartOf	The 200 Public Square was completed in 1985 in Cuyahoga County , Cleveland , Ohio , United States .
+(S-LIST F1-began F2-has )	architecturalStyle&&buildingStartDate|floorArea	Construction of 250 Delaware Avenue , Buffalo , New York , began in January 2014 in the postmodernist style of architecture .	The building has 12 floors with a total area of 30843.8 square metres .
+(S-LIST F1-located (AND F2-is F1-is ) )	country|leaderName|capital	300 North LaSalle is located in Chicago , Illinois , United States .	The leader of Chicago is Rahm Emanuel	and the capital of the state of Illinois is Springfield .
+(S-LIST (AND (ARGM-LOC F1-located F2-spoken ) F3-is ) (ARG2 F1-is F2-founded ) )	location|language|leaderName|tenant|foundationPlace	AC Hotel Bella Sky Copenhagen is located in Denmark ,	where Faroese is spoken ,	and the leader is Margrethe II of Denmark .	The hotel 's current tenant is the Marriott International Hotel ,	which was founded in Washington , D.C.
+(S (AND F1-founded (ARGM-DIS-of F2-is F1-is ) ) )	||	Marriott International was founded in Washington , D.C.	and	is the tenant of AC Hotel Bella Sky Copenhagen which is in Denmark where Greenlandic is one of the languages spoken there . Bill Marriott is one of the key employees of Marriott International .
+(S-LIST (AND (ARG2 F1-is F2-is ) (ARG2 F3-is F4-spoken ) ) (ARG2 F1-is F2-founded ) )	location|leaderName|language||tenant|foundationPlace	AC Hotel Bella Sky Copenhagen is in Denmark	where the leader is Lars Løkke Rasmussen	and Greenlandic is one of the languages	spoken there .	The tenant of the AC Hotel Bella Sky Copenhagen is the Marriott International Hotel	which was founded in Washington , D.C.
+(S-LIST (S-LIST F3-is (ARG2 F2-is F4-born ) ) (ARG1-of F5-designed F1-is ) )	country||birthPlace||	The Adare Manor is in the Republic of Ireland ,	which leader is Enda Kenny . The architect is Augustus Pugin ,	who was born in Bloomsbury .	One of the significant buildings designed by Augustus Pugin	is the Palace Of Westminster .
+(S-LIST (AND (AND F1-is F1-began ) F2-completed ) F1-are )	|floorArea|completionDate|currentTenants	Addis Ababa City Hall is 42 m high	and has a 140000.0 ( square metres ) floor area . Construction began in 1961	and it was completed in 1964 .	The current tenants are the Government of Addis Ababa .
+(S-LIST F1-is F2-constructed )	location_2|floorCount	Akita Museum of Art is an art museum at 1 - 4 - 2 Nakadori , Akita , Akita Prefecture , Japan .	It was constructed with 3 floors .
+(S-LIST (ARG2 F2-are F3-led ) (ARG2 F1-is F4-found ) )	ethnicGroup||location|isPartOf	The Chinese are one of the ethnic groups in Japan	which is led by Taro Aso .	The country is the location of the Akita Museum of Art	found in Akita , Akita Prefecture .
+(S-LIST F1-designed (AND (AND F2-located F1-owned ) F1-are ) )	architect|location|owner|currentTenants	Alan B. Miller Hall was designed by Robert A.M. Stern ;	it is located in Virginia	and it is owned by the College of William	and Mary . Its current tenants are the Mason School of Business in the US .
+(S (AND F1-led F1-known ) )	leaderTitle|location_2	Gujarat in India is led by the Gujarat Legislative Assembly	and is the location of Amdavad ni Gufa in Ahmedabad . Sumitra Mahajan is known as an Indian leader .
+(S-LIST F3-is (ARG2 F1-is F2-located ) )	leaderName&&country||region	The leader of Sri Lanka is Ranil Wickremesinghe ,	but in the Eastern Province it is Austin Fernando . This is	where the Ampara Hospital is located in Ampara District .
+(S (ARG2 (ARG2 F1-is F4-is ) (ARG2 F2-is F3-governed ) ) )	leaderName&&country|capital||governingBody	Ranil Wickremesinghe is the leader of Sri Lanka	whose capital is Sri Jayawardenepura Kotte Ampara Hospital	is in the Eastern Province	which is governed by the Eastern Provincial Council .
+(S (ARG1-of F2-born F1-was ) )	architect|significantBuilding	Julia Morgan , who was born in San Francisco ,	was the architect of Asilomar Conference Grounds , the Los Angeles Herald examiner building ( a landmark in California ) , Hearst Castle and the Asilomar State Beach .
+(S (AND F1-born F1-include ) )	architect|significantProject&&significantBuilding	Julia Morgan , the architect , was born in San Francisco	and some of her significant projects include Asilomar Conference Grounds , The Riverside Art Museum , Hearst Castle and Asilomar State Beach .
+(S-LIST F1-are (AND F2-called F1-is ) )	|leaderName|isPartOf	The Asser Levy Public Baths are in New York City in the U.S.	New York City has a leader called Cyrus Vance Jr.	and it is part of Manhattan and New Netherland .
+(S-LIST (ARG1-of F3-designed F1-born ) (AND F2-is (ARG2 F1-is F2-is ) ) )	architect|birthPlace|postalCode|governingBody|leaderName	John Madin , the architect who designed 103 Colmore Row ,	was born in Birmingham .	The postal code of that area is B.	and the governing body is	the Birmingham City Council . Labour politician , John Clancy is the leader the area .
+(S-LIST (AND (ARGM-LOC F1-found F2-is ) F1-has ) (AND F2-is F1-is ) )	||leaderTitle|leaderName|capital	250 Delaware Avenue can be found in the United States ,	where the leader is Barack Obama	and he has the title President of the United States .	John Roberts is a leader in the US	and the capital of the country is Washington DC .
+(S-LIST F1-located F2-classified )	location_2|category	The 11th Mississippi Infantry Monument is located at Seminary Ridge , in Adams County , Pennsylvania , USA .	The monument was completed in 2000 . It is classified as a Contributing property .
+(S-LIST (AND (ARG2 F1-is F2-has ) F1-lies ) F2-is )	location|has_to_its_west|has_to_its_southeast|category	The location of the 11th Mississippi Infantry Monument is in Adams County , Pennsylvania .	which has Franklin County to the west	and Carroll County Maryland to the southeast . Cumberland County lies to the north with Frederick County , Maryland to the southwest .	The 11th Mississippi Infantry Monument is a contributing property .
+(S-LIST (ARG2 F3-is F4-has ) (AND (ARG2 F1-is F2-designed ) (ARG2 F1-is (ARG2 F2-dedicated F3-killed ) ) ) )	capital|leader|location|material|||	Baku is the capital of Azerbaijan	which has Artur Rasizade as its leader .	The country is the location of the Baku Turkish Martyrs Memorial ,	designed in red granite and white marble by Huseyin Butuner	and Hilmi Guner . The memorial is	dedicated to the Ottoman army soldiers	killed in the Battle of Baku .
+(S-LIST (S-LIST (S-LIST (AND F1-designed F1-located ) (AND F2-made F1-killed ) ) F2-is ) F3-is )	|location||dedicatedTo|nativeName|leaderName	The Baku Turkish Martyrs ' Memorial ( designed by Huseyin Butuner	and Hilmi Guner ) is located in Baku , Azerbaijan .	It is made from red granite	and white marble . It is dedicated to the Ottoman Army Soldiers killed in the Battle of Baku .	The native name for the memorial is Türk Şehitleri Anıtı .	The leader of Azerbaijan is Artur Rasizade .
+(S-LIST F1-is (AND F2-'s F1-established ) )	||established	The U.S.A. 's 14th New Jersey Volunteer Infantry Monument in Frederick County , Maryland is in the Monocacy National Battlefield .	It 's in a historic district	and was established om July 11th , 1907 .
+(S-LIST (ARG2 F1-is F2-born ) (AND F3-was (ARGM-DIS-of F2-spent F1-is ) ) )	|birthPlace|occupation||timeInSpace&&status	Alan Bean is an American	born on March 15 , 1932 in Wheeler , Texas .	He was a test pilot	and	spent a total of 100305 minutes in space . He is now retired .
+(S-LIST (S-LIST (AND F1-born F5-died ) (ARG2 F3-was F4-operated ) ) (ARG1 F1-awarded F2-is ) )	birthPlace|deathPlace|was_a_crew_member_of|operator|awards|higher	Alan Shepard was born in New Hampshire	and died in California .	He was a crew member of Apollo 14	which is operated by NASA .	He was awarded the Distinguished Service Medal in the US Navy ,	which is higher than the Dept of Commerce Gold Medal .
+(S-LIST F4-operated (AND (ARG1 F1-had (ARG1 F2-including F3-retired ) ) F1-was ) )	|||birthName|commander	Apollo 12 was operated by NASA .	It had	many crew members , including :	its backup pilot , Alfred Worden ; its crew member Alan Bean ( Alan LaVern Bean , retired June 1981 )	and David Scott , who was the commander .
+(S (AND (ARG2 F1-was F2-born ) (ARG4 F1-selected F2-be ) ) )	occupation|almaMater|was_selected_by_NASA|was_a_crew_member_of	Buzz Aldrin was an American fighter pilot	who was born in Glen Ridge , New Jersey . In 1963 , he graduated from Massachusetts Institute of Technology , Sc . D. 1963	and was selected by NASA	to be part of the Apollo 11 crew .
+(S-LIST F1-born (AND F2-graduated (ARGM-DIS-of F2-was F1-was ) ) )	birthPlace|||was_a_crew_member_of	Buzz Aldrin was born on 20th January 1930 in Glen Ridge New Jersey .	He graduated from MIT in 1963	and	was a member of the Apollo 11 crew , operated by NASA . The back up pilot was William Anders .
+(S-LIST (ARG2 F1-was F2-born ) (AND (AND F3-was F1-was ) F1-operated ) )	|birthPlace|backup_pilot&&occupation|was_a_crew_member_of|operator	Buzz Aldrin was an American	born in Glen Ridge New Jersey .	He was a fighter pilot	and a member of the Apollo 11 crew . William Anders was the backup pilot	and the mission was operated by NASA .
+(S-LIST F2-born (ARGM-TMP F1-graduated F3-was ) )	birthPlace|almaMater|was_a_crew_member_of	Buzz Aldrin was born on January 20 , 1930 in Glen Ridge , New Jersey .	He graduated from MIT with a Sc . D in 1963 , in the same year	when he was selected by NASA.Buzz was a member of the Apollo 11 crew as a fighter pilot .
+(S-LIST (S-LIST F4-found (ARG1-of F2-ranked F1-passed ) ) (AND (ARG2 F3-is F5-finding ) F1-is ) )	deathPlace|higher|||fossil|senators	Many interesting facts can be found about California :	Alan Shepard -recipient of the United States Navy Distinguished Service Medal ( ranked higher than the Department of Commerce Gold Medal	) - passed away in this state .	It is also the	finding place of the Smilodon fossil	and home to the gemstone Benitoite . One of California 's senators is Dianne Feinstein .
+(S-LIST (S-LIST (AND (ARG2 F1-is F2-born ) F2-graduated ) F1-is ) F3-was )	|birthPlace|almaMater|occupation|was_a_crew_member_of	William Anders is a US citizen ,	who was born in British Hong Kong	and graduated from AFIT , M.S. in 1962 .	He is a retired test pilot , retiring on 1.09.1969 .	He was a crew member on Apollo 8 .
+(S (AND F1-born F1-retired ) )	birthPlace|was_a_crew_member_of	William Anders was born in British Hong Kong	and served as a crew member on Apollo 8 along with Frank Borman . NASA operated Apollo 8 , where Buzz Aldrin was a back up pilot . Anders retired on Sept 1 , 1969 .
+(S-LIST (ARG1-of F3-retired F1-was ) (AND F2-was F1-null ) )	status|almaMater|backup_pilot|crewMembers	William Anders , retired ,	was a member of NASA 's Apollo 8 after graduating from AFIT in 1962 with an MS .	Buzz Aldrin was a back up pilot	and Frank Borman a crew member .
+(S-LIST (AND (ARG1-of F2-has F1-established ) F2-overseen ) F1-is )	country|established|dean|location	Accademia di Architettura di Mendrisio in Mendrisio , Switzerland has 100 employees ,	was established in 1996	and is overseen by Dean Mario Botta .	The school 's location is Ticino .
+(S-LIST F1-located (AND F2-has F1-affiliated ) )	campus|numberOfPostgraduateStudents|affiliation	The Acharya Institute of Technology 's campus is located in Soldevanahalli , Acharya Dr. Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Karnataka , Bangalore - 560090 , India .	It has 700 postgraduate students	and it is affiliated with the Visvesvaraya Technological University .
+(S-LIST (AND F1-established F2-is ) (AND F1-affiliated F1-is ) )	established&&city|president|affiliation|campus	Acharya Institute of Technology in Bangalore , India was established in 2000	and its president is B.M. Reddy .	The school is affiliated with the Visvesvaraya Technological University	and its full address is In Soldevanahalli , Acharya Dr. Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore – 560090 .
+(S-LIST (ARG2 F1-affiliated F2-has ) (AND F3-is F1-is ) )	affiliation|headquarters|religion|leaderName	The School of Business and Social Sciences at the Aarhus Universuty in Denmark is affiliated with the European University Association ,	which has its HQ in Brussels .	Denmark has a monarch ; its religion is the Church of Denmark	and its leader is Lars Lokke Rasmussen .
+(S-LIST (ARG2 F1-affiliated F2-headquartered ) (AND F3-is F1-led ) )	affiliation|headquarters|dean|country&&leaderName	The School of Business and Social Sciences at Aarhus University , in Aarhus Denmark is affiliated with the European University Association	which is headquartered in Brussels .	The school 's dean is Thomas Pallesen	and the country is led by Lars Løkke Rasmussen .
+(S-LIST (S-LIST F1-established (AND F2-is F1-is ) ) F2-is )	established|river|largestCity|leaderName	The AWH Engineering College in Kerala , India was established in 2001 .	The Ganges is a river in India	and its largest city is Mumbai .	The leader of Kerala is Kochi .
+(S-LIST (S-LIST (S-LIST F1-located F2-is ) (AND F3-is F1-is ) ) (AND F2-is F1-is ) )	country|capital|leaderName|patronSaint|ethnicGroup|anthem	The 1 Decembrie 1918 University is located in Romania .	Romania 's capital is Bucharest ;	its leader is Klaus Iohannis	and its patron saint is Andrew the Apostle .	The ethnic group is the Germans of Romania	and the anthem is Desteapta - te , romane !
+(S-LIST F1-established (AND F2-has F1-is ) )	established&&city|numberOfStudents|academicStaffSize&&leaderName	The School of Business and Social Sciences at the Aarhus University in Aarhus , Denmark was established in 1928 .	It has 16,000 students	and 737 academic staff . The leader of Denmark is Lars Lokke Rasmussen .
+(S-LIST (ARGM-ADV (ARG2 F1-is F4-is ) F5-is ) (ARG2 F2-is F3-inaugurated ) )	currency|leaderName|largestCity|capital|	The lira is the official currency of Turkey	where Ahmet Davutoglu is the leader .	Although the largest city is Istanbul	the capital city is Ankara . The country is the location of the bronze Ataturk in Izmir	which was inaugurated on 27 July 1932 .
+(S (AND (AND (ARG2 F1-is F2-designed ) (ARGM-LOC F1-located F2-is ) ) F1-is ) )	material|designer|location|capital|leaderTitle	The Ataturk Monument is a bronze monument	designed by Pietro Canonica ,	and inaugurated on July 27th , 1932 . It is located in Izmir , in Turkey , a country	where the capital is Ankara ,	and the leader is the President of Turkey , Ahmet Davutoglu .
+(S-LIST (S-LIST (S-LIST F2-Inaugurated F1-located ) (AND F3-is F2-is ) ) (AND F1-is F1-is ) )	|location|largestCity|capital|leaderName|currency	Inaugurated on the 27th of July , 1932 ,	The Ataturk Monument ( Izmir ) is located in Turkey .	The largest city is Istanbul ,	and the capital is Ankara .	The country 's president is Ahmet Davutoglu ,	and the currency is the Turkish Lira .
+(S-LIST (AND (AND F1-led F1-established ) F1-led ) F2-are )	leaderTitle|established|dean|academicStaffSize	Switzerland is led by the Federal Chancellor	and is the location of the Accademia di Architettura di Mendrisio in the city of Mendrisio . The Accademia was established in 1996	and is led by the Dean , Mario Botta .	There are 700 students and 100 academic staff .
+(S-LIST (ARG2 F1-is F3-established ) (AND (ARGM-PRD-of F4-is F2-is ) F1-is ) )	state&&city|established|motto|director|president	Bangalore in the state of Karnataka , India is the location of the Acharya Institute of Technology	established in the year 2000 .	The motto of the Institute is " Nurturing Excellence " ,	the Director is Dr G P Prabhukumar	and the President is B M Reddy .
+(S-LIST (S-LIST F1-given (ARG1 F2-offers F3-governed ) ) (AND F4-has F1-is ) )	was_given_the_'Technical_Campus'_status_by|sportsOffered|sportsGoverningBody|has_to_its_west|has_to_its_northeast	The Acharya Institute of Technology in Karnataka state was given Technical Campus status by All India Council for Technical Education in Mumbai .	The school offers tennis	which is governed by the International Tennis Federation .	Karnataka has the Arabian Sea to its west	and in the northeast is Telangana .
+(S-LIST (AND (ARG2 F1-are F2-led ) F2-has ) F1-located )	ethnicGroup|leaderTitle|anthem|	The Germans of Romania are one of the ethnic groups in Romania	which is led by Prime Minister Klaus Iohannis	and has the anthem " Desteapta - te , romane ! " .	The capital city of Romania is Bucharest but the 1 Decembrie 1918 University is located in the city of Alba Iulia .
+(S-LIST (S-LIST F1-affiliated (AND F2-has F2-is ) ) F1-is )	affiliation|academicStaffSize|dean|leaderName	The School of Business and Social Sciences at the Aarhus University in Aarhus , Denmark is affiliated with the European University Association .	The school was created in 1928 , has 737 employees	and its dean is Thomas Pallesen .	Denmark 's leader is Lars Løkke Rasmussen .
+(S-LIST (AND F1-led F2-is ) (AND (AND F1-has F1-is ) F1-affiliated ) )	leaderTitle|leaderName|governmentType&&city||affiliation	Denmark is led by the Monarchy of Demark	and the currente leader is Lars Lokke Rasmussen .	The city of Aarhus has a magistrate type of government	and is the location of the School of Business	and Social Sciences at the Aarhus University in Denmark . The School is affiliated with the European University Association in Brussels .
+(S-LIST (S-LIST (S-LIST (AND F1-located F1-established ) (AND F2-is F3-has ) ) F1-is ) F2-affiliated )	city|established|dean|numberOfStudents|latinName|affiliation	The School of Business and Social Sciences at the Aarhus University is located in Aarhus , Denmark	and it was established in 1928 .	Its dean is Thomas Pallesen	and it has 16,000 students .	Its Latin name is " Universitas Aarhusiensis " .	It is affiliated to the European University Association .
+(S-LIST (AND F1-born F1-graduated ) (AND F2-worked F1-is ) )	birthPlace|almaMater|occupation|was_a_crew_member_of	Alan Bean was born on March 15 , 1932 in Wheeler , Texas	and is American . He graduated from UT Austin with a BSc . in 1955 .	He worked as a test pilot	and as a member of Apollo 12 . Bean is retired .
+(S-LIST (S-LIST F1-born (AND F2-graduated F1-was ) ) F2-died )	birthPlace|was_selected_by_NASA&&almaMater|occupation|deathPlace	Alan Shepard was born in New Hampshire on November 18th , 1923 .	He graduated from NWC in 1957 with an M.A. He was selected by NASA in 1959	and he was a test pilot .	He died in California .
+(S (AND (AND (AND F1-born (ARGM-DIS-of F2-is F1-was ) ) (TOK (ARG1 F1-commanded F2-operated ) F1-commanded ) ) F1-was ) )	birthPlace||was_a_crew_member_of|occupation||commander|backup_pilot	Alan Bean was born in Wheeler , Texas	and	is an American . He was a crew member of Apollo 12	and a test pilot	which was operated by NASA . Apollo 12	was commanded by David Scott	and Alfred Worden was the backup pilot .
+(S-LIST (AND F1-was F1-picked ) (AND F2-born F1-graduated ) )	alternativeNames|was_a_crew_member_of|birthPlace|was_selected_by_NASA	Edwin E. Aldrin , Jr. was better known by his nickname of Buzz Aldrin	and as a test pilot he was picked to crew Apollo 11 by NASA in 1963 .	Aldrin was born in Glen Ridge , New Jersey on January 20th,1930	and in 1963 he graduated from MIT with a Sc . D.
+(S-LIST (ARG2 F1-was (ARG1 F2-joined F4-spent ) ) (AND F3-born F1-graduated ) )	occupation|was_a_crew_member_of|timeInSpace|birthPlace|	American Buzz Aldrin was a fighter pilot	who later joined the Apollo 11 program	where he spent 52 minutes in space .	Aldrin was born January 20th , 1930 in Glen Ridge , New Jersey	and in 1963 he graduated from MIT with a Sc . D.
+(S-LIST (S-LIST (ARG2 F1-is F2-born ) F3-graduated ) (AND F4-was (ARGM-DIS-of F2-received F1-is ) ) )	|birthPlace||was_a_crew_member_of||awards	Buzz Aldrin is a US national ,	who was born in Glen Ridge , New Jersey on the 20th January 1930 .	He graduated from MIT with a Sc . D in 1963 .	He was a member of the Apollo Crew	and	received 20 awards . He is now retired .
+(S-LIST F1-born (AND (ARGM-TMP F2-retired (ARG1 F3-included F4-selected ) ) F1-serving ) )	birthPlace|status||was_selected_by_NASA|was_a_crew_member_of	Buzz Aldrin , a US national , was born on 20 January 1930 in Glen Ridge , New Jersey .	He has now retired after a career	which included	being selected in 1963 by NASA	and serving on Apollo 11 as a member of the crew .
+(S-LIST (ARG2 F2-is F3-born ) (AND (ARG2 F1-was F4-run ) (ARGM-LOC-of F3-was (ARG0-of F2-graduated (ARG0-of F4-is F1-retired ) ) ) ) )	|birthPlace|was_a_crew_member_of|operator|backup_pilot|||status	Buzz Aldrin is an American	born in Glen Ridge , New Jersey .	He was a member of Apollo 11 ,	which was run by NASA	and where William Anders was his backup pilot .	He also	graduated from MIT in 1963 with a Sc . D. Aldrin	is retired .
+(S-LIST (S-LIST F1-born F2-was ) F3-retired )	birthPlace|was_a_crew_member_of&&occupation|status	William Anders was born on the 17th of October in 1933 in British Hong Kong .	He was a member on Apollo 8 as a fighter pilot .	He retired on the 1st of September in 1969 .
+(S-LIST (S-LIST (AND F1-born F4-is ) (ARG2 F1-was F2-operated ) ) F3-retired )	birthPlace||was_a_crew_member_of|backup_pilot|	William Anders was born in British Hong Kong	and is a U.S Citizen .	William was a member of the Apollo 8 crew ( along with Frank Borman	) which was operated by NASA 's backup pilot Buzz Aldrin .	William retired on September 1st in 1969 .
+(S (ARGM-TMP (ARGM-TMP-of F4-joining F1-served ) (ARGM-TMP-of F3-retired F2-was ) ) )	birthPlace|was_a_crew_member_of||timeInSpace	Test pilot William Anders was born in British Hong Kong on October 17th , 1933 . After joining NASA in 1963 ,	he served as a crew member of Apollo 8 .	When he retired on September 1st , 1969	his total space time was 8820.0 minutes .
