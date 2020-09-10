@@ -1,7 +1,7 @@
 #!/bin/bash
 
-RAW_PATH=../webnlg/data-pretrain/webnlg_
-REL_PATH=../webnlg/data-alg/relations.txt
+RAW_PATH=../data_webnlg/data-pretrain/webnlg_
+REL_PATH=../data_webnlg/data-alg/relations.txt
 JSON_PATH=/scratch/xxu/webnlg/tune_pretrain/pretrain_jsons/webnlg
 
 python preprocess.py \

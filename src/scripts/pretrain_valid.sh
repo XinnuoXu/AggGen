@@ -1,8 +1,8 @@
 #!/bin/bash
 
-DSRC_PATH=../webnlg/data-alg/src.dict
-DTGT_PATH=../webnlg/data-alg/tgt.dict
-REL_PATH=../webnlg/data-alg/relations.txt
+DSRC_PATH=../data_webnlg/data-alg/src.dict
+DTGT_PATH=../data_webnlg/data-alg/tgt.dict
+REL_PATH=../data_webnlg/data-alg/relations.txt
 DATA_PATH=/scratch/xxu/webnlg/tune_pretrain/pretrain_data/webnlg
 MODEL_PATH=/scratch/xxu/webnlg/tune_pretrain/pretrain_model/
 
