@@ -11,10 +11,13 @@ def one_pair(src_file, tgt_file, src_out, tgt_out, tsk="train"):
         tgt_tokens = ['\t'.join(line.strip().replace('-lrb-', '(').replace('-rrb-', ')').split('\t')[2:]) for line in open(tgt_file)]
     else:
         tgt_tokens = []
+        ex_num = 0
         for line in open(tgt_file):
             flist = line.strip().split('\t')
             cands = [item.split('[XXN]')[-1] for item in flist]
+            ex_num += len(cands)
             tgt_tokens.append(' <REF_SEP> '.join(cands))
+        print ('test examples:', ex_num)
     # Writeout
     fpout = open(src_out, 'w')
     for line in src_tokens:

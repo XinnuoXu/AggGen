@@ -21,6 +21,8 @@ if __name__ == '__main__':
             else:
                 new_flist.append(' '.join(accum_toks + toks))
                 del accum_toks[:]
+        if len(accum_toks) > 0:
+            new_flist[-1] += ' ' + ' '.join(accum_toks)
         new_line = '\t'.join(new_flist)
         fpout.write(new_line + "\n")
     fpout.close()

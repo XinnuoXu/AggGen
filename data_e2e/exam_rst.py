@@ -1,34 +1,30 @@
 #coding=utf8
 
-TAG='train'
-#TAG='dev'
+#TAG='train'
+TAG='dev'
+
+def process_summary(summary):
+    toks = summary.strip().split()
+    new_toks = []
+    for item in toks:
+        if item[0] == '(' or item[0] == ')':
+            continue
+        new_toks.append(item)
+    summary = ' '.join(new_toks)
+    return summary
 
 def load_tree():
     trees = {}
-    for line in open('data-tree/webnlg_'+TAG+'.jsonl'):
+    for line in open('data-tree/e2e_'+TAG+'.jsonl'):
         json_obj = json.loads(line.strip())
         summaries = json_obj["summary"]
         document = json_obj["document"]
         tokens = [item.split('|')[0] for item in document.split()]
         document = ' '.join(tokens)
         document = '\t'.join(document.split(' <TSP> '))
-        trees[document] = '\t'.join(summaries)
+        summaries_str = ' '.join([process_summary(s) for s in summaries])
+        trees[document] = (summaries, summaries_str)
     return trees
-
-def read_raw_src():
-    src_file = 'data/'+TAG+'-webnlg-src.txt'
-    src_tokens = []
-    for line in open(src_file):
-        flist = line.strip().split(' ')
-        tokens = [item.split('|')[0] for item in flist]
-        string = ' '.join(tokens)
-        src_tokens.append('\t'.join(string.split(' <TSP> ')))
-    return src_tokens
-
-def read_raw_tgt():
-    tgt_file = 'data/'+TAG+'-webnlg-tgt.txt'
-    tgt_tokens = [' '.join(line.strip().split(' ')[:-1]).replace(' <s> ', ' ') for line in open(tgt_file)]
-    return tgt_tokens
 
 def pair_data(srcs, tgts):
     pdata = {}
@@ -39,29 +35,28 @@ def pair_data(srcs, tgts):
 if __name__ == '__main__':
     import sys
     import json
-    raw_srcs = read_raw_src()
-    raw_tgts = read_raw_tgt()
+
     trees = load_tree()
 
     srcs = []
-    for line in open('data-rst/webnlg_'+TAG+'_src.jsonl'):
+    for line in open('data-rst/e2e_'+TAG+'_src.jsonl'):
         src = '\t'.join(line.strip().split('\t')[:-1])
         srcs.append(src)
     tgts = []
-    for line in open('data-rst/webnlg_'+TAG+'_tgt.jsonl'):
-        tgt = ' '.join(line.strip().split('\t')[1:]).replace('-lrb-', '(').replace('-rrb-', ')')
+    for line in open('data-rst/e2e_'+TAG+'_tgt_clean.jsonl'):
+        tgt = ' '.join(line.strip().split('\t')[1:])
         tgts.append(tgt)
-
-    pair_raw = pair_data(raw_srcs, raw_tgts)
     pair_alg = pair_data(srcs, tgts)
 
     mis_matching = 0
-    for key in pair_raw:
-        if pair_raw[key] != pair_alg[key]:
+    for key in trees:
+        if key not in pair_alg:
+            continue
+        if trees[key][1] != pair_alg[key]:
             #if abs(len(pair_raw[key].split()) - len(pair_alg[key].split())) > 2:
-            print (pair_raw[key])
+            print (trees[key][1])
             print (pair_alg[key])
-            print (trees[key])
+            print (trees[key][0])
             print ('\n\n')
             mis_matching += 1
     print ('mis_matching:', mis_matching)

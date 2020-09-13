@@ -54,11 +54,12 @@ def move_arg_before_R(tree, idx, root=1):
     ctree = []
     before_R = []
     finish_one_phrase = False
+    init_idx = idx
     while idx < len(tree):
         tok = tree[idx]
         cls = label_classify(tok)
         if cls == "fact":
-            if len(ctree) > 0 and finish_one_phrase:
+            if (len(ctree) > 0 and finish_one_phrase) or idx > init_idx:
                 re_before_R, stree, idx = move_arg_before_R(tree, idx, 0)
                 if len(re_before_R) == 0:
                     ctree += stree
@@ -101,7 +102,8 @@ def loose_hanging_phrase(tree):
             label_stack.append(cls)
             ctree.append(tok)
             if len(phrase_stack)>0 and len(lhphrase) > 0:
-                if len(' '.join(lhphrase)) > 1:
+                #if len(' '.join(lhphrase)) > 1:
+                if len(' '.join(lhphrase)) > 0:
                     ctree.append(LHP_PRE+phrase_stack[-1])
                     ctree.extend(lhphrase)
                     ctree.append(')')
@@ -597,5 +599,5 @@ if __name__ == '__main__':
         one_tree('(F1-serves (ARG0 Athens International Airport ) (V serves ) (ARG2 (F2-is (LHP_P_ARG2 the city of Athens in ) (ARGM-LOC Greece ) (ARGM-LOC where ) (ARG1 Alexis Tsipras ) (V is ) (ARG2 the leader ) ) ) )')
         '''
         #one_tree('(F1-is (ARG1 Arròs negre ) (V is ) (ARG2 a traditional dish from Spain ) ) (F2-includes , (ARG2 it ) (V includes ) (ARG1 squid . ) )')
-        tree_list = split_tree('(F1-is (ARG1 Arròs negre ) (V is ) (ARG2 a traditional dish from Spain ) ) (F2-includes , (ARG2 it ) (V includes ) (ARG1 squid . ) )')
-        print (tree_list)
+        #tree_list = split_tree('(F1-is (ARG1 Arròs negre ) (V is ) (ARG2 a traditional dish from Spain ) ) (F2-includes , (ARG2 it ) (V includes ) (ARG1 squid . ) )')
+        one_tree('(F1-is (ARG1 The Phoenix ) (V is ) (ARG2 (F2-is (ARG1 (F3-sells (ARG0 a riverside restaurant ) (R-ARG0 that ) (V sells ) (ARG1 traditional English food , ) ) ) (ARGM-ADV however ) (V is ) (ARG2 quite expensive . ) ) ) )')

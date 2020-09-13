@@ -47,14 +47,15 @@ def merge_data(ori_data, tree_data):
     fpout_tgt = open('./data-alg/e2e_test_tgt.jsonl', 'w')
     rec_num = 0
     for src in ori_data:
-        tgt_str = []
+        tgt_str = []; asrc = ""
         for i in range(len(tree_data[src])):
             tree, alg_src = tree_data[src][i]
             tgt = ori_data[src][i]
-            fpout_src.write(alg_src + '\n')
+            asrc = alg_src
             tgt_str.append(tree + '[XXN]' + tgt)
             rec_num += 1
         fpout_tgt.write('\t'.join(tgt_str) + '\n')
+        fpout_src.write(asrc + '\n')
     fpout_src.close()
     fpout_tgt.close()
     print ('Full record num: ', rec_num)

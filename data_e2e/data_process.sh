@@ -50,15 +50,16 @@ ${DEFAULT_PYTHON_BIN} get_postrst.py test
 ${DEFAULT_PYTHON_BIN} get_alignment.py dev
 ${DEFAULT_PYTHON_BIN} get_alignment.py train
 ${DEFAULT_PYTHON_BIN} get_alignment.py test
+${DEFAULT_PYTHON_BIN} merge_test.py
 
 # Get dictionaries for src relation
 # in `data-alg/`
 ${DEFAULT_PYTHON_BIN} relation_dict.py
-
-${DEFAULT_PYTHON_BIN} get_seq2seq.py devel
-${DEFAULT_PYTHON_BIN} get_seq2seq.py train
-${DEFAULT_PYTHON_BIN} get_seq2seq.py test
-#${DEFAULT_PYTHON_BIN} get_dict_alg.py
-${DEFAULT_PYTHON_BIN} get_dict.py
-
 ${DEFAULT_PYTHON_BIN} get_pretrain.py 
+${DEFAULT_PYTHON_BIN} get_dict.py dict
+
+#${DEFAULT_PYTHON_BIN} get_seq2seq.py devel
+#${DEFAULT_PYTHON_BIN} get_seq2seq.py train
+#${DEFAULT_PYTHON_BIN} get_seq2seq.py test
+#${DEFAULT_PYTHON_BIN} get_dict_alg.py
+
