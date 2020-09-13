@@ -61,16 +61,24 @@ def move_arg_before_R(tree, idx, root=1):
         if cls == "fact":
             if (len(ctree) > 0 and finish_one_phrase) or idx > init_idx:
                 re_before_R, stree, idx = move_arg_before_R(tree, idx, 0)
+                #print ("re_before_R:", re_before_R)
+                #print ("stree:", stree)
+                #print ("ctree:", ctree)
+                #print ("finish_one_phrase:", finish_one_phrase)
                 if len(re_before_R) == 0:
                     ctree += stree
                 else:
                     re_before_R = [CHILD_LABEL+item[1:] if item[0] == '(' and (not item.startswith('(LHP')) else item for item in re_before_R]
-                    ctree = ctree[:-1] + re_before_R + [ctree[-1]] + stree
+                    if finish_one_phrase or init_idx == 0:
+                        ctree = ctree[:-1] + re_before_R + [ctree[-1]] + stree
+                    else:
+                        ctree = re_before_R + ctree + stree
+                #print ('\n\n')
             else:
                 ctree.append(tok)
                 label_stack.append(cls)
         elif cls == "phrase":
-            if tok.startswith('(R-') and (not root):
+            if tok.startswith('(R-') and (not root) and ctree[0].startswith('(F'):
                 before_R = copy.deepcopy(ctree[1:])
                 del ctree[1:]
             ctree.append(tok)
@@ -384,7 +392,9 @@ def one_tree(tree):
 
     # Re-arrange some arguments
     tree = fake_R_v(tree)
+    #print (' '.join(tree))
     _, tree, _ = move_arg_before_R(tree, 0)
+    #print (' '.join(tree))
     if len(tree) == 0:
         return 'F1-null', [original_tree]
 
@@ -395,6 +405,8 @@ def one_tree(tree):
     tree, tokens, _ = sub_tree(tree, 0)
     rst_tree, _ = tree2rst(tree, 0)
 
+    #print (rst_tree[0], tokens)
+    #print ('\n\n')
     return rst_tree[0], tokens
 
 def process_src(doc):
@@ -600,4 +612,5 @@ if __name__ == '__main__':
         '''
         #one_tree('(F1-is (ARG1 Arròs negre ) (V is ) (ARG2 a traditional dish from Spain ) ) (F2-includes , (ARG2 it ) (V includes ) (ARG1 squid . ) )')
         #tree_list = split_tree('(F1-is (ARG1 Arròs negre ) (V is ) (ARG2 a traditional dish from Spain ) ) (F2-includes , (ARG2 it ) (V includes ) (ARG1 squid . ) )')
-        one_tree('(F1-is (ARG1 The Phoenix ) (V is ) (ARG2 (F2-is (ARG1 (F3-sells (ARG0 a riverside restaurant ) (R-ARG0 that ) (V sells ) (ARG1 traditional English food , ) ) ) (ARGM-ADV however ) (V is ) (ARG2 quite expensive . ) ) ) )')
+        #one_tree('(F1-is (ARG1 The Phoenix ) (V is ) (ARG2 (F2-is (ARG1 (F3-sells (ARG0 a riverside restaurant ) (R-ARG0 that ) (V sells ) (ARG1 traditional English food , ) ) ) (ARGM-ADV however ) (V is ) (ARG2 quite expensive . ) ) ) )')
+        one_tree('(F1-rated (ARG1 (F2-serves (LHP_P_ARG1 Aromi , ) (ARG0 the family friendly coffee shop ) (R-ARG0 that ) (V serves ) (ARG1 English food ) (ARGM-LOC by the riverside ) ) ) (ARGM-MNR has been average ) (V rated , ) )')
