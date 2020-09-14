@@ -285,8 +285,8 @@ class PreproHMMData():
             src_r, tgt_a, tgt_t = d['src_r'], d['tgt_a'], d['tgt_t']
             relations = [relation_dict[r] for r in src_r]
             # DDDDDDDDDDDELETE
-            if len(relations) != 2:
-                continue
+            #if len(relations) != 2:
+            #    continue
             # DDDDDDDDDDDELETE_end
             if is_test:
                 alignments = []

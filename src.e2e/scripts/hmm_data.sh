@@ -1,10 +1,10 @@
 #!/bin/bash
 
-DSRC_PATH=../data_webnlg/data-alg/src.dict
-DTGT_PATH=../data_webnlg/data-alg/tgt.dict
-REL_PATH=../data_webnlg/data-alg/relations.txt
-JSON_PATH=/scratch/xxu/webnlg/tune_pretrain/hmm_jsons/
-DATA_PATH=/scratch/xxu/webnlg/tune_pretrain/hmm_data/
+DSRC_PATH=../data_e2e/data-alg/src.dict
+DTGT_PATH=../data_e2e/data-alg/tgt.dict
+REL_PATH=../data_e2e/data-alg/relations.txt
+JSON_PATH=/scratch/xxu/e2e/local_limit/hmm_jsons/
+DATA_PATH=/scratch/xxu/e2e/local_limit/hmm_data/
 
 python preprocess.py \
 	-mode hmm_to_data \

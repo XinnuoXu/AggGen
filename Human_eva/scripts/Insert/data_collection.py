@@ -33,6 +33,8 @@ def phrase_filter(phrases):
 def ex_filter(srcs0, tgts0, srcs1, tgts1, srcs2, tgts2):
     candidate_ids = []
     for i in range(len(srcs0)):
+        if len(srcs0[i]) < 2:
+            continue
         tgt0 = tgts0[i]
         tgt1 = tgts1[i]
         tgt2 = tgts2[i]
@@ -41,7 +43,7 @@ def ex_filter(srcs0, tgts0, srcs1, tgts1, srcs2, tgts2):
         patt0 = tgt0[0].split('|')
         patt1 = tgt1[0].split('|')
         patt2 = tgt2[0].split('|')
-        if len(patt0) == 1 and len(patt1) == 1 and len(patt2) == 1:
+        if len(patt0) == 1 or len(patt1) == 1 or len(patt2) == 1:
             continue
         if phrase_filter(tgts0[i]) and phrase_filter(tgts1[i]) and phrase_filter(tgts2[i]):
             candidate_ids.append(i)
@@ -70,7 +72,7 @@ def write_out(srcs0, tgts0, srcs1, tgts1, srcs2, tgts2, selected_ids):
     return obj_list
 
 if __name__ == '__main__':
-    BASE_PATH = '../../../webnlg/data-alg/'
+    BASE_PATH = '../../../data_webnlg/data-alg/'
     SAMPLE_NUM = 100
 
     src_path = BASE_PATH+'/webnlg_test-seen_0_src.jsonl'

@@ -1,10 +1,10 @@
 #!/bin/bash
 
-DSRC_PATH=../data_webnlg/data-alg/src.dict
-DTGT_PATH=../data_webnlg/data-alg/tgt.dict
-REL_PATH=../data_webnlg/data-alg/relations.txt
-DATA_PATH=/scratch/xxu/webnlg/tune_pretrain/hmm_data/webnlg
-MODEL_PATH=/scratch/xxu/webnlg/tune_pretrain/models.global/
+DSRC_PATH=../data_e2e/data-alg/src.dict
+DTGT_PATH=../data_e2e/data-alg/tgt.dict
+REL_PATH=../data_e2e/data-alg/relations.txt
+DATA_PATH=/scratch/xxu/e2e/local_limit/hmm_data/e2e
+MODEL_PATH=/scratch/xxu/e2e/local_limit/models.global/
 
 python train.py \
 	-mode test \
@@ -12,11 +12,11 @@ python train.py \
 	-src_dict_path ${DSRC_PATH} \
 	-tgt_dict_path ${DTGT_PATH} \
 	-relation_path ${REL_PATH} \
-	-test_from ${MODEL_PATH}model_step_19000.pt \
+	-test_from ${MODEL_PATH}model_step_25000.pt \
 	-test_batch_size 100 \
 	-visible_gpus 0 \
 	-max_pos 512 \
-	-min_length 6 \
+	-min_length 5 \
 	-max_length 200 \
 	-alpha 0.9 \
 	-tp_bias 0.0 \

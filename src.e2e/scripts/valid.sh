@@ -1,10 +1,10 @@
 #!/bin/bash
 
-DSRC_PATH=../data_webnlg/data-alg/src.dict
-DTGT_PATH=../data_webnlg/data-alg/tgt.dict
-REL_PATH=../data_webnlg/data-alg/relations.txt
-DATA_PATH=/scratch/xxu/webnlg/tune_pretrain/hmm_data/webnlg
-MODEL_PATH=/scratch/xxu/webnlg/tune_pretrain/models.global/
+DSRC_PATH=../data_e2e/data-alg/src.dict
+DTGT_PATH=../data_e2e/data-alg/tgt.dict
+REL_PATH=../data_e2e/data-alg/relations.txt
+DATA_PATH=/scratch/xxu/e2e/local_limit/hmm_data/e2e
+MODEL_PATH=/scratch/xxu/e2e/local_limit/models.global/
 
 python train.py \
 	-mode validate \

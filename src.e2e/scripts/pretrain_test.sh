@@ -12,7 +12,7 @@ python train.py \
 	-src_dict_path ${DSRC_PATH} \
 	-tgt_dict_path ${DTGT_PATH} \
 	-relation_path ${REL_PATH} \
-	-test_from ${MODEL_PATH}model_step_23000.pt \
+	-test_from ${MODEL_PATH}model_step_21000.pt \
 	-batch_size 3000 \
 	-test_batch_size 500 \
 	-visible_gpus 2 \
