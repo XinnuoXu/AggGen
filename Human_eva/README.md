@@ -56,6 +56,7 @@ pipenv install
 ### Step5: Build the repository
 Open terminal at this repo's root directory. Run
 ```
+yarn add @vue/cli-service
 yarn build
 yarn serve
 ```
