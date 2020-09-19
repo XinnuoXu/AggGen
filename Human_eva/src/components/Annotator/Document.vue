@@ -70,8 +70,7 @@ export default {
       paired_data: [],
     };
   },
-  computed: {},
-  methods: {
+  computed: {
     disable_status() {
       console.log(this.left_triples.length );
       console.log(this.selected_triples.length);
@@ -82,6 +81,8 @@ export default {
       return 'Click to submit';
     },
 
+  },
+  methods: {
     saveAnnotation() {
       const resultJSON = {
         project_id: this.project_id,
