@@ -23,7 +23,6 @@
 </template>
 
 <script>
-
 const axios = require('axios');
 
 function getFile() {
@@ -71,7 +70,8 @@ export default {
       paired_data: [],
     };
   },
-  computed: {
+  computed: {},
+  methods: {
     disable_status() {
       console.log(this.left_triples.length );
       console.log(this.selected_triples.length);
@@ -81,8 +81,7 @@ export default {
       }
       return 'Click to submit';
     },
-  },
-  methods: {
+
     saveAnnotation() {
       const resultJSON = {
         project_id: this.project_id,
