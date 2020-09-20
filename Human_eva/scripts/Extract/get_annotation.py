@@ -11,6 +11,14 @@ from backend.app import create_app
 app = create_app()
 db = SQLAlchemy(app)
 
+def extract_src(src_json):
+    srcs = {}
+    for key in src_json:
+        if key == 'results':
+            continue
+        srcs[key] = src_json[key]
+    return srcs
+
 # Read example table
 q_results = db.session.query(Example, Dataset).join(Dataset).all()
 record_info = {}
@@ -19,9 +27,13 @@ for ex, _ in q_results:
     sanity_check = ex.sanity_check
     tgt_id = ex.tgt_id
     record_id = ex.id
+    tgts = ex.tgt_json
+    srcs = extract_src(json.loads(ex.src_json))
     record = {"example_id":example_id,
               "sanity_check":sanity_check,
-              "tgt_id":tgt_id}
+              "tgt_id":tgt_id,
+              "tgts":tgts,
+              "srcs":srcs}
     record_info[record_id] = record
 
 # Read Status
