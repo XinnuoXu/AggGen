@@ -1,5 +1,6 @@
 import Vue from 'vue';
 import Router from 'vue-router';
+import VueCollapse from 'vue2-collapse';
 import Annotation from './views/Annotation.vue';
 import Login from './views/Login.vue';
 import Admin from './views/Admin.vue';
@@ -11,6 +12,7 @@ import NewAnnotation from './components/Home/NewProject/NewAnnotation.vue';
 import store from './store';
 
 Vue.use(Router);
+Vue.use(VueCollapse);
 
 export default new Router({
   routes: [

@@ -68,6 +68,7 @@ def api_project_single_doc(project_type, project_category, project_id):
                         if i < len(tgt_obj) - 1:
                             post = ' '.join(tgt_obj[i+1:])
                             tmp_str += ' ' + post
+                        tmp_str = "<span>&#127807; <b>Highlight Section "+str(i+1)+": </b></span><br>" + tmp_str
                         tmp_data = {'Sentence':tmp_str}
 
                         src_obj = json.loads(document.src_json)
@@ -80,11 +81,11 @@ def api_project_single_doc(project_type, project_category, project_id):
                         tmp_data['Selection'] = []
                         paired_data.append(tmp_data)
 
-                    tmp_data = {'Sentence':"<mark>The text doesn't mention: </mark>"}
+                    tmp_data = {'Sentence':"&#127800; <b>Now tick triples that are <mark>NOT</mark> mentioned in highlight sections above: </b>"}
                     src_obj = json.loads(document.src_json)
                     src_list = []
                     for key in src_obj:
-                        rcd = src_obj[key].replace(key, ' <'+key+'> ')
+                        rcd = src_obj[key].replace(key, ' ['+key+'] ')
                         src_list.append({'Relation':key, 'Record':rcd, 'ID':str(check_id)})
                         check_id += 1
                     tmp_data['Input'] = src_list
@@ -162,7 +163,7 @@ def api_project_close(project_id):
                     continue
                 results_json[result.id] = res_json
             if len(results_json) != 0:
-                Example.add_results(ex_status.doc_id, results_json)
+                Example.add_results(ex_status.ex_id, results_json)
                 ExStatus.close(ex_status.id)
         AnnotationProject.deactivate(project_id)
         return '', http.HTTPStatus.OK

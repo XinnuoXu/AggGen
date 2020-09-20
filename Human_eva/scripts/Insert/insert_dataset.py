@@ -7,13 +7,19 @@ from backend.models import Example, Dataset
 from backend.app import create_app
 from flask_sqlalchemy import SQLAlchemy
 
+TAG = sys.argv[1]
+
 def init_database(db):
     # Insert dataset
     dataset = Dataset(name="WebNLG")
     db.session.add(dataset)
     db.session.commit()
 
-    input_path = '../selected_example.json'
+    if TAG == 'test':
+        input_path = '../test_example.json'
+    else:
+        input_path = '../selected_example.json'
+
     with open(input_path, 'r') as infile:
          input_json = json.load(infile)
 

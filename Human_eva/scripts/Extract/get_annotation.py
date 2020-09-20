@@ -79,6 +79,6 @@ for record_id in record_info:
 
 
 # Write out
-fpout = open("../annotation.json", "w")
+fpout = open("../annotation_"+sys.argv[1]+".json", "w")
 fpout.write(json.dumps(outputs))
 fpout.close()

@@ -1,8 +1,7 @@
 <template>
     <div>
-          <span v-bind:key="pd" v-for="(pd, index) in paired_data">
+          <span v-bind:key="pd" v-for="(pd) in paired_data">
             <div>
-                <span>&#127807; <b>Highlight {{index+1}} in the text: </b></span>
                 <p v-html="pd.Sentence"></p><br>
                 <span>&#127793; <b>Candidate triples: </b></span><br>
                 <span v-bind:key="s" v-for="s in pd.Input">

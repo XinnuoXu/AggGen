@@ -30,13 +30,13 @@
         <div class="column is-4" :style="{ display: display.content }">
             <div class="box summary">
               <div class="content">
-                <h2>Selected Records</h2>
+                <h2>Selected Triples</h2>
                 <span v-bind:key="pd" v-for="(pd, index) in paired_data">
-                  <h4 class="my-title">Selections for Phrase {{index+1}}</h4>
+                  <h4 class="my-title">Triples in highlighted section {{index+1}}</h4>
                     <span v-bind:key="s" v-for="s in pd.Selection"> {{s}}<br/></span>
                   <hr>
                 </span>
-                <h2>Left Records</h2>
+                <h2>Remaining Triples</h2>
                 <span v-bind:key="k" v-for="k in left_triples"> {{k}}<br/></span>
               </div>
             </div>
