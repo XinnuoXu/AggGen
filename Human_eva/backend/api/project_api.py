@@ -34,7 +34,6 @@ def api_project_single_doc(project_type, project_category, project_id):
         else:
             # Clean open project, very dirty
             for ex_status in project.ex_statuses:
-                print ('>>>',ex_status.id)
                 results = AnnotationResult.query.filter_by(status_id=ex_status.id, is_filled=False).all()
                 
                 for result in results:
