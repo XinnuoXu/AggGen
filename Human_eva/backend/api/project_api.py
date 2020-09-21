@@ -223,14 +223,14 @@ def api_project_progress(project_type, project_id):
             }
         if project_type == ProjectType.ANNOTATION.value.lower():
             for ex_status in project.ex_statuses:
-                document = Example.query.get(ex_status.doc_id)
+                document = Example.query.get(ex_status.ex_id)
                 result_jsons = []
                 for result in ex_status.results:
                     result_jsons.append(result.result_json)
                 exp_results = ex_status.total_exp_results
                 progress_json['documents'].append({
                     'no': len(progress_json['documents']) + 1,
-                    'name': document.doc_id,
+                    'name': document.ex_id,
                     'progress': len(ex_status.results)/exp_results,
                     'result_jsons': result_jsons
                 })
