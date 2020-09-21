@@ -9,9 +9,6 @@
         In each task, you will be given a <strong>text</strong> and a list of <strong>triples</strong>
         (A triple consists of a <em>subject</em>, an <em>object</em> and the <em>relation</em> in between them. 
         They are written in format <u>Subject [Relation] Object</u>.).<br/><br/>
-        The task, is devided into a sequence of <strong>Highlight Sections</strong>.
-        In each highlight section, a part of the text will be <a class="highlight">highlighted</a>, and you need to tick triples that, you believe, are verbalized by the highlighted text.
-        <br/><br/>
         For example, the <strong>text</strong> is:
         <blockquote style="font-size:18px">
             The Bakewell tart, containing fruit preserves, is a variation of Bakewell pudding.
@@ -39,7 +36,8 @@
             <li>Bakewell pudding [<em>dishVariation</em>] Bakewell tart</li>
         </blockquote> 
         <strong>Your task</strong> is to do the alignments by finishing a questionnaire. -->
-        
+        The task is divided into a sequence of <strong>Highlight Sections</strong>.
+        In each highlight section, a part of the text will be <a class="highlight">highlighted</a>, and you need to tick triples that, you believe, are verbalized by the highlighted text.
         After you click the 'I consent' button, you will see a <strong>questionnaire</strong>: <br/><br/>       
         <div class="box document">
             <div>
@@ -74,6 +72,7 @@
         <ul>
             <li>Candidate triples in each section are all the <strong>same</strong>.</li>
             <li>If you believe that a triple has <strong>NOT</strong> been described in any highlight, please select them in the last section.</li>
+            <li><em>Subject</em> or <em>object</em> may not be explicitly verbalised in the highlight, but mentioned in other parts of the text. You need to tick the part where the <strong>relation</strong> between the subject or object is located</li>
             <li>Each triple must be selected <strong>once and only once</strong> in the <strong>entire questionnaire</strong>. The submission button will not be activated if there are unselected triples, or one triple is selected in more than one sections.</li>
             <li>In each section, all triples that are verbalized by the highlight need to be selected. <strong>For some sections</strong>, it may be possible that <strong>multiple, or even zero triples</strong> are the right answer. The following examples are all regarded as valid.</li>
             <li>There is a <strong>code</strong> that you <strong>have to</strong> copy and paste to Amazon platform at the end of the task.</li>
