@@ -72,11 +72,12 @@
         <ul>
             <li>Candidate triples in each section are all the <strong>same</strong>.</li>
             <li>If you believe that a triple has <strong>NOT</strong> been described in any highlight, please select them in the last section.</li>
-            <li><em>Subject</em> or <em>object</em> may not be explicitly verbalised in the highlight, but mentioned in other parts of the text. You need to tick the part where the <strong>relation</strong> between the subject or object is located</li>
             <li>Each triple must be selected <strong>once and only once</strong> in the <strong>entire questionnaire</strong>. The submission button will not be activated if there are unselected triples, or one triple is selected in more than one sections.</li>
-            <li>In each section, all triples that are verbalized by the highlight need to be selected. <strong>For some sections</strong>, it may be possible that <strong>multiple, or even zero triples</strong> are the right answer. The following examples are all regarded as valid.</li>
+            <li>In each section, all triples that are verbalized by the highlight need to be selected. <strong>For some sections</strong>, it may be possible that <strong>multiple, or even zero triples</strong> are the right answer.</li>
+            <li><em>Subject</em> or <em>object</em> may not be explicitly verbalised in the highlight, but mentioned in other parts of the text. You need to tick the part where the <strong>relation</strong> between the subject or object is located.</li>
+            <li>Following the last bullet point, please be careful that some times the relation word will be rephrased in the text. Please take the <strong>Highlight Section 2</strong> in the <strong>Example 1</strong> below as an example.</li>
             <li>There is a <strong>code</strong> that you <strong>have to</strong> copy and paste to Amazon platform at the end of the task.</li>
-            <li>We have a validation check for each task. Only submissions that offer resonable annotations will be deemed as a valid HIT.</li>
+            <li>We have a validation check for each task. Only submissions that offer resonable annotations will be deemed as a valid HIT. The following three examples are all regarded as valid. Please feel free to give them a check. </li>
         </ul>
 
         <div>
