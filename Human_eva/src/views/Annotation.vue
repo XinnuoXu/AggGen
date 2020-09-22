@@ -14,7 +14,15 @@
        <div class="column">
          <div class="content" align="center">
              <h2>Please don't refresh the page.</h2>
-         </div>      
+         </div>
+         <div class="box document">
+           <a class="notice"> <b>Annotation Guideline</b></a>
+           <blockquote style="font-size:18px">
+            <li>Each triple must be selected <strong>once and only once</strong> in the <strong>entire questionnaire</strong>.</li>
+            <li>In each section, <strong>all triples</strong> that are verbalized by the highlight need to be selected. </li>
+            <li>Each section must have <strong>at least one</strong> selected triple. </li>
+            </blockquote>
+          </div>    
          <div class="box document">
            <Document v-on:ClickCheckbox="updateSelectionSummary"
                      v-on:noDocument="showMessage(
@@ -177,5 +185,9 @@ export default {
 }
 .home {
   padding-top: 25px;
+}
+.notice {
+        background-color: red;
+        color: yellow;
 }
 </style>

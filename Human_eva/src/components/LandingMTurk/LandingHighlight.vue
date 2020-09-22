@@ -73,8 +73,9 @@
         <ul>
             <li>Candidate triples in each section are all the same.</li>
             <!--<li>If you believe that a triple has <strong>NOT</strong> been described in any highlight, please select them in the last section.</li>-->
-            <li>Each triple must be selected <strong>once and only once</strong> in the <strong>entire questionnaire</strong>. The submission button will not be activated if there are unselected triples, or one triple is selected in more than one sections.</li>
-            <li>In each section, <strong>all triples that are verbalized by the highlight need to be selected</strong>. For some sections, it may be possible that <strong>multiple, or even zero triples</strong> are the right answer.</li>
+            <li>Each triple must be selected <strong>once and only once</strong> in the <strong>entire questionnaire</strong>. <!--The submission button will not be activated if there are unselected triples, or one triple is selected in more than one sections.--></li>
+            <li>In each section, <strong>all triples</strong> that are verbalized by the highlight need to be selected. For some sections, it may be possible that <strong>multiple triples</strong> are the right answer.</li>
+            <li>Each section must have <strong>at least one</strong> selected triple. </li>
             <li>Subjects or objects may not be explicitly verbalised in the highlight, but mentioned in other parts of the text. You need to tick the part where the <strong>relation</strong> between the subject or object is located. 
             Please be careful that some times the relation word will be rephrased in the text. For example: </li>
                     <div class="box document">
@@ -175,7 +176,7 @@
                 </div>
             </collapse>
         </div>
-
+        <!--
         <div>
             <collapse :selected="false">
                 <div slot="collapse-header">
@@ -218,14 +219,12 @@
                             <input type="checkbox" >United States [ethnicGroup] African Americans
                             <hr>
                         </div>
-                        --> 
                     </div>
                 </div>
             </collapse>
         </div>
-
+        --> 
         <hr>
-
         <p>Thank you for reading this</p>
         <p>
             Do you consent for all the information that you have submitted to be use anonymously for research purposes only?
