@@ -80,6 +80,7 @@ def api_project_single_doc(project_type, project_category, project_id):
                         tmp_data['Selection'] = []
                         paired_data.append(tmp_data)
 
+                    '''
                     tmp_data = {'Sentence':"&#127800; <b>Now tick triples that are <mark>NOT</mark> mentioned in highlight sections above: </b>"}
                     src_obj = json.loads(document.src_json)
                     src_list = []
@@ -90,6 +91,7 @@ def api_project_single_doc(project_type, project_category, project_id):
                     tmp_data['Input'] = src_list
                     tmp_data['Selection'] = []
                     paired_data.append(tmp_data)
+                    '''
   
                     paired_data = json.dumps(paired_data)
 
