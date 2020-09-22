@@ -1,0 +1,1 @@
+{"eatType": 0, "customerrating": 1, "food": 2, "hsmm_emission": 3, "<s>": 4, "near_2": 5, "area_2": 6, "area": 7, "familyFriendly": 8, "near": 9, "food_2": 10, "familyFriendly_2": 11, "eatType_2": 12, "eatType_3": 13, "priceRange": 14, "lm_only": 15, "priceRange_2": 16, "customerrating_2": 17}
