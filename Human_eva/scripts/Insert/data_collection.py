@@ -91,6 +91,6 @@ if __name__ == '__main__':
     selected_ids = random.sample(candidate_ids, SAMPLE_NUM)
     obj_list = write_out(srcs0, tgts0, srcs1, tgts1, srcs2, tgts2, selected_ids)
     
-    fpout = open('../selected_example.json', 'w')
+    fpout = open('./selected_example.json', 'w')
     fpout.write(json.dumps(obj_list))
     fpout.close()

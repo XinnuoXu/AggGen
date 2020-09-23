@@ -42,8 +42,9 @@ for es in ex_status:
     record_id = es.ex_id
     result_id = es.id
     is_closed = es.is_closed
-    record_info[record_id]['result_id'] = result_id
-    record_info[record_id]['is_closed'] = is_closed
+    if 'annotation_info' not in record_info[record_id]:
+        record_info[record_id]['annotation_info'] = []
+    record_info[record_id]['annotation_info'].append({'result_id':result_id, 'is_closed':is_closed})
 
 def extract_annotation(result_json):
     annotation = []
@@ -56,7 +57,10 @@ def extract_annotation(result_json):
 annotations = {}
 annotation_res = db.session.query(AnnotationResult)
 for ann in annotation_res:
-    result_json = json.loads(ann.result_json)
+    try:
+        result_json = json.loads(ann.result_json)
+    except:
+        print (ann.status_id)
     result = extract_annotation(result_json)
     result_id = ann.status_id
     mtruk_code = ann.mturk_code
@@ -68,17 +72,21 @@ for ann in annotation_res:
 # Merge input and annoataion
 outputs = []
 for record_id in record_info:
-    inp = record_info[record_id]
-    result_id = inp['result_id']
-    if result_id not in annotations:
+    record = record_info[record_id]
+    if 'annotation_info' not in record:
         continue
-    ann = annotations[result_id]
-    for key in ann:
-        inp[key] = ann[key]
-    outputs.append(inp)
+    record['annotations'] = []
+    for ann_info in record['annotation_info']:
+        result_id = ann_info['result_id']
+        if result_id not in annotations:
+            continue
+        ann = annotations[result_id]
+        record['annotations'].append(ann)
+    if len(record['annotations']) > 0:
+        outputs.append(record)
 
 
 # Write out
-fpout = open("../annotation_"+sys.argv[1]+".json", "w")
+fpout = open("../annotation.json", "w")
 fpout.write(json.dumps(outputs))
 fpout.close()
