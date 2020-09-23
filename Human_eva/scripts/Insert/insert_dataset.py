@@ -17,10 +17,8 @@ def init_database(db, input_path, db_id, example_id):
     db.session.commit()
 
     with open(input_path, 'r') as infile:
-         input_json = json.load(infile)
-
-    with open(input_path, 'r') as infile:
         json_obj = json.load(infile)
+
     for obj in json_obj:
         for i in range(3):
             example_id += 1
