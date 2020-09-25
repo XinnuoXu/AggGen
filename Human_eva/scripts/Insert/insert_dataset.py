@@ -1,36 +1,29 @@
 import json
 import os
 import sys
+from os import listdir
+from os.path import isfile, join
 
 sys.path.append(os.path.abspath('../../'))
 from backend.models import Example, Dataset
 from backend.app import create_app
 from flask_sqlalchemy import SQLAlchemy
 
-TAG = sys.argv[1]
-
-def init_database(db):
+def init_database(db, input_path, db_id, example_id):
     # Insert dataset
-    dataset = Dataset(name="WebNLG")
+    db_name = "WebNLG_" + str(db_id)
+    dataset = Dataset(name=db_name)
     db.session.add(dataset)
     db.session.commit()
 
-    if TAG == 'test':
-        input_path = '../test_example.json'
-    else:
-        input_path = '../selected_example.json'
-
-    with open(input_path, 'r') as infile:
-         input_json = json.load(infile)
-
-    idx = -1
     with open(input_path, 'r') as infile:
         json_obj = json.load(infile)
+
     for obj in json_obj:
         for i in range(3):
-            idx += 1
+            example_id += 1
             example = Example(
-                id=idx,
+                id=example_id,
                 dataset_id=dataset.id,
                 ex_id=obj['ID'],
                 tgt_id=i,
@@ -39,8 +32,13 @@ def init_database(db):
                 sanity_check=json.dumps(obj['CHK-'+str(i)]) )
             db.session.add(example)
             db.session.commit()
+    return example_id
 
 if __name__ == '__main__':
     app = create_app()
     db_app = SQLAlchemy(app)
-    init_database(db_app)
+
+    input_dir = '../split_examples/'
+    example_id = -1
+    for i, f in enumerate(listdir(input_dir)):
+        example_id = init_database(db_app, join(input_dir, f), i+1, example_id)
