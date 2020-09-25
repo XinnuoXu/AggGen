@@ -1,10 +1,10 @@
 #!/bin/bash
 
-DSRC_PATH=../data_e2e/data-alg/src.dict
-DTGT_PATH=../data_e2e/data-alg/tgt.dict
-REL_PATH=../data_e2e/data-alg/relations.txt
-DATA_PATH=/scratch/xxu/e2e/full/pretrain_data/e2e
-MODEL_PATH=/scratch/xxu/e2e/full/pretrain_model/
+DSRC_PATH=../data_e2e.clean/data-alg/src.dict
+DTGT_PATH=../data_e2e.clean/data-alg/tgt.dict
+REL_PATH=../data_e2e.clean/data-alg/relations.txt
+DATA_PATH=/scratch/xxu/e2e.clean/pretrain_data/e2e
+MODEL_PATH=/scratch/xxu/e2e.clean/pretrain_model/
 
 python train.py \
 	-mode vld_pretrain \

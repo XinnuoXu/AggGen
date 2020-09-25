@@ -1,8 +1,8 @@
 #!/bin/bash
 
-RAW_PATH=../data_e2e/data-alg/e2e_
-REL_PATH=../data_e2e/data-alg/relations.txt
-JSON_PATH=/scratch/xxu/e2e/full/hmm_jsons/e2e
+RAW_PATH=../data_e2e.clean/data-alg/e2e_
+REL_PATH=../data_e2e.clean/data-alg/relations.txt
+JSON_PATH=/scratch/xxu/e2e.clean/hmm_jsons/e2e
 
 python preprocess.py \
 	-mode hmm_to_json \

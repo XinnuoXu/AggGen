@@ -1,10 +1,10 @@
 #!/bin/bash
 
-DSRC_PATH=../data_e2e/data-alg/src.dict
-DTGT_PATH=../data_e2e/data-alg/tgt.dict
-REL_PATH=../data_e2e/data-alg/relations.txt
-JSON_PATH=/scratch/xxu/e2e/full/pretrain_jsons/
-DATA_PATH=/scratch/xxu/e2e/full/pretrain_data/
+DSRC_PATH=../data_e2e.clean/data-alg/src.dict
+DTGT_PATH=../data_e2e.clean/data-alg/tgt.dict
+REL_PATH=../data_e2e.clean/data-alg/relations.txt
+JSON_PATH=/scratch/xxu/e2e.clean/pretrain_jsons/
+DATA_PATH=/scratch/xxu/e2e.clean/pretrain_data/
 
 python preprocess.py \
 	-mode pretrain_to_data \
