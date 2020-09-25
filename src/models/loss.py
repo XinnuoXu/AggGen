@@ -13,16 +13,17 @@ import torch.nn.functional as F
 from models.reporter import Statistics
 
 
-def hmm_loss(generator, pad_id, relation_path, vocab_size, device, train=True, label_smoothing=0.0):
-    compute = HMMLoss(generator, pad_id, relation_path, vocab_size, device, label_smoothing=label_smoothing if train else 0.0)
+def hmm_loss(generator, pad_id, relation_path, fake_global, vocab_size, device, train=True, label_smoothing=0.0):
+    compute = HMMLoss(generator, pad_id, relation_path, fake_global, vocab_size, device, label_smoothing=label_smoothing if train else 0.0)
     compute.to(device)
     return compute
 
 class HMMLoss(nn.Module):
-    def __init__(self, generator, pad_id, relation_path, vocab_size, device, label_smoothing=0.0):
+    def __init__(self, generator, pad_id, relation_path, fake_global, vocab_size, device, label_smoothing=0.0):
         super(HMMLoss, self).__init__()
         self.generator = generator
         self.padding_idx = pad_id
+        self.fake_global = fake_global
         self.device = device
 
         with open(relation_path) as f:
@@ -165,13 +166,18 @@ class HMMLoss(nn.Module):
                         pre_s = s_t[i][-1]
                         inter_transition = trans_matrix[pre_s][s]
                         exter_transition = ext_matrix[pre_s][s]
+                        if self.fake_global and len(z_next) > 1 and len(z_t) > 1 and len(set(s_t[i])&set(s_next[j])) > 0:
+                            continue
                         sum_j.append(beta_next[j] + o_next[j] + (z_next[j] + z_t[i] + inter_transition + exter_transition))
                     else:
                         s = s_next[j][0]
                         pre_s = self.hsmm_sid
                         exter_transition = ext_matrix[pre_s][s]
                         sum_j.append(beta_next[j] + o_next[j] + (z_next[j] + z_t[i]) + exter_transition)
-                sum_j = self._logsumexp0(torch.stack(sum_j))
+                if len(sum_j) == 0:
+                    sum_j = -float("inf")
+                else:
+                    sum_j = self._logsumexp0(torch.stack(sum_j))
                 beta[t].append(sum_j)
         return beta
 

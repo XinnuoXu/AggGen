@@ -72,6 +72,7 @@ class Token_predictor(object):
                 score = pat_score * self.tp_bias + tok_score
                 preds.append(pred)
                 scores.append(score)
+            #print ('\n\n')
             sort_idx = sorted(range(len(scores)), key=lambda k: scores[k], reverse=True)
             best_idx = sort_idx[0]
             result = {}

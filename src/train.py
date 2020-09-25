@@ -40,6 +40,7 @@ if __name__ == '__main__':
     parser.add_argument("-state_emb_size", default=128, type=int)
     parser.add_argument("-state_dropout", default=0.2, type=float)
     parser.add_argument("-share_emb", type=str2bool, nargs='?', const=True, default=False)
+    parser.add_argument("-fake_global", type=str2bool, nargs='?', const=True, default=False)
     
     parser.add_argument("-dec_hidden_size", default=256, type=int)
     parser.add_argument("-dec_ff_size", default=512, type=int)

@@ -285,7 +285,7 @@ class PreproHMMData():
             src_r, tgt_a, tgt_t = d['src_r'], d['tgt_a'], d['tgt_t']
             relations = [relation_dict[r] for r in src_r]
             # DDDDDDDDDDDELETE
-            #if len(relations) != 5:
+            #if len(relations) != 7:
             #    continue
             # DDDDDDDDDDDELETE_end
             if is_test:
@@ -399,10 +399,15 @@ class PreproHMMJson():
         root_tgt = self.args.raw_path + corpus_type + "_tgt.jsonl"
         for line in open(root_tgt):
             flist = line.strip().split('\t')
-            fact_tree = flist[0]
-            tree_struct.append(fact_tree)
-            alignments.append(flist[1].split('|'))
-            tgts.append([chunk.split() for chunk in flist[2:]])
+            if len(flist) < 3:
+                tree_struct.append('')
+                alignments.append([])
+                tgts.append([])
+            else:
+                fact_tree = flist[0]
+                tree_struct.append(fact_tree)
+                alignments.append(flist[1].split('|'))
+                tgts.append([chunk.split() for chunk in flist[2:]])
         return tgts, alignments, tree_struct
 
     def _load_test(self, corpus_type):
@@ -444,6 +449,8 @@ class PreproHMMJson():
                 src_r = relations[i]
                 tgt_a = alignments[i]
                 tgt_t = tree_struct[i]
+                if len(tgt) == 0:
+                    continue
                 json_objs.append({'src': src, 'tgt': tgt, 'src_r': src_r, 'tgt_a': tgt_a, 'tgt_t': tgt_t})
 
             if corpus_type == 'train':
