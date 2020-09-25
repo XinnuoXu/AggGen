@@ -30,7 +30,7 @@ python train.py  \
 	-dec_ff_size 256 \
 	-enc_hidden_size 128 \
 	-enc_ff_size 256 \
-	-visible_gpus 0,1,2 \
+	-visible_gpus 0,1 \
 	-log_file ../logs/abs_bert_cnndm
 	#-share_emb \
 	#-train_from ${MODEL_PATH}/model_step_38000.pt \
