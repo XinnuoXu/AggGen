@@ -48,6 +48,7 @@ if __name__ == '__main__':
     parser.add_argument('-min_tgt_ntokens', default=3, type=int)
     parser.add_argument('-max_tgt_ntokens', default=500, type=int)
     parser.add_argument('-max_tgt_fact', default=6, type=int)
+    parser.add_argument("-cross_test", type=str2bool, nargs='?',const=True,default=False)
 
     parser.add_argument("-tokenizer", default='sub-word', type=str, choices=['sub-word', 'word'])
     parser.add_argument("-lower", type=str2bool, nargs='?',const=True,default=True)

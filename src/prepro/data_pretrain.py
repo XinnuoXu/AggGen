@@ -124,7 +124,8 @@ class PretrainData():
         tgt_subtoken_idxs = [self.tgt_dict[tok] if tok in self.tgt_dict else self.tgt_unk_vid for tok in tgt_subtokens]
 
         tgt_txt = '\t'.join([' '.join(tt) for tt in tgt])
-        src_txt = [original_src_txt[i] for i in idxs]
+        #src_txt = [original_src_txt[i] for i in idxs]
+        src_txt = original_src_txt
 
         return src_subtoken_idxs, tgt_subtoken_idxs, segments_ids, src_txt, tgt_txt
 
@@ -194,6 +195,25 @@ class PreproPretrainJson():
     def __init__(self, args):
         self.args = args
 
+    def _sort_src_cross(self, ex_src, relation, relation_dict):
+        tmp_rel = {}
+        relation = relation.split('|')
+        for rel in relation:
+            tmp_rel[rel] = relation_dict[rel]
+        rel_to_record = {}
+        for i, record in enumerate(ex_src):
+            if relation[i] in rel_to_record:
+                rel_to_record[relation[i]].append(record)
+            else:
+                rel_to_record[relation[i]] = [record]
+        sorted_rel = []
+        sorted_rec = []
+        for key, value in sorted(tmp_rel.items(), key = lambda d:d[1]):
+            for i in range(len(rel_to_record[key])):
+                sorted_rel.append(key)
+            sorted_rec.extend(rel_to_record[key])
+        return sorted_rel, sorted_rec
+
     def _sort_src_sens(self, ex_src, relation, relation_dict):
         tmp_rel = {}
         relation = relation.split('|')
@@ -217,7 +237,10 @@ class PreproPretrainJson():
             relation = flist[-1]
             ex_src = [sen.split() for sen in flist[:-1]]
             # sort by relation
-            sorted_rel, sorted_rec = self._sort_src_sens(ex_src, relation, relation_dict)
+            if self.args.cross_test:
+                sorted_rel, sorted_rec = self._sort_src_cross(ex_src, relation, relation_dict)
+            else:
+                sorted_rel, sorted_rec = self._sort_src_sens(ex_src, relation, relation_dict)
             srcs.append(sorted_rec)
         return srcs
 
