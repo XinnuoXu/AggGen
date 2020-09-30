@@ -1,10 +1,10 @@
 #!/bin/bash
 
-DSRC_PATH=../data_e2e.clean/data-alg/src.dict
-DTGT_PATH=../data_e2e.clean/data-alg/tgt.dict
-REL_PATH=../data_e2e.clean/data-alg/relations.txt
-DATA_PATH=/scratch/xxu/e2e.clean/pretrain_data/e2e
-MODEL_PATH=/scratch/xxu/e2e.clean/pretrain_model/
+DSRC_PATH=../data_e2e/data-alg/src.dict
+DTGT_PATH=../data_e2e/data-alg/tgt.dict
+REL_PATH=../data_e2e/data-alg/relations.txt
+DATA_PATH=/scratch/xxu/e2e/pretrain_data/e2e
+MODEL_PATH=/scratch/xxu/e2e/pretrain_model/
 
 python train.py  \
 	-mode pretrain \
@@ -28,5 +28,5 @@ python train.py  \
 	-dec_ff_size 256 \
 	-enc_hidden_size 128 \
 	-enc_ff_size 256 \
-	-visible_gpus 0,1  \
+	-visible_gpus 0,1,2  \
 	-log_file ../logs/abs_bert_cnndm

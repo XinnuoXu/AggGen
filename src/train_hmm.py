@@ -188,7 +188,7 @@ def validate(args, device_id, pt, step):
     valid_iter = data_hmm.Dataloader(args, load_dataset(args, 'dev', shuffle=False),
                                         args.batch_size, device,
                                         shuffle=False, is_test=False)
-    valid_loss = hmm_loss(model.generator, args.pad_id, args.relation_path, model.dec_vocab_size, device, train=False)
+    valid_loss = hmm_loss(model.generator, args.pad_id, args.relation_path, args.fake_global, model.dec_vocab_size, device, train=False)
     trainer = build_trainer(args, device_id, model, None, valid_loss)
     stats = trainer.validate(valid_iter, step)
     return stats.xent()
@@ -278,6 +278,7 @@ def train_abs_single(args, device_id):
     train_loss = hmm_loss(model.generator,\
                             args.pad_id,\
                             args.relation_path,\
+                            args.fake_global, \
                             model.dec_vocab_size,\
                             device, train=True,\
                             label_smoothing=args.label_smoothing)

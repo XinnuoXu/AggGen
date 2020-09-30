@@ -3,7 +3,8 @@
 DSRC_PATH=../data_e2e/data-alg/src.dict
 DTGT_PATH=../data_e2e/data-alg/tgt.dict
 REL_PATH=../data_e2e/data-alg/relations.txt
-DATA_PATH=/scratch/xxu/e2e/hmm_data/e2e
+
+DATA_PATH=/scratch/xxu/e2e.cross/hmm_data/e2e
 #MODEL_PATH=/scratch/xxu/e2e/models.local_limit/
 MODEL_PATH=/scratch/xxu/e2e/models/
 

@@ -160,7 +160,6 @@ class State_predictor(object):
                 seqs.append(seq)
                 bi_patts.append(bp)
                 patt_scores.append(patt_score[k])
-
         return src_masks, seqs, bi_patts, patt_scores
 
 
@@ -231,7 +230,8 @@ class State_predictor(object):
         states = batch.states
         ex_idx = batch.ex_idx
         relations = batch.relations
-        record_num = [len(ex_src) for ex_src in batch.src_str]
+        #record_num = [len(ex_src) for ex_src in batch.src_str]
+        record_num = [len(rel) for rel in relations]
         bsz = len(ex_idx)
         batch_states = []
         for i, example in enumerate(record_num):

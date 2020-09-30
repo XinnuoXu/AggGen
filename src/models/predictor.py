@@ -53,6 +53,7 @@ class Translator(object):
 
         translations = []
         batch_size = batch.batch_size
+        raw_srcs = batch.src_str
         for b in range(batch_size):
             translation_result = translation_results[b]
             pred, score, state_seq, emission, tgt_str, src = \
@@ -70,7 +71,8 @@ class Translator(object):
             # ground truth
             gold_sent = ' <ref_sep> '.join(tgt_str)
             # raw src
-            raw_src = ' '.join([self.src_id_to_tok[int(t)] for t in src])
+            #raw_src = ' '.join([self.src_id_to_tok[int(t)] for t in src])
+            raw_src = '[CLS] ' + ' [SEP] '.join(raw_srcs[b]) + ' [SEP]'
             translation = (pred_sents, seq_info, gold_sent, raw_src)
             translations.append(translation)
 

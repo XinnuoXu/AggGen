@@ -217,7 +217,6 @@ class HMMData():
                 filted_cand_steps[i].append([self.relation_dict['lm_only']])
         return permutation_srcs, src_subtoken_idxs, filted_cand_steps
 
-
     def preprocess_src(self, src, relations, alignments, use_bert_basic_tokenizer=False, is_test=False, lower=True):
         if (lower):
             src = [' '.join(s).lower().split() for s in src]
@@ -252,7 +251,8 @@ class HMMData():
             alignments = [[-1]]
 
         permutation_srcs, src_subtoken_idxs, filted_cand_steps = self.permutate_src(src_subtoken_list, relations, alignments, max_records_per_fact)
-        src_txt = [original_src_txt[i] for i in idxs]
+        #src_txt = [original_src_txt[i] for i in idxs]
+        src_txt = original_src_txt
 
         return permutation_srcs, src_subtoken_idxs, filted_cand_steps, src_txt
 
@@ -263,6 +263,21 @@ class PreproHMMData():
     '''
     def __init__(self, args):
         self.args = args
+
+    def remove_duplicate_relation(self, src, relations):
+        new_src = []
+        new_relations = []
+        r_set = set()
+        for i, s in enumerate(src):
+            r = relations[i]
+            if r in r_set:
+                continue
+            r_set.add(r)
+            new_src.append(s)
+            new_relations.append(r)
+        #if len(src) != len(new_src):
+        #    print (src, new_src)
+        return new_src, new_relations
 
     def _preprocess(self, params):
         corpus_type, json_file, args, save_file = params
@@ -281,11 +296,14 @@ class PreproHMMData():
         lower = args.lower
         datasets = []
         for d in jobs:
+            original_src_txt = [' '.join(s) for s in d['src']] # only for 'cross', due to the mismatching between two data [Deletable]
+            d['src'], d['src_r'] = self.remove_duplicate_relation(d['src'], d['src_r']) # only for 'cross', due to the mismatching between two data [Deletable]
+
             # Src_relations, tgt_alignments, tgt_trees
             src_r, tgt_a, tgt_t = d['src_r'], d['tgt_a'], d['tgt_t']
             relations = [relation_dict[r] for r in src_r]
             # DDDDDDDDDDDELETE
-            #if len(relations) != 5:
+            #if len(relations) != 7:
             #    continue
             # DDDDDDDDDDDELETE_end
             if is_test:
@@ -325,6 +343,7 @@ class PreproHMMData():
                 tgt_txt = [ref.lower() for ref in refs]
 
             # Read out
+            src_txt = original_src_txt # only for 'cross', due to the mismatching between two data [Deletable]
             b_data_dict = {"src": src_subtoken_idxs,
                            "src_mask": permutation_src_masks, 
                            "relations":relations,
@@ -366,6 +385,25 @@ class PreproHMMJson():
     def __init__(self, args):
         self.args = args
 
+    def _sort_src_cross(self, ex_src, relation, relation_dict):
+        tmp_rel = {}
+        relation = relation.split('|')
+        for rel in relation:
+            tmp_rel[rel] = relation_dict[rel]
+        rel_to_record = {}
+        for i, record in enumerate(ex_src):
+            if relation[i] in rel_to_record:
+                rel_to_record[relation[i]].append(record)
+            else:
+                rel_to_record[relation[i]] = [record]
+        sorted_rel = []
+        sorted_rec = []
+        for key, value in sorted(tmp_rel.items(), key = lambda d:d[1]):
+            for i in range(len(rel_to_record[key])):
+                sorted_rel.append(key)
+            sorted_rec.extend(rel_to_record[key])
+        return sorted_rel, sorted_rec
+
     def _sort_src_sens(self, ex_src, relation, relation_dict):
         tmp_rel = {}
         relation = relation.split('|')
@@ -389,7 +427,10 @@ class PreproHMMJson():
             relation = flist[-1]
             ex_src = [sen.split() for sen in flist[:-1]]
             # sort by relation
-            sorted_rel, sorted_rec = self._sort_src_sens(ex_src, relation, relation_dict)
+            if self.args.cross_test:
+                sorted_rel, sorted_rec = self._sort_src_cross(ex_src, relation, relation_dict)
+            else:
+                sorted_rel, sorted_rec = self._sort_src_sens(ex_src, relation, relation_dict)
             srcs.append(sorted_rec)
             relations.append(sorted_rel)
         return srcs, relations
@@ -399,10 +440,15 @@ class PreproHMMJson():
         root_tgt = self.args.raw_path + corpus_type + "_tgt.jsonl"
         for line in open(root_tgt):
             flist = line.strip().split('\t')
-            fact_tree = flist[0]
-            tree_struct.append(fact_tree)
-            alignments.append(flist[1].split('|'))
-            tgts.append([chunk.split() for chunk in flist[2:]])
+            if len(flist) < 3:
+                tree_struct.append('')
+                alignments.append([])
+                tgts.append([])
+            else:
+                fact_tree = flist[0]
+                tree_struct.append(fact_tree)
+                alignments.append(flist[1].split('|'))
+                tgts.append([chunk.split() for chunk in flist[2:]])
         return tgts, alignments, tree_struct
 
     def _load_test(self, corpus_type):
@@ -444,6 +490,8 @@ class PreproHMMJson():
                 src_r = relations[i]
                 tgt_a = alignments[i]
                 tgt_t = tree_struct[i]
+                if len(tgt) == 0:
+                    continue
                 json_objs.append({'src': src, 'tgt': tgt, 'src_r': src_r, 'tgt_a': tgt_a, 'tgt_t': tgt_t})
 
             if corpus_type == 'train':

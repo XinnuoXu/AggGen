@@ -1,11 +1,11 @@
 #!/bin/bash
 
-DSRC_PATH=../data_e2e.clean/data-alg/src.dict
-DTGT_PATH=../data_e2e.clean/data-alg/tgt.dict
-REL_PATH=../data_e2e.clean/data-alg/relations.txt
-DATA_PATH=/scratch/xxu/e2e.clean/hmm_data/e2e
-MODEL_PATH=/scratch/xxu/e2e.clean/models/
-PRETRAIN_PATH=/scratch/xxu/e2e.clean/pretrain_model/
+DSRC_PATH=../data_e2e/data-alg/src.dict
+DTGT_PATH=../data_e2e/data-alg/tgt.dict
+REL_PATH=../data_e2e/data-alg/relations.txt
+DATA_PATH=/scratch/xxu/e2e/hmm_data/e2e
+MODEL_PATH=/scratch/xxu/e2e/models/
+PRETRAIN_PATH=/scratch/xxu/e2e/pretrain_model/
 
 python train.py  \
 	-mode train \
@@ -14,7 +14,7 @@ python train.py  \
         -tgt_dict_path ${DTGT_PATH} \
 	-relation_path ${REL_PATH} \
 	-model_path ${MODEL_PATH} \
-	-pretrain_path ${PRETRAIN_PATH}/model_step_41000.pt \
+	-pretrain_path ${PRETRAIN_PATH}/model_step_50000.pt \
 	-sep_optim true \
 	-lr_tok 0.002 \
 	-lr_hmm 0.01 \
@@ -30,7 +30,7 @@ python train.py  \
 	-dec_ff_size 256 \
 	-enc_hidden_size 128 \
 	-enc_ff_size 256 \
-	-visible_gpus 0,1 \
+	-visible_gpus 0,1,2 \
 	-log_file ../logs/abs_bert_cnndm
 	#-share_emb \
 	#-train_from ${MODEL_PATH}/model_step_38000.pt \

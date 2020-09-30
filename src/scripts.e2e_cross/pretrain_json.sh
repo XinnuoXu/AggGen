@@ -1,8 +1,8 @@
 #!/bin/bash
 
-RAW_PATH=../data_e2e.clean/data-pretrain/e2e_
-REL_PATH=../data_e2e.clean/data-alg/relations.txt
-JSON_PATH=/scratch/xxu/e2e.clean/pretrain_jsons/e2e
+RAW_PATH=../data_e2e.clean/data-cross/e2e_
+REL_PATH=../data_e2e/data-alg/relations.txt
+JSON_PATH=/scratch/xxu/e2e.cross/pretrain_jsons/e2e
 
 python preprocess.py \
 	-mode pretrain_to_json \
