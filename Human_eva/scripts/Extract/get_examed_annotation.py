@@ -23,16 +23,23 @@ def annotation_mapping(relations, ann):
 if __name__ == '__main__':
     with open('../annotation.res', 'r') as infile:
         json_obj = json.load(infile)
+    fpout_src = open('../webnlg_ann_src.jsonl', 'w')
+    fpout_tgt = open('../webnlg_ann_tgt.jsonl', 'w')
     kp_scores = 0.0
     qualified_refs = 0
     for example_id in json_obj:
         example = json_obj[example_id]
         srcs = example['srcs']
+        src_keys = srcs.keys()
+        src_values = srcs.values()
+        src_str = '\t'.join(src_values) + '\t' + '|'.join(src_keys)
         relations = srcs.keys()
+        references = []
         for tgt_tag in example:
             if not tgt_tag.startswith('tgt_'):
                 continue
             one_ref = example[tgt_tag]
+            tgts = ' '.join(json.loads(one_ref['tgts']))
             annotation = one_ref['annotations']
             if len(annotation) < 3:
                 continue
@@ -48,27 +55,26 @@ if __name__ == '__main__':
             if not qualified:
                 continue
 
-            tmp_score = 0.0
+            correct_annotation = ""
             kp_score = metrics.cohen_kappa_score(annotation_split[0], annotation_split[1])
-            if kp_score >= -1 and kp_score <= 1:
-                tmp_score += kp_score
-            else:
-                continue
+            if kp_score == 1:
+                correct_annotation = annotation[0]
 
             kp_score = metrics.cohen_kappa_score(annotation_split[0], annotation_split[2])
-            if kp_score >= -1 and kp_score <= 1:
-                tmp_score += kp_score
-            else:
-                continue
+            if kp_score == 1:
+                correct_annotation = annotation[0]
 
             kp_score = metrics.cohen_kappa_score(annotation_split[1], annotation_split[2])
-            if kp_score >= -1 and kp_score <= 1:
-                tmp_score += kp_score
-            else:
-                continue
+            if kp_score == 1:
+                correct_annotation = annotation[1]
             
-            kp_scores += tmp_score
-            qualified_refs += 1
+            if correct_annotation == "":
+                continue
 
-    print ("qualified_refs:", qualified_refs)
-    print ("KAPPA:", kp_scores/(qualified_refs*3))
+            tgt_str = '(S)[XXN]'+correct_annotation+'[XXN]'+tgts
+            references.append(tgt_str)
+        fpout_tgt.write('\t'.join(references) + '\n')
+        fpout_src.write(src_str + '\n')
+
+    fpout_src.close()
+    fpout_tgt.close()
