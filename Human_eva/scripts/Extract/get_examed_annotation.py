@@ -39,7 +39,7 @@ if __name__ == '__main__':
             if not tgt_tag.startswith('tgt_'):
                 continue
             one_ref = example[tgt_tag]
-            tgts = ' '.join(json.loads(one_ref['tgts']))
+            tgts = ' [SEP] '.join(json.loads(one_ref['tgts']))
             annotation = one_ref['annotations']
             if len(annotation) < 3:
                 continue
