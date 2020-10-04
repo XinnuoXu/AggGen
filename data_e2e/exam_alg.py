@@ -1,7 +1,7 @@
 #coding=utf8
 
-#TAG = 'train'
-TAG = 'dev'
+TAG = 'train'
+#TAG = 'dev'
 
 def process_summary(summary):
     toks = summary.strip().split()

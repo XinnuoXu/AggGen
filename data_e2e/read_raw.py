@@ -4,10 +4,10 @@ import re
 import csv
 import stanza
 
-BASE_PATH = './cleaned-data/'
+BASE_PATH = './e2e-dataset/'
 OUT_PATH = './data/'
 
-datasets = ['train', 'devel', 'test']
+datasets = ['train', 'dev', 'test']
 tokenizer = stanza.Pipeline(lang='en', processors='tokenize')
 PATTERN = r"(?P<relation>.+)\[(?P<object>.+)\]$"
 
@@ -38,7 +38,7 @@ def get_src(src):
     return ' <TSP> '.join(records), subject
 
 def preprocessing(dataset):
-    input_path = BASE_PATH + '/' + dataset + '-fixed.csv'
+    input_path = BASE_PATH + '/' + dataset + 'set.csv'
     out_src_path = OUT_PATH + '/' + dataset + '-e2e-src.txt'
     out_tgt_path = OUT_PATH + '/' + dataset + '-e2e-tgt.txt'
     fpout_src = open(out_src_path, 'w')
@@ -50,7 +50,7 @@ def preprocessing(dataset):
                 continue
             src, subj = get_src(row[0])
             tgt = get_tgt(row[1])
-            if subj == '' and dataset in ['train', 'devel']:
+            if subj == '' and dataset in ['train', 'dev']:
                 continue
             fpout_src.write(src + '\n')
             fpout_tgt.write(tgt + '\n')

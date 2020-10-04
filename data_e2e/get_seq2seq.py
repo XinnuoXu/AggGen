@@ -33,11 +33,9 @@ def one_pair(src_file, tgt_file, src_out, tgt_out):
     fpout.close()
 
 if __name__ == '__main__':
-    for tag in ['train', 'devel', 'test']:
+    for tag in ['train', 'dev', 'test']:
         src_file = 'data/'+tag+'-e2e-src.txt'
         tgt_file = 'data/'+tag+'-e2e-tgt.txt'
-        if tag == 'devel':
-            tag = 'dev'
         src_out = 'data-seq/e2e_'+tag+'_src.jsonl'
         tgt_out = 'data-seq/e2e_'+tag+'_tgt.jsonl'
         one_pair(src_file, tgt_file, src_out, tgt_out)

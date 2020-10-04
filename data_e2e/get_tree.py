@@ -296,10 +296,7 @@ def one_file(args):
 if __name__ == '__main__':
     src_file="[DATA]-e2e-src.txt".replace("[DATA]", sys.argv[1])
     tgt_file="[DATA]-e2e-tgt.txt".replace("[DATA]", sys.argv[1])
-    if sys.argv[1] == "devel":
-        file_tag = "dev"
-    else:
-        file_tag = sys.argv[1]
+    file_tag = sys.argv[1]
 
     input_dir = "./data-srl/"
     src_dir = "./data/"

@@ -45,8 +45,6 @@ if __name__ == '__main__':
     tag = 'train'
     #tag = 'dev'
     tree_pairs, trees = load_tree(tag)
-    if tag == 'dev':
-        tag = 'devel'
     raw_pairs, srl_pairs = load_raw_srl(tag)
     miss_match = 0
     for key in raw_pairs:
