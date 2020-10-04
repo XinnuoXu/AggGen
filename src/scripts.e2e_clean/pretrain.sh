@@ -16,7 +16,7 @@ python train.py  \
 	-lr 0.1 \
 	-save_checkpoint_steps 1000 \
 	-batch_size 140 \
-	-train_steps 50000 \
+	-train_steps 30000 \
 	-warmup_steps_tok 5000 \
 	-warmup_steps_hmm 2000 \
 	-report_every 50 \
@@ -24,9 +24,11 @@ python train.py  \
 	-seed 777 \
 	-max_pos 512 \
 	-state_emb_size 32 \
-	-dec_hidden_size 128 \
-	-dec_ff_size 256 \
-	-enc_hidden_size 128 \
-	-enc_ff_size 256 \
-	-visible_gpus 0,1  \
+	-visible_gpus 0,1,2  \
 	-log_file ../logs/abs_bert_cnndm
+	#-dec_hidden_size 320 \
+	#-dec_ff_size 640 \
+	#-enc_hidden_size 320 \
+	#-enc_ff_size 640 \
+	#-dec_layers 3 \
+	#-enc_layers 3 \

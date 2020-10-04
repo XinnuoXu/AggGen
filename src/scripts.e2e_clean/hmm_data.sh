@@ -17,6 +17,7 @@ python preprocess.py \
       	-lower \
 	-n_cpus 30 \
 	-min_src_nsents 0 \
-	-max_src_nsents 7 \
+	-max_src_nsents 9 \
+	-max_tgt_fact 7 \
 	-min_src_ntokens_per_sent 2 \
 	-log_file ../logs/preprocess.log

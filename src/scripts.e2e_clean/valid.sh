@@ -20,9 +20,9 @@ python train.py \
 	-max_pos 512 \
 	-alpha 0.9 \
 	-state_emb_size 32 \
-	-dec_hidden_size 128 \
-	-dec_ff_size 256 \
-	-enc_hidden_size 128 \
-	-enc_ff_size 256 \
 	-log_file ../logs/val_abs_bert_cnndm \
 	-result_path ../logs/abs_bert_cnndm
+	#-dec_hidden_size 128 \
+	#-dec_ff_size 256 \
+	#-enc_hidden_size 128 \
+	#-enc_ff_size 256 \
