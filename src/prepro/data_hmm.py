@@ -303,7 +303,7 @@ class PreproHMMData():
             src_r, tgt_a, tgt_t = d['src_r'], d['tgt_a'], d['tgt_t']
             relations = [relation_dict[r] for r in src_r]
             # DDDDDDDDDDDELETE
-            #if len(relations) != 7:
+            #if len(relations) < 8:
             #    continue
             # DDDDDDDDDDDELETE_end
             if is_test:
@@ -314,7 +314,10 @@ class PreproHMMData():
                 alignments = []
                 for alg in tgt_a:
                     alg_list = alg.split('&&')
-                    alignments.append([relation_dict[a] if a != '' else -1 for a in alg_list])
+                    if corpus_type == 'ann':
+                        alignments.append([-1])
+                    else:
+                        alignments.append([relation_dict[a] if a != '' else -1 for a in alg_list])
 
             # Process Src 
             source = d['src']
@@ -479,7 +482,7 @@ class PreproHMMJson():
 
         for corpus_type in datasets:
             srcs, relations = self._load_src(corpus_type, relation_dict) # Load src
-            if corpus_type in ['train', 'dev']:
+            if corpus_type in ['train', 'dev', 'ann']:
                 tgts, alignments, tree_struct = self._load_tgt(corpus_type) # Load tgt
             else:
                 tgts, alignments, tree_struct = self._load_test(corpus_type) # Load tgt for test

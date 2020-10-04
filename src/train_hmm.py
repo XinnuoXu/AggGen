@@ -21,6 +21,7 @@ from models.data_hmm import load_dataset
 from models.loss import abs_loss, hmm_loss
 from models.model_builder import HMMModel
 from models.predictor import build_predictor
+from models.annotator import build_annotator
 from models.trainer import build_trainer
 from others.logging import logger, init_logger
 
@@ -193,6 +194,7 @@ def validate(args, device_id, pt, step):
     stats = trainer.validate(valid_iter, step)
     return stats.xent()
 
+
 def test_abs(args, device_id, pt, step):
     device = "cpu" if args.visible_gpus == '-1' else "cuda"
     if (pt != ''):
@@ -215,6 +217,30 @@ def test_abs(args, device_id, pt, step):
                                        shuffle=False, is_test=True)
     predictor = build_predictor(args, model, logger)
     predictor.translate(test_iter, step)
+
+
+def ann_viterbi(args, device_id, pt, step):
+    device = "cpu" if args.visible_gpus == '-1' else "cuda"
+    if (pt != ''):
+        test_from = pt
+    else:
+        test_from = args.test_from
+    logger.info('Loading checkpoint from %s' % test_from)
+
+    checkpoint = torch.load(test_from, map_location=lambda storage, loc: storage)
+    opt = vars(checkpoint['opt'])
+    for k in opt.keys():
+        if (k in model_flags):
+            setattr(args, k, opt[k])
+    print(args)
+
+    model = HMMModel(args, device, checkpoint)
+    model.eval()
+    test_iter = data_hmm.Dataloader(args, load_dataset(args, 'ann', shuffle=False),
+                                       args.test_batch_size, device,
+                                       shuffle=False, is_test=False)
+    annotator = build_annotator(args, model, logger)
+    annotator.annotate(test_iter, step)
 
 
 def train_abs(args, device_id):

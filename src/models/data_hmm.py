@@ -126,7 +126,7 @@ class Batch(object):
 
 
 def load_dataset(args, corpus_type, shuffle):
-    assert corpus_type in ["train", "dev", "test"]
+    assert corpus_type in ["train", "dev", "test", 'ann']
 
     def _lazy_dataset_loader(pt_file, corpus_type):
         dataset = torch.load(pt_file)

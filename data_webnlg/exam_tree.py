@@ -55,3 +55,4 @@ if __name__ == '__main__':
             print ('--------------------')
             print (srl_pairs[key])
             print ('\n\n')
+    print (len(raw_pairs))

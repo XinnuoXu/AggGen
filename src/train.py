@@ -7,7 +7,7 @@ from __future__ import division
 import argparse
 import os
 from others.logging import init_logger
-from train_hmm import validate_abs, train_abs, test_abs 
+from train_hmm import validate_abs, train_abs, test_abs, ann_viterbi
 from pretrain import vld_pretrain, pretrain, test_pretrain 
 
 def str2bool(v):
@@ -20,7 +20,7 @@ def str2bool(v):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument("-mode", default='train', type=str, choices=['train', 'validate', 'test', 'pretrain', 'vld_pretrain', 'test_pretrain'])
+    parser.add_argument("-mode", default='train', type=str, choices=['train', 'validate', 'test', 'pretrain', 'vld_pretrain', 'test_pretrain', 'annotation'])
     parser.add_argument("-test_data", default='test', type=str, choices=['test'])
     parser.add_argument("-data_path", default='../bert_data_new/cnndm')
     parser.add_argument("-model_path", default='../models/')
@@ -125,11 +125,18 @@ if __name__ == '__main__':
         except:
             step = 0
         test_abs(args, device_id, cp, step)
+    elif (args.mode == 'annotation'):
+        cp = args.test_from
+        try:
+            step = int(cp.split('.')[-2].split('_')[-1])
+        except:
+            step = 0
+        ann_viterbi(args, device_id, cp, step)
     elif (args.mode == 'pretrain'):
         pretrain(args, device_id)
     elif (args.mode == 'vld_pretrain'):
         vld_pretrain(args, device_id)
-    if (args.mode == 'test_pretrain'):
+    elif (args.mode == 'test_pretrain'):
         cp = args.test_from
         try:
             step = int(cp.split('.')[-2].split('_')[-1])
