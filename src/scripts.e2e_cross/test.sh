@@ -14,7 +14,7 @@ python train.py \
 	-src_dict_path ${DSRC_PATH} \
 	-tgt_dict_path ${DTGT_PATH} \
 	-relation_path ${REL_PATH} \
-	-test_from ${MODEL_PATH}model_step_48000.pt \
+	-test_from ${MODEL_PATH}model_step_50000.pt \
 	-state_emb_size 32 \
 	-dec_hidden_size 128 \
 	-dec_ff_size 256 \

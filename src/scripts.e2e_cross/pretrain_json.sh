@@ -10,4 +10,5 @@ python preprocess.py \
 	-relation_path ${REL_PATH} \
 	-save_path ${JSON_PATH} \
 	-n_cpus 30 \
+	-cross_test true \
 	-log_file ../logs/cnndm.log \
