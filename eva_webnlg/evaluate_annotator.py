@@ -60,6 +60,10 @@ class Percision(object):
         acc = 0; num = 0
         for i, src in enumerate(srcs):
             gold = golds[i]
+            if type(cands) is dict:
+                if i not in cands:
+                    print (i, src)
+                    continue
             cand = cands[i]
             cand_ann = [cand[s] if s in cand else -1 for s in src]
             gold_ann = [gold[s] for s in src]
