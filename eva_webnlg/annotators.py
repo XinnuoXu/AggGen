@@ -94,18 +94,12 @@ def one_pair(tripples, keys, terminals, non_terminals):
         alignments[alignment].append(keys[i])
     return '|'.join(['&&'.join(alg) for alg in alignments])
 
-def get_alignment():
-    input_dir = "./annotation_human/"
-    src_path = input_dir+"rst_ann_src.jsonl"
-    tgt_path = input_dir+"rst_ann_tgt.jsonl"
-    src_list = [line.strip() for line in open(src_path)]
-    tgt_list = [line.strip() for line in open(tgt_path)]
+def get_alignment(src_in_path, tgt_in_path, src_out_path, tgt_out_path):
+    src_list = [line.strip() for line in open(src_in_path)]
+    tgt_list = [line.strip() for line in open(tgt_in_path)]
 
-    output_dir = "./annotation_human/"
-    src_path = output_dir+"webnlg_ann_src.jsonl"
-    tgt_path = output_dir+"webnlg_ann_tgt.jsonl"
-    fpout_src = open(src_path, 'w')
-    fpout_tgt = open(tgt_path, 'w')
+    fpout_src = open(src_out_path, 'w')
+    fpout_tgt = open(tgt_out_path, 'w')
 
     for i in range(len(src_list)):
         src = src_list[i]; tgt = tgt_list[i]
@@ -143,7 +137,13 @@ if __name__ == '__main__':
         #        Also, generate the files need for viterbi annotator
         #        Go to ../src/ to run 1) sh ann_json.sh 2) sh ann_data.sh 3) annotation.sh for the viterbi annotation result
         #        The viterbi annotation will be stored in ../logs/abs_bert_cnndm.{chekpoint}.anno
-        get_alignment()
+        input_dir = "./annotation_human/"
+        src_in_path = input_dir+"rst_ann_src.jsonl"
+        tgt_in_path = input_dir+"rst_ann_tgt.jsonl"
+        output_dir = "./annotation_human/"
+        src_out_path = output_dir+"webnlg_ann_src.jsonl"
+        tgt_out_path = output_dir+"webnlg_ann_tgt.jsonl"
+        get_alignment(src_in_path, tgt_in_path, src_out_path, tgt_out_path)
     elif sys.argv[1] == "rst":
         # Step1: Get rst fils from the raw human annotations
         output_dir = "./annotation_human/"
