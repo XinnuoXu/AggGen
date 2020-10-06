@@ -205,7 +205,9 @@ class Annotator(object):
             tgt = batch.tgt[ex_idx[-1][-1]-1]
             tgt = ' '.join([self.tgt_id_to_tok[int(n)] for n in tgt])
 
-            annotation = (anno_str, raw_src, tgt)
+            example_id = batch.example_id[b]
+
+            annotation = (anno_str, raw_src, tgt, example_id)
             annotations.append(annotation)
 
         return annotations
@@ -229,7 +231,7 @@ class Annotator(object):
                 batch_res = self.annotate_batch(batch)
                 annotations = self.read_res(batch_res, batch)
                 for trans in annotations:
-                    anno, src, tgt = trans
+                    anno, src, tgt, example_id = trans
                     src_str = src.replace('[unused0]', '')\
                                     .replace('[PAD]', '')\
                                     .replace('[unused1]', '')\
@@ -242,7 +244,7 @@ class Annotator(object):
                     tgt_str = re.sub(' +', ' ', tgt_str).strip()
 
                     self.src_out_file.write(src_str + '\n')
-                    self.anno_out_file.write(tgt_str + '\t' + anno + '\n')
+                    self.anno_out_file.write(tgt_str + '\t' + anno + '\t' + str(example_id) + '\n')
 
                 self.src_out_file.flush()
                 self.anno_out_file.flush()

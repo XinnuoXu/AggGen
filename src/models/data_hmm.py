@@ -25,6 +25,7 @@ class Batch(object):
             pre_auto = [x[4] for x in data]
             pre_len = [x[5] for x in data]
             relations = [x[6] for x in data]
+            example_id = [x[7] for x in data]
 
             if not is_test:
                 ex_idx, tgt_idx, src, pmt_msk, states, tgt, mask_src, mask_tgt = \
@@ -42,6 +43,7 @@ class Batch(object):
                 setattr(self, 'mask_src', mask_src.to(device))
                 setattr(self, 'mask_tgt', mask_tgt.to(device))
 
+                setattr(self, 'example_id', example_id)
             else:
                 ex_idx, src, pmt_msk, states, mask_src = \
                     self._process_test(pre_src, pre_src_mask, pre_state)
@@ -60,6 +62,7 @@ class Batch(object):
                 tgt_str = [x[-1] for x in data]
                 setattr(self, 'tgt_str', tgt_str)
 
+                setattr(self, 'example_id', example_id)
 
     def _process_test(self, pre_src, pre_mask, pre_state):
         ex_idx = []; tgt_idx = []
@@ -228,14 +231,15 @@ class DataIterator(object):
         tgt = ex['tgt']
         tgt_atg = ex['tgt_atg']
         tgt_len = ex['tgt_len']
+        example_id = ex['example_id']
 
         src_txt = ex['src_txt']
         tgt_txt = ex['tgt_txt']
 
         if(is_test):
-            return src, src_mask, comb_rels, tgt, tgt_atg, tgt_len, relations, src_txt, tgt_txt
+            return src, src_mask, comb_rels, tgt, tgt_atg, tgt_len, relations, example_id, src_txt, tgt_txt
         else:
-            return src, src_mask, comb_rels, tgt, tgt_atg, tgt_len, relations
+            return src, src_mask, comb_rels, tgt, tgt_atg, tgt_len, relations, example_id
 
     def batch_buffer(self, data, batch_size):
         minibatch, size_so_far = [], 0

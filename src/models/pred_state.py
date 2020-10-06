@@ -5,6 +5,7 @@ import codecs
 import os
 import math
 import torch
+import random
 from others.utils import tile
 
 
@@ -17,6 +18,7 @@ class State_predictor(object):
         self.s_beam_size = args.s_beam_size
         self.active_patt_num = args.active_patt_num
         self.extreme = args.extreme
+        self.no_od = args.no_od
         self.hsmm_sid = self.model.relation_dict['<s>']
 
 
@@ -45,6 +47,11 @@ class State_predictor(object):
 
 
     def _get_best_state_sequence(self, relation):
+
+        if self.no_od:
+            random.shuffle(relation)
+            index = torch.tensor(relation, device=self.device)
+            return [index], [-1.0]
 
         # Pruing search for best state sequences
         init_matrix, trans_matrix = self.model.trans_logprobs()

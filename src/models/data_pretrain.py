@@ -22,6 +22,7 @@ class Batch(object):
             pre_src = [x[0] for x in data]
             pre_tgt = [x[1] for x in data]
             pre_segs = [x[2] for x in data]
+            example_ids = [x[3] for x in data]
 
             src = torch.tensor(self._pad(pre_src, 0))
             tgt = torch.tensor(self._pad(pre_tgt, 0))
@@ -41,6 +42,7 @@ class Batch(object):
                 setattr(self, 'src_str', src_str)
                 tgt_str = [x[-1] for x in data]
                 setattr(self, 'tgt_str', tgt_str)
+                setattr(self, 'example_ids', example_ids)
 
     def __len__(self):
         return self.batch_size
@@ -146,11 +148,12 @@ class DataIterator(object):
         tgt = ex['tgt']
         src = ex['src']
         segs = ex['segs']
+        example_id = ex['example_id']
 
         if(is_test):
-            return src, tgt, segs, src_txt, tgt_txt
+            return src, tgt, segs, example_id, src_txt, tgt_txt
         else:
-            return src, tgt, segs
+            return src, tgt, segs, example_id
 
     def batch_buffer(self, data, batch_size):
         minibatch, size_so_far = [], 0

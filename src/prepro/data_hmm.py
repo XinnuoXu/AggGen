@@ -354,7 +354,9 @@ class PreproHMMData():
                            "tgt": tgt_current, 
                            "tgt_atg": tgt_autogressive,
                            "tgt_len": tgt_length,
-                           "src_txt": src_txt, "tgt_txt": tgt_txt}
+                           "example_id": d['example_id'],
+                           "src_txt": src_txt,
+                           "tgt_txt": tgt_txt}
             datasets.append(b_data_dict)
 
         logger.info('Processed instances %d' % len(datasets))
@@ -495,7 +497,7 @@ class PreproHMMJson():
                 tgt_t = tree_struct[i]
                 if len(tgt) == 0:
                     continue
-                json_objs.append({'src': src, 'tgt': tgt, 'src_r': src_r, 'tgt_a': tgt_a, 'tgt_t': tgt_t})
+                json_objs.append({'src': src, 'tgt': tgt, 'src_r': src_r, 'tgt_a': tgt_a, 'tgt_t': tgt_t, 'example_id': i})
 
             if corpus_type == 'train':
                 random.shuffle(json_objs)

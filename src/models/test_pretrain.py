@@ -83,7 +83,7 @@ class Translator(object):
             #raw_src = [self.src_vocab[int(t)] for t in src[b]][:500]
             #raw_src = ' '.join(raw_src)
             raw_src = '[CLS] ' + ' [SEP] '.join(raw_srcs[b]) + ' [SEP]'
-            translation = (pred_sents, gold_sent, raw_src)
+            translation = (pred_sents, gold_sent, raw_src, batch.example_ids[b])
             translations.append(translation)
         return translations
 
@@ -97,6 +97,8 @@ class Translator(object):
         self.can_out_file = codecs.open(can_path, 'w', 'utf-8')
         raw_src_path = self.args.result_path + '.%d.raw_src' % step
         self.src_out_file = codecs.open(raw_src_path, 'w', 'utf-8')
+        example_id_path = self.args.result_path + '.%d.example_id' % step
+        self.example_id_file = codecs.open(example_id_path, 'w', 'utf-8')
 
         ct = 0
         with torch.no_grad():
@@ -104,7 +106,7 @@ class Translator(object):
                 batch_data = self.translate_batch(batch)
                 translations = self.from_batch(batch_data, batch)
                 for trans in translations:
-                    pred, gold, src = trans
+                    pred, gold, src, example_id = trans
                     pred_str = pred.replace('[unused0]', '')\
                                 .replace('[unused1]', '')\
                                 .replace('[PAD]', '')\
@@ -115,13 +117,16 @@ class Translator(object):
                     self.can_out_file.write(pred_str + '\n')
                     self.gold_out_file.write(gold_str + '\n')
                     self.src_out_file.write(src.strip() + '\n')
+                    self.example_id_file.write(str(example_id) + '\n')
                     ct += 1
                 self.can_out_file.flush()
                 self.gold_out_file.flush()
                 self.src_out_file.flush()
+                self.example_id_file.flush()
         self.can_out_file.close()
         self.gold_out_file.close()
         self.src_out_file.close()
+        self.example_id_file.close()
 
         if (step != -1):
             rouges = self._report_rouge(gold_path, can_path)

@@ -163,6 +163,7 @@ class PreproPretrainData():
             b_data_dict = {"src": src_subtoken_idxs,
                            "tgt": tgt_subtoken_idxs,
                            "segs": segments_ids,
+                           "example_id": d['example_id'],
                            "src_txt": src_txt,
                            "tgt_txt": tgt_txt}
             datasets.append(b_data_dict)
@@ -264,7 +265,7 @@ class PreproPretrainJson():
 
             json_objs = []
             for i, src in enumerate(srcs):
-                json_objs.append({'src': src, 'tgt': tgts[i]})
+                json_objs.append({'src': src, 'tgt': tgts[i], 'example_id':i})
 
             dataset = []
             p_ct = 0
