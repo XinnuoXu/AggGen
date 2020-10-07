@@ -56,8 +56,8 @@ class Percision(object):
             srcs.append(line.strip().split('\t')[-1].split('|'))
         return srcs
 
-    def get_acc(self, cands, golds, srcs, ignore_miss=False):
-        acc = 0; num = 0
+    def get_acc(self, cands, golds, srcs):
+        precision = 0; num = 0
         for i, src in enumerate(srcs):
             gold = golds[i]
             if type(cands) is dict:
@@ -68,38 +68,55 @@ class Percision(object):
             cand_ann = [cand[s] if s in cand else -1 for s in src]
             gold_ann = [gold[s] for s in src]
             for j in range(len(cand_ann)):
-                if cand_ann[j] == -1 and ignore_miss:
+                if cand_ann[j] == gold_ann[j]:
+                    precision += 1
+                num += 1
+        return precision/num
+
+    def get_precision(self, cands, golds, srcs, ignore_miss=False):
+        precision = 0; recall_num = 0; num = 0
+        for i, src in enumerate(srcs):
+            gold = golds[i]
+            if type(cands) is dict:
+                if i not in cands:
+                    print (i, src)
+                    continue
+            cand = cands[i]
+            cand_ann = [cand[s] if s in cand else -1 for s in src]
+            gold_ann = [gold[s] for s in src]
+            for j in range(len(cand_ann)):
+                num += 1
+                if cand_ann[j] == -1:
                     continue
                 if cand_ann[j] == gold_ann[j]:
-                    acc += 1
-                num += 1
-        return acc/num
+                    precision += 1
+                recall_num += 1
+        return precision/recall_num, recall_num/num
 
-    def run(self, is_viterbi=False, ignore_miss=False):
+    def run(self, is_viterbi=False):
         if is_viterbi:
             cands = self.load_cand_viterbi()
         else:
             cands = self.load_cand()
         golds = self.load_gold()
         srcs = self.load_src()
-        acc = self.get_acc(cands, golds, srcs, ignore_miss)
-        print ('acc:', acc)
+        acc = self.get_acc(cands, golds, srcs)
+        print ('ACC:', acc)
+        precision, recall = self.get_precision(cands, golds, srcs)
+        print ('Percision:', precision)
+        print ('Recall:', recall)
+        f1 = 2 * (precision * recall) / (precision + recall)
+        print ('F1:', f1)
 
 
 if __name__ == '__main__':
     if sys.argv[1] == 'rule':
         ANN_PATH = './annotation_human/webnlg_ann_tgt.jsonl'
-        acc_obj = Percision(ANN_PATH)
-        print ('Nomal:')
-        acc_obj.run(ignore_miss=False)
-        print ('Ignore miss:')
-        acc_obj.run(ignore_miss=True)
+        precision_obj = Percision(ANN_PATH)
+        precision_obj.run()
     elif sys.argv[1] == 'viterbi':
         ANN_PATH = '../logs/abs_bert_cnndm.30000.anno'
-        acc_obj = Percision(ANN_PATH)
-        print ('Nomal:')
-        acc_obj.run(is_viterbi=True, ignore_miss=False)
-        print ('Ignore miss:')
-        acc_obj.run(is_viterbi=True, ignore_miss=True)
+        precision_obj = Percision(ANN_PATH)
+        precision_obj.run(is_viterbi=True)
     else:
         print ('ERROR: the parameter needs to be in [rule, viterbi]')
