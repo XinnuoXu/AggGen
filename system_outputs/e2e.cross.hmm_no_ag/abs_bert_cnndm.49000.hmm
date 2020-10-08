@@ -1,0 +1,1847 @@
+eatType area	1 1
+eatType area	1 1
+eatType near customerrating	1 1 1
+eatType near customerrating	1 1 1
+eatType near customerrating	1 1 1
+eatType area	1 1
+eatType area	1 1
+eatType near customerrating	1 1 1
+eatType near customerrating	1 1 1
+eatType near customerrating	1 1 1
+eatType food area near	1 1 1 1
+eatType familyFriendly food near area	1 1 1 1 1
+eatType familyFriendly food near area	1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food area near	1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType familyFriendly food near area	1 1 1 1 1
+eatType familyFriendly food near area	1 1 1 1 1
+eatType familyFriendly food near area	1 1 1 1 1
+eatType near area familyFriendly	1 1 1 1
+eatType near familyFriendly	1 1 1
+eatType familyFriendly food near	1 1 1 1
+eatType familyFriendly food near area	1 1 1 1 1
+eatType familyFriendly near area	1 1 1 1
+eatType food area near	1 1 1 1
+eatType familyFriendly food near	1 1 1 1
+eatType food area near	1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType familyFriendly food near area	1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food area near	1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType familyFriendly food near area	1 1 1 1 1
+eatType familyFriendly food near area	1 1 1 1 1
+eatType near area familyFriendly	1 1 1 1
+eatType near familyFriendly	1 1 1
+eatType familyFriendly food near	1 1 1 1
+eatType familyFriendly food near area	1 1 1 1 1
+eatType familyFriendly near area	1 1 1 1
+eatType food area near	1 1 1 1
+eatType familyFriendly food near	1 1 1 1
+eatType near customerrating	1 1 1
+eatType near customerrating priceRange	1 1 1 1
+eatType near customerrating	1 1 1
+eatType near	1 1
+eatType near	1 1
+eatType near customerrating	1 1 1
+eatType near priceRange customerrating	1 1 1 1
+eatType near customerrating	1 1 1
+eatType near	1 1
+eatType near	1 1
+eatType near customerrating	1 1 1
+eatType near customerrating	1 1 1
+eatType near customerrating	1 1 1
+eatType near priceRange	1 1 1
+eatType near	1 1
+eatType near customerrating	1 1 1
+eatType near	1 1
+eatType near	1 1
+eatType customerrating near	1 1 1
+eatType customerrating near	1 1 1
+eatType near customerrating	1 1 1
+eatType near priceRange	1 1 1
+eatType near	1 1
+eatType near customerrating	1 1 1
+eatType near	1 1
+eatType near	1 1
+eatType near	1 1
+eatType near	1 1
+eatType near	1 1
+eatType near	1 1
+eatType familyFriendly food near area	1 1 1 1 1
+eatType familyFriendly near area	1 1 1 1
+food near area familyFriendly	1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food area near	1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food near	1 1 1
+eatType familyFriendly near area	1 1 1 1
+eatType near area familyFriendly	1 1 1 1
+eatType familyFriendly food near area	1 1 1 1 1
+eatType near familyFriendly	1 1 1
+eatType familyFriendly food near area	1 1 1 1 1
+eatType food area near	1 1 1 1
+eatType familyFriendly food near area	1 1 1 1 1
+eatType familyFriendly near area	1 1 1 1
+eatType food area near	1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType area familyFriendly	1 1 1
+eatType near	1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType familyFriendly near area	1 1 1 1
+eatType food area near	1 1 1 1
+eatType familyFriendly food near area	1 1 1 1 1
+eatType familyFriendly food near	1 1 1 1
+eatType near	1 1
+eatType near	1 1
+eatType familyFriendly food near area	1 1 1 1 1
+eatType familyFriendly near area	1 1 1 1
+eatType familyFriendly food near area	1 1 1 1 1
+eatType food area near	1 1 1 1
+eatType familyFriendly food near area	1 1 1 1 1
+eatType food near	1 1 1
+eatType familyFriendly near area	1 1 1 1
+eatType near area familyFriendly	1 1 1 1
+eatType familyFriendly food near area	1 1 1 1 1
+eatType near familyFriendly	1 1 1
+eatType familyFriendly food near area	1 1 1 1 1
+eatType food area near	1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType familyFriendly near area	1 1 1 1
+eatType food area near	1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType area familyFriendly	1 1 1
+eatType near	1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType near area familyFriendly	1 1 1 1
+eatType food area near	1 1 1 1
+eatType familyFriendly food near area	1 1 1 1 1
+eatType familyFriendly food near	1 1 1 1
+eatType near customerrating	1 1 1
+eatType near customerrating	1 1 1
+eatType near	1 1
+eatType near customerrating	1 1 1
+eatType near customerrating	1 1 1
+eatType near	1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType near area familyFriendly	1 1 1 1
+eatType familyFriendly food near	1 1 1 1
+food area familyFriendly near	1 1 1 1
+eatType food area near	1 1 1 1
+eatType near area	1 1 1
+eatType near area familyFriendly	1 1 1 1
+eatType near familyFriendly	1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType near	1 1
+eatType near familyFriendly	1 1 1
+eatType food area near	1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType familyFriendly near area	1 1 1 1
+eatType familyFriendly food near	1 1 1 1
+eatType food near	1 1 1
+eatType near area	1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType near area familyFriendly	1 1 1 1
+eatType food near familyFriendly	1 1 1 1
+eatType food area near	1 1 1 1
+eatType near area	1 1 1
+eatType near area familyFriendly	1 1 1 1
+eatType near familyFriendly	1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType familyFriendly food near area	1 1 1 1 1
+eatType near familyFriendly	1 1 1
+eatType food area near	1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType familyFriendly near area	1 1 1 1
+eatType familyFriendly food near	1 1 1 1
+eatType food near	1 1 1
+eatType area	1 1
+eatType	1
+eatType area	1 1
+eatType	1
+eatType area	1 1
+eatType near customerrating	1 1 1
+eatType near	1 1
+customerrating near	1 1
+eatType near customerrating	1 1 1
+eatType near customerrating	1 1 1
+eatType area	1 1
+eatType near customerrating	1 1 1
+eatType near	1 1
+eatType near customerrating	1 1 1
+eatType near customerrating	1 1 1
+eatType familyFriendly customerrating near	1 1 1 1
+eatType near	1 1
+eatType near familyFriendly	1 1 1
+eatType near customerrating	1 1 1
+eatType familyFriendly customerrating near	1 1 1 1
+eatType familyFriendly customerrating near	1 1 1 1
+eatType familyFriendly customerrating near	1 1 1 1
+eatType familyFriendly customerrating near	1 1 1 1
+eatType near customerrating	1 1 1
+eatType familyFriendly customerrating near	1 1 1 1
+eatType near familyFriendly	1 1 1
+familyFriendly near	1 1
+eatType near customerrating familyFriendly	1 1 1 1
+eatType familyFriendly customerrating near	1 1 1 1
+eatType familyFriendly customerrating near	1 1 1 1
+eatType near familyFriendly	1 1 1
+eatType near familyFriendly	1 1 1
+familyFriendly near	1 1
+eatType near customerrating familyFriendly	1 1 1 1
+eatType near	1 1
+eatType near customerrating familyFriendly	1 1 1 1
+eatType near familyFriendly	1 1 1
+eatType near customerrating	1 1 1
+eatType near	1 1
+eatType near customerrating familyFriendly	1 1 1 1
+eatType near customerrating familyFriendly	1 1 1 1
+eatType near customerrating familyFriendly	1 1 1 1
+near familyFriendly customerrating	1 1 1
+eatType familyFriendly customerrating near	1 1 1 1
+eatType near	1 1
+eatType near familyFriendly	1 1 1
+eatType near customerrating	1 1 1
+eatType familyFriendly customerrating near	1 1 1 1
+eatType familyFriendly customerrating near	1 1 1 1
+eatType familyFriendly customerrating near	1 1 1 1
+eatType near customerrating familyFriendly	1 1 1 1
+eatType near customerrating	1 1 1
+eatType familyFriendly customerrating near	1 1 1 1
+eatType near familyFriendly	1 1 1
+eatType near customerrating familyFriendly	1 1 1 1
+eatType familyFriendly customerrating near	1 1 1 1
+eatType near customerrating familyFriendly	1 1 1 1
+eatType near familyFriendly	1 1 1
+eatType near familyFriendly	1 1 1
+eatType near customerrating familyFriendly	1 1 1 1
+eatType near	1 1
+eatType near customerrating familyFriendly	1 1 1 1
+eatType near familyFriendly	1 1 1
+eatType near customerrating	1 1 1
+eatType near	1 1
+eatType near customerrating familyFriendly	1 1 1 1
+eatType near customerrating familyFriendly	1 1 1 1
+eatType near customerrating familyFriendly	1 1 1 1
+eatType food area near	1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+eatType food near customerrating area familyFriendly	1 1 1 1 1 1
+eatType food near customerrating priceRange	1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near customerrating area familyFriendly	1 1 1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating area familyFriendly	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near customerrating area priceRange	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+food near customerrating priceRange area familyFriendly	1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near customerrating area priceRange	1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating area priceRange	1 1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near customerrating priceRange familyFriendly	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+eatType food near customerrating area familyFriendly	1 1 1 1 1 1
+food near familyFriendly	1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food customerrating familyFriendly near	1 1 1 1 1
+eatType food near priceRange	1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near customerrating area priceRange	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType near priceRange customerrating	1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly	1 1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near customerrating area priceRange	1 1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating area familyFriendly	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType near priceRange	1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType familyFriendly customerrating priceRange near area	1 1 1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating area familyFriendly	1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType familyFriendly food near priceRange	1 1 1 1 1
+eatType food customerrating familyFriendly near	1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+food near customerrating priceRange area familyFriendly	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating area priceRange	1 1 1 1 1 1
+eatType near area customerrating	1 1 1 1
+eatType food near customerrating area familyFriendly	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating area priceRange	1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating area priceRange	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating priceRange familyFriendly	1 1 1 1 1 1
+eatType food near customerrating priceRange familyFriendly	1 1 1 1 1 1
+eatType food near customerrating area familyFriendly	1 1 1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType familyFriendly near area	1 1 1 1
+eatType near customerrating area	1 1 1 1
+eatType	1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food area near	1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near customerrating area familyFriendly	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType priceRange food near area	1 1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType near familyFriendly	1 1 1
+eatType food near customerrating area priceRange	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating area priceRange	1 1 1 1 1 1
+food near familyFriendly customerrating area	1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType familyFriendly food near priceRange	1 1 1 1 1
+eatType familyFriendly food near	1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+food near customerrating familyFriendly priceRange area	1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+food area familyFriendly priceRange near	1 1 1 1 1
+eatType food near	1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType near customerrating priceRange	1 1 1 1
+eatType familyFriendly priceRange near	1 1 1 1
+eatType familyFriendly customerrating priceRange near area	1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType near priceRange	1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly customerrating near area	1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near customerrating area familyFriendly	1 1 1 1 1 1
+eatType food near customerrating familyFriendly	1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near priceRange customerrating	1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near customerrating priceRange familyFriendly	1 1 1 1 1 1
+eatType near	1 1
+eatType near priceRange	1 1 1
+eatType food near area customerrating	1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating area familyFriendly	1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType near	1 1
+eatType near area	1 1 1
+eatType food near priceRange	1 1 1 1
+eatType familyFriendly food near	1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near priceRange	1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType near familyFriendly priceRange area	1 1 1 1 1
+eatType priceRange near	1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType familyFriendly priceRange near	1 1 1 1
+eatType near area priceRange	1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType near familyFriendly priceRange area	1 1 1 1 1
+eatType near area priceRange	1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType near familyFriendly priceRange area	1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType familyFriendly near	1 1 1
+eatType food near	1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+food area familyFriendly priceRange near	1 1 1 1 1
+eatType familyFriendly near area	1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType familyFriendly food near priceRange	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating area familyFriendly	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near customerrating area priceRange	1 1 1 1 1 1
+eatType familyFriendly customerrating priceRange near area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType priceRange near area	1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType near priceRange	1 1 1
+eatType food near customerrating area	1 1 1 1 1
+eatType near customerrating	1 1 1
+eatType near	1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType familyFriendly customerrating priceRange near area	1 1 1 1 1 1
+eatType familyFriendly customerrating near area	1 1 1 1 1
+eatType familyFriendly customerrating priceRange near area	1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType near familyFriendly priceRange area	1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating priceRange familyFriendly	1 1 1 1 1 1
+food near customerrating familyFriendly priceRange	1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange	1 1 1 1 1 1
+eatType food near area customerrating	1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating area	1 1 1 1 1
+eatType food area near	1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+eatType near familyFriendly priceRange	1 1 1 1
+eatType near familyFriendly	1 1 1
+eatType near area customerrating	1 1 1 1
+eatType familyFriendly near area	1 1 1 1
+eatType food near customerrating area familyFriendly	1 1 1 1 1 1
+eatType priceRange near area	1 1 1 1
+eatType near priceRange	1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType priceRange customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType familyFriendly food near priceRange	1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+food near customerrating priceRange area familyFriendly	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType familyFriendly customerrating priceRange near area	1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType near	1 1
+eatType familyFriendly priceRange near area	1 1 1 1 1
+eatType priceRange near area	1 1 1 1
+eatType near familyFriendly priceRange area	1 1 1 1 1
+eatType priceRange customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType familyFriendly customerrating priceRange near area	1 1 1 1 1 1
+eatType familyFriendly customerrating priceRange near area	1 1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near priceRange	1 1 1 1
+eatType near customerrating priceRange area	1 1 1 1 1
+eatType near area	1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType priceRange food near	1 1 1 1
+eatType familyFriendly customerrating priceRange near area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly	1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange	1 1 1 1 1 1
+eatType priceRange customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+eatType priceRange food near area	1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType familyFriendly customerrating priceRange near area	1 1 1 1 1 1
+eatType food area near	1 1 1 1
+eatType familyFriendly customerrating near area	1 1 1 1 1
+eatType food near customerrating area familyFriendly	1 1 1 1 1 1
+eatType near priceRange	1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near customerrating area familyFriendly	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+food area near	1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType familyFriendly customerrating near	1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType priceRange customerrating familyFriendly near area	1 1 1 1 1 1
+eatType familyFriendly near area	1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+eatType near priceRange customerrating area	1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near customerrating area priceRange	1 1 1 1 1 1
+eatType food near customerrating area familyFriendly	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType priceRange customerrating familyFriendly near area	1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+food near customerrating priceRange	1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType near customerrating priceRange area	1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near customerrating priceRange	1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType priceRange customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType priceRange customerrating familyFriendly near area	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near customerrating area priceRange	1 1 1 1 1 1
+food near customerrating area priceRange	1 1 1 1 1
+eatType food near customerrating area priceRange	1 1 1 1 1 1
+eatType near familyFriendly priceRange	1 1 1 1
+eatType familyFriendly customerrating near	1 1 1 1
+eatType food near customerrating priceRange	1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType priceRange customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near customerrating priceRange familyFriendly	1 1 1 1 1 1
+eatType food near customerrating area	1 1 1 1 1
+eatType food near customerrating area familyFriendly	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating area priceRange	1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType near priceRange	1 1 1
+eatType food near customerrating area familyFriendly	1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType near	1 1
+eatType near area	1 1 1
+eatType food near priceRange	1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near	1 1 1 1
+eatType food near customerrating priceRange familyFriendly	1 1 1 1 1 1
+eatType food near familyFriendly	1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near priceRange	1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType near familyFriendly priceRange area	1 1 1 1 1
+eatType priceRange near	1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType near familyFriendly priceRange	1 1 1 1
+eatType priceRange near area	1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType near familyFriendly priceRange area	1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+food near customerrating familyFriendly priceRange area	1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType near customerrating familyFriendly	1 1 1 1
+eatType near priceRange	1 1 1
+eatType food near customerrating area priceRange	1 1 1 1 1 1
+eatType priceRange food near area	1 1 1 1 1
+eatType near customerrating	1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near priceRange	1 1 1 1
+eatType near familyFriendly	1 1 1
+eatType near familyFriendly priceRange	1 1 1 1
+eatType familyFriendly customerrating priceRange near	1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType near familyFriendly priceRange area	1 1 1 1 1
+eatType near familyFriendly priceRange area	1 1 1 1 1
+eatType priceRange near area	1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType familyFriendly priceRange near area	1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType familyFriendly near	1 1 1
+eatType food near	1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType near area familyFriendly	1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType priceRange customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType priceRange customerrating familyFriendly near area	1 1 1 1 1 1
+eatType near customerrating familyFriendly	1 1 1 1
+eatType near customerrating priceRange area	1 1 1 1 1
+eatType familyFriendly customerrating priceRange near	1 1 1 1 1
+food near customerrating familyFriendly priceRange area	1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType near area	1 1 1
+eatType near area priceRange	1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+food near priceRange customerrating area	1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+eatType near	1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food area near	1 1 1 1
+eatType familyFriendly customerrating near area	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near priceRange	1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType priceRange food near area	1 1 1 1 1
+eatType food near customerrating area	1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating area familyFriendly	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType priceRange customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near priceRange	1 1 1 1
+eatType food near customerrating area priceRange	1 1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+area near	1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly priceRange near area	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType near familyFriendly priceRange area	1 1 1 1 1
+eatType food area near	1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType food near priceRange	1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType familyFriendly food near priceRange	1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType near familyFriendly priceRange	1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType familyFriendly near area	1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+near familyFriendly priceRange	1 1 1
+eatType near priceRange	1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType food area near	1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType near area priceRange	1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType near area	1 1 1
+eatType near area priceRange	1 1 1 1
+eatType near familyFriendly priceRange area	1 1 1 1 1
+eatType familyFriendly priceRange near	1 1 1 1
+eatType familyFriendly near	1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType near area	1 1 1
+eatType near familyFriendly priceRange area	1 1 1 1 1
+food area familyFriendly priceRange near	1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType priceRange near area	1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType priceRange food near area	1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType near familyFriendly priceRange area	1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType priceRange near	1 1 1
+eatType near	1 1
+eatType familyFriendly near area	1 1 1 1
+eatType food near priceRange	1 1 1 1
+eatType near area priceRange	1 1 1 1
+eatType priceRange food near area	1 1 1 1 1
+eatType near priceRange	1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType familyFriendly customerrating priceRange near	1 1 1 1 1
+near	1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly customerrating near area	1 1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+food near area priceRange	1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType near area priceRange	1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+food near customerrating familyFriendly priceRange area	1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food area near	1 1 1 1
+eatType familyFriendly customerrating near area	1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType familyFriendly food near	1 1 1 1
+eatType food area near	1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near area customerrating	1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType familyFriendly customerrating priceRange near area	1 1 1 1 1 1
+eatType familyFriendly customerrating near area	1 1 1 1 1
+eatType near	1 1
+eatType near area familyFriendly	1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType near customerrating	1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType priceRange customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange	1 1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType near familyFriendly	1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating area priceRange	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType near priceRange	1 1 1
+eatType familyFriendly near area	1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType near area	1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near customerrating area	1 1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType priceRange customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType near customerrating	1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType near priceRange customerrating	1 1 1 1
+eatType priceRange near area	1 1 1 1
+near customerrating area priceRange	1 1 1 1
+eatType priceRange customerrating familyFriendly near area	1 1 1 1 1 1
+eatType familyFriendly customerrating priceRange near area	1 1 1 1 1 1
+eatType familyFriendly customerrating priceRange near	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating priceRange familyFriendly	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType near priceRange	1 1 1
+eatType food near customerrating area priceRange	1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType near area familyFriendly	1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType familyFriendly customerrating priceRange near area	1 1 1 1 1 1
+eatType food customerrating familyFriendly near	1 1 1 1 1
+food near customerrating	1 1 1
+eatType near customerrating familyFriendly area	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food area near	1 1 1 1
+eatType food near familyFriendly	1 1 1 1
+eatType food near customerrating priceRange familyFriendly	1 1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType near familyFriendly priceRange area	1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType familyFriendly customerrating priceRange near area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType near customerrating priceRange area	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+food area familyFriendly priceRange near	1 1 1 1 1
+eatType near priceRange customerrating area	1 1 1 1 1
+eatType near customerrating area	1 1 1 1
+eatType near customerrating priceRange area	1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food area near	1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType familyFriendly customerrating priceRange near area	1 1 1 1 1 1
+eatType familyFriendly food near area	1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating area familyFriendly	1 1 1 1 1 1
+eatType near familyFriendly priceRange area	1 1 1 1 1
+eatType familyFriendly customerrating priceRange near	1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType familyFriendly customerrating priceRange near area	1 1 1 1 1 1
+eatType food near customerrating area	1 1 1 1 1
+eatType familyFriendly customerrating priceRange near area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType near familyFriendly	1 1 1
+eatType near customerrating priceRange	1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType familyFriendly customerrating priceRange near area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating area	1 1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+eatType priceRange food near area	1 1 1 1 1
+eatType food area near	1 1 1 1
+eatType familyFriendly customerrating near area	1 1 1 1 1
+eatType near familyFriendly priceRange area	1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType near customerrating area	1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near customerrating area	1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType near customerrating familyFriendly area	1 1 1 1 1
+eatType priceRange customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType near customerrating familyFriendly area	1 1 1 1 1
+eatType food near customerrating area	1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType familyFriendly customerrating priceRange near area	1 1 1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType near priceRange	1 1 1
+eatType familyFriendly priceRange near	1 1 1 1
+eatType near customerrating priceRange area	1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType near familyFriendly priceRange area	1 1 1 1 1
+eatType food area near	1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType food near priceRange	1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near familyFriendly priceRange	1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType familyFriendly priceRange near	1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType near area familyFriendly	1 1 1 1
+eatType near priceRange	1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType food area near	1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType near area priceRange	1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType priceRange food near area	1 1 1 1 1
+eatType near area	1 1 1
+eatType near area priceRange	1 1 1 1
+eatType near familyFriendly priceRange area	1 1 1 1 1
+eatType near familyFriendly priceRange	1 1 1 1
+eatType familyFriendly near	1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType near area	1 1 1
+eatType near familyFriendly priceRange area	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType near area priceRange	1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType priceRange food near area	1 1 1 1 1
+eatType near familyFriendly priceRange area	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType priceRange near	1 1 1
+eatType near	1 1
+eatType near area familyFriendly	1 1 1 1
+eatType priceRange food near	1 1 1 1
+eatType near area priceRange	1 1 1 1
+eatType priceRange food near area	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near familyFriendly	1 1 1 1
+eatType food area near	1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near customerrating area familyFriendly	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near familyFriendly priceRange	1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food area near	1 1 1 1
+eatType food area near	1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+food near customerrating familyFriendly priceRange area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType near priceRange customerrating	1 1 1 1
+near customerrating area priceRange	1 1 1 1
+eatType food near customerrating area priceRange	1 1 1 1 1 1
+food near customerrating priceRange area familyFriendly	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near	1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+food near familyFriendly customerrating area	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType near area familyFriendly	1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food area near	1 1 1 1
+eatType priceRange food near area	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType priceRange food near area	1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType priceRange food near area	1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType near area familyFriendly	1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food area near	1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near area	1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near familyFriendly priceRange	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near familyFriendly priceRange	1 1 1 1 1
+eatType familyFriendly food near	1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType familyFriendly priceRange near area	1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType near familyFriendly priceRange area	1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType food near	1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near priceRange	1 1 1 1
+eatType near area	1 1 1
+eatType food area near	1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near familyFriendly priceRange	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near familyFriendly priceRange	1 1 1 1 1
+eatType familyFriendly food near	1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType near familyFriendly priceRange area	1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType priceRange food near area	1 1 1 1 1
+eatType near familyFriendly priceRange area	1 1 1 1 1
+eatType food near	1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType food near priceRange	1 1 1 1
+eatType near area	1 1 1
+eatType food area near	1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near priceRange	1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating area	1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType familyFriendly customerrating priceRange near area	1 1 1 1 1 1
+eatType familyFriendly food near	1 1 1 1
+eatType food near priceRange customerrating	1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType priceRange customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating priceRange familyFriendly	1 1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+eatType priceRange customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType priceRange food near area	1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+eatType food area near	1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType near customerrating	1 1 1
+eatType food near customerrating area	1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food area near	1 1 1 1
+eatType food near customerrating area priceRange	1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType priceRange customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+near familyFriendly customerrating area	1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food customerrating familyFriendly near	1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType near area	1 1 1
+eatType food near customerrating area priceRange	1 1 1 1 1 1
+eatType food near customerrating area	1 1 1 1 1
+eatType near familyFriendly priceRange	1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+eatType priceRange food near area	1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType familyFriendly customerrating priceRange near area	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near customerrating priceRange familyFriendly	1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+food near priceRange	1 1 1
+eatType food near familyFriendly priceRange	1 1 1 1 1
+eatType near customerrating area	1 1 1 1
+eatType food near customerrating area familyFriendly	1 1 1 1 1 1
+eatType food near area customerrating	1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType near area	1 1 1
+eatType near customerrating familyFriendly	1 1 1 1
+eatType food customerrating familyFriendly near	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType familyFriendly customerrating priceRange near area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType familyFriendly food near	1 1 1 1
+eatType food near customerrating familyFriendly	1 1 1 1 1
+eatType familyFriendly food near priceRange	1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType near area	1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType familyFriendly customerrating priceRange near area	1 1 1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType near customerrating area	1 1 1 1
+eatType near customerrating priceRange area	1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType near priceRange customerrating	1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType familyFriendly near area	1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food area near	1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food area near	1 1 1 1
+eatType near	1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType near customerrating familyFriendly area	1 1 1 1 1
+eatType near familyFriendly priceRange	1 1 1 1
+eatType near familyFriendly	1 1 1
+eatType near familyFriendly priceRange area	1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food priceRange area	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly near	1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType near area familyFriendly	1 1 1 1
+eatType familyFriendly food near priceRange	1 1 1 1 1
+eatType priceRange near	1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType near familyFriendly priceRange area	1 1 1 1 1
+eatType familyFriendly food near	1 1 1 1
+eatType near	1 1
+eatType familyFriendly near	1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType food area near	1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near	1 1 1
+eatType priceRange near area	1 1 1 1
+near priceRange area	1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType familyFriendly near area	1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType near familyFriendly priceRange area	1 1 1 1 1
+eatType priceRange near	1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType near familyFriendly priceRange area	1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food area near	1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType priceRange near	1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType priceRange near area	1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near priceRange	1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType priceRange customerrating familyFriendly near area	1 1 1 1 1 1
+near customerrating familyFriendly priceRange	1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType near customerrating familyFriendly	1 1 1 1
+eatType near customerrating familyFriendly area	1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near customerrating area priceRange	1 1 1 1 1 1
+eatType familyFriendly customerrating priceRange near area	1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+food near customerrating priceRange area familyFriendly	1 1 1 1 1 1
+eatType food area near	1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType food near customerrating area familyFriendly	1 1 1 1 1 1
+eatType familyFriendly customerrating priceRange near	1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType near priceRange	1 1 1
+eatType area	1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+eatType familyFriendly near area	1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType familyFriendly priceRange near area	1 1 1 1 1
+eatType near familyFriendly priceRange	1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType priceRange customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near customerrating area	1 1 1 1 1
+eatType near area	1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType familyFriendly customerrating near	1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType near area priceRange	1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near customerrating area familyFriendly	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+eatType food near customerrating priceRange familyFriendly	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType near	1 1
+eatType near priceRange	1 1 1
+eatType near area familyFriendly	1 1 1 1
+eatType near familyFriendly	1 1 1
+eatType near familyFriendly priceRange	1 1 1 1
+eatType near area priceRange	1 1 1 1
+eatType food near customerrating area familyFriendly	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating area priceRange	1 1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near customerrating area familyFriendly	1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType near customerrating priceRange	1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near customerrating priceRange familyFriendly	1 1 1 1 1 1
+eatType near customerrating	1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType near priceRange	1 1 1
+eatType near area	1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType food near priceRange	1 1 1 1
+eatType food near customerrating priceRange familyFriendly	1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near customerrating area familyFriendly	1 1 1 1 1 1
+eatType familyFriendly food near priceRange	1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food near customerrating area familyFriendly	1 1 1 1 1 1
+eatType familyFriendly customerrating priceRange near area	1 1 1 1 1 1
+near customerrating familyFriendly priceRange area	1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near area customerrating	1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType priceRange food near area	1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType area customerrating	1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating area familyFriendly	1 1 1 1 1 1
+eatType near customerrating area	1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+near priceRange	1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food near customerrating area familyFriendly	1 1 1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+eatType food near customerrating priceRange familyFriendly	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near customerrating area familyFriendly	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange	1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near customerrating area familyFriendly	1 1 1 1 1 1
+eatType food near customerrating priceRange familyFriendly	1 1 1 1 1 1
+eatType food area near	1 1 1 1
+eatType priceRange near	1 1 1
+eatType food near customerrating area priceRange	1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType familyFriendly priceRange near	1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating priceRange familyFriendly	1 1 1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType familyFriendly customerrating near	1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType near customerrating familyFriendly area	1 1 1 1 1
+eatType priceRange customerrating familyFriendly near area	1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType near familyFriendly priceRange area	1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType familyFriendly food near	1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+food area familyFriendly priceRange near	1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating priceRange familyFriendly	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType familyFriendly customerrating priceRange near	1 1 1 1 1
+eatType familyFriendly customerrating near	1 1 1 1
+eatType food customerrating familyFriendly near	1 1 1 1 1
+eatType familyFriendly food near	1 1 1 1
+eatType familyFriendly customerrating priceRange near area	1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near customerrating area familyFriendly	1 1 1 1 1 1
+eatType priceRange customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating area familyFriendly	1 1 1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+eatType priceRange customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType near customerrating priceRange area	1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType priceRange customerrating familyFriendly near area	1 1 1 1 1 1
+eatType familyFriendly priceRange near	1 1 1 1
+eatType near area priceRange	1 1 1 1
+eatType near priceRange customerrating	1 1 1 1
+near familyFriendly priceRange	1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near customerrating area	1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food priceRange area	1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly near	1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType near area familyFriendly	1 1 1 1
+eatType familyFriendly food near priceRange	1 1 1 1 1
+eatType priceRange near	1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType near familyFriendly priceRange area	1 1 1 1 1
+eatType food near familyFriendly	1 1 1 1
+eatType near	1 1
+eatType familyFriendly near	1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType priceRange food near area	1 1 1 1 1
+eatType food area near	1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType food near	1 1 1
+eatType priceRange near area	1 1 1 1
+eatType priceRange food near area	1 1 1 1 1
+eatType near area familyFriendly	1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType near familyFriendly priceRange area	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType near familyFriendly priceRange area	1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food area near	1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType priceRange near	1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType priceRange near area	1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType priceRange food near area	1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType familyFriendly food near priceRange	1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType near familyFriendly priceRange area	1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+food area familyFriendly priceRange near	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food area near	1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType near area familyFriendly	1 1 1 1
+eatType food area near	1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+food near priceRange area	1 1 1 1
+eatType familyFriendly near area	1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType familyFriendly food near	1 1 1 1
+eatType near familyFriendly priceRange area	1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType familyFriendly food near priceRange	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+food near area priceRange	1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType familyFriendly near	1 1 1
+eatType near familyFriendly priceRange	1 1 1 1
+eatType near priceRange	1 1 1
+eatType near familyFriendly priceRange area	1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near priceRange	1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType familyFriendly food near priceRange	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near priceRange	1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType near familyFriendly priceRange area	1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType familyFriendly near area	1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType near area familyFriendly	1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near	1 1 1 1
+eatType near familyFriendly priceRange area	1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType priceRange food near area	1 1 1 1 1
+eatType familyFriendly food near priceRange	1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType familyFriendly near	1 1 1
+eatType familyFriendly priceRange near	1 1 1 1
+eatType near priceRange	1 1 1
+eatType near familyFriendly priceRange area	1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near priceRange	1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType food near familyFriendly priceRange	1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType food near priceRange	1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType familyFriendly priceRange near	1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType priceRange near	1 1 1
+eatType near familyFriendly	1 1 1
+eatType near familyFriendly priceRange area	1 1 1 1 1
+eatType near area priceRange	1 1 1 1
+eatType food area near	1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType near familyFriendly priceRange area	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+food area familyFriendly near	1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food priceRange area	1 1 1 1 1
+eatType food familyFriendly	1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType familyFriendly near	1 1 1
+eatType near area priceRange	1 1 1 1
+eatType food near	1 1 1
+eatType familyFriendly near area	1 1 1 1
+eatType near priceRange	1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType familyFriendly food near	1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near priceRange	1 1 1 1 1
+eatType priceRange food near area	1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food area near	1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+food area familyFriendly priceRange near	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near	1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly priceRange near	1 1 1 1
+eatType near area	1 1 1
+food near familyFriendly priceRange area	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType priceRange food near area	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType near familyFriendly priceRange area	1 1 1 1 1
+eatType near area familyFriendly	1 1 1 1
+eatType near familyFriendly priceRange area	1 1 1 1 1
+eatType near familyFriendly priceRange area	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType near	1 1
+eatType food area near	1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType near familyFriendly priceRange	1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType food near customerrating area priceRange	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType priceRange near	1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType near customerrating area	1 1 1 1
+eatType familyFriendly customerrating priceRange near	1 1 1 1 1
+eatType near customerrating priceRange	1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType near familyFriendly priceRange area	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near priceRange	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly priceRange near	1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food customerrating familyFriendly near area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating area familyFriendly	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near customerrating area priceRange	1 1 1 1 1 1
+eatType near customerrating priceRange	1 1 1 1
+eatType near area priceRange	1 1 1 1
+eatType familyFriendly near	1 1 1
+eatType familyFriendly customerrating priceRange near	1 1 1 1 1
+eatType food near priceRange	1 1 1 1
+eatType food near customerrating area priceRange	1 1 1 1 1 1
+eatType food near customerrating familyFriendly priceRange area	1 1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType food near priceRange customerrating area	1 1 1 1 1 1
+eatType food near customerrating priceRange area familyFriendly	1 1 1 1 1 1 1
+eatType familyFriendly priceRange near	1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType priceRange near	1 1 1
+eatType familyFriendly near	1 1 1
+eatType near familyFriendly priceRange area	1 1 1 1 1
+eatType priceRange near area	1 1 1 1
+eatType food area near	1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType priceRange food area familyFriendly	1 1 1 1 1
+eatType familyFriendly food	1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly near	1 1 1
+eatType priceRange near area	1 1 1 1
+eatType food near	1 1 1
+eatType familyFriendly near area	1 1 1 1
+eatType priceRange near	1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food near familyFriendly	1 1 1 1
+eatType familyFriendly food near area	1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType familyFriendly food near priceRange	1 1 1 1 1
+eatType priceRange food near area	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food area near	1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near	1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType near familyFriendly priceRange	1 1 1 1
+eatType near area	1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType food near priceRange area	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType near familyFriendly priceRange area	1 1 1 1 1
+eatType near area familyFriendly	1 1 1 1
+eatType near familyFriendly priceRange area	1 1 1 1 1
+eatType near familyFriendly priceRange area	1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType near	1 1
+eatType food area near	1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType near familyFriendly priceRange area	1 1 1 1 1
+eatType familyFriendly food near area priceRange	1 1 1 1 1 1
+eatType food near familyFriendly priceRange	1 1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType familyFriendly priceRange near	1 1 1 1
+eatType familyFriendly food near priceRange area	1 1 1 1 1 1
+eatType area	1 1
+eatType area	1 1
+eatType familyFriendly food near area	1 1 1 1 1
+food area familyFriendly near	1 1 1 1
+eatType food area near	1 1 1 1
+eatType food near	1 1 1
+eatType familyFriendly near area	1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food area near	1 1 1 1
+eatType familyFriendly food near	1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food area near	1 1 1 1
+eatType familyFriendly food near area	1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food near	1 1 1
+eatType near area	1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType near priceRange	1 1 1
+eatType food area near	1 1 1 1
+eatType familyFriendly near area	1 1 1 1
+food area familyFriendly near	1 1 1 1
+eatType familyFriendly food near area	1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food area near	1 1 1 1
+eatType food near	1 1 1
+eatType familyFriendly near area	1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food area near	1 1 1 1
+eatType familyFriendly food near	1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food area near	1 1 1 1
+eatType familyFriendly food near area	1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food near	1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType food area familyFriendly near	1 1 1 1 1
+eatType near priceRange	1 1 1
+eatType food area near	1 1 1 1
+eatType near area familyFriendly	1 1 1 1
+eatType familyFriendly food near area	1 1 1 1 1
+eatType area	1 1
+eatType near customerrating	1 1 1
+eatType near	1 1
+eatType near customerrating	1 1 1
+eatType near	1 1
+eatType area	1 1
+eatType customerrating near	1 1 1
+eatType near	1 1
+eatType customerrating near	1 1 1
+eatType near	1 1

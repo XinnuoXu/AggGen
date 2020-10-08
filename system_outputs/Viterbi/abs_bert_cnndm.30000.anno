@@ -1,0 +1,273 @@
+william anders was a member of the apollo 8 crew and was born in british hong kong .	was_a_crew_member_of|birthPlace	0
+william anders was a crew member on apollo 8 and was born in british hong kong .	was_a_crew_member_of|birthPlace	1
+the apollo 8 crew included the british hong kong - born william anders .	was_a_crew_member_of|birthPlace	2
+pietro grasso is the leader of italy where the ground of a s gubbio is located .	leader|ground	6
+pietro grasso is the leader in italy where the ground of a.s. gubbio 1910 is located .	leader|ground	7
+the ground of a.s. gubbio 1910 is located in italy where pietro grasso is the leader .	ground|leader	8
+the comic character bolt , who has the alternative name of larry bolatinsky , was created by gary cohn and the puerto rican national , ernie colon .	alternativeName|creator&&creator_2&&nationality	9
+the comic character bolt , with the alternative name larry bolatinsky , was created by gary cohn and ernie colon , who is a puerto rican national .	alternativeName&&creator|creator_2&&nationality	10
+larry bolatinsky is the alternative name for the comic character , bolt . it was created by the puerto rican national ernie colon and the comic book writer , gary cohn .	alternativeName|creator&&creator_2	11
+african americans are an ethnic group in the us , where akron , ohio is located .	ethnicGroup|country	20
+an ethnic group in the united states are african americans . akron , ohio is located in the u.s.	ethnicGroup|country	21
+akron , ohio is located within the united states , of which african americans are an ethnic group .	country|ethnicGroup	22
+cornell university in new york is affiliated with the association of american universities and published administrative science quarterly .	state&&affiliation|publisher	24
+celery is a member of the apiaceae family and is an ingredient of bakso .	family|ingredient	32
+celery , which is part of the apiaceae family , is an ingredient of bakso .	family|ingredient	33
+celery is an ingredient of bakso and is a member of the family apiaceae .	ingredient|family	34
+john van den brom manages the az alkmaar and is in the jong ajax club . he currently plays for istanbulspor a.s.	manager|club	35
+pakistan is home to the allama iqbal international airport and is led by anwar zaheer jamali .	location|leaderName	46
+allama iqbal international airport is located in pakistan where anwar zaheer jamali is a leader .	location|leaderName	47
+allama iqbal international airport is located in pakistan who 's leader is anwar zaheer jamali .	location|leaderName	48
+the population density of auburn is 914.8 person for of its square kilometres . auburn forms part of king county and pierce county , both of washington , united states .	country|country&&isPartOf&&isPartOf_2	49
+american william anders was born in in british hong kong , was a test pilot , graduated from afit , m.s. in 1962 , was a member of apollo 8 's crew and retired on 1st september 1969 .	birthPlace&&occupation&&was_a_crew_member_of|dateOfRetirement	54
+anderson is in lafayette township , madison county , indiana ; which is in the united states .	isPartOf|country	60
+adare manor is located in adare , county limerick , munster , which is governed by the limerick city and county council .	location|isPartOf&&location&&governmentType	61
+a loyal character dancer which is in print , was penned by qiu xiaolong .	mediaType|author	62
+qiu xiaolong is the author of a loyal character dancer which is currently in print .	author|mediaType	63
+a loyal character dancer which is in print , was written by qiu xiaolong .	mediaType|author	64
+elliot see , a us national , was born in dallas and graduated from the university of texas at austin .	birthPlace|almaMater	67
+elliot see , a united states national born in dallas , attended the university of texas at austin .	birthPlace|almaMater	68
+the ground of afc fylde , which holds 3180 fans , can be found in the county of lancashire .	numberOfMembers|ground	76
+the ground of afc fylde can be found in the county of lancashire , it has 3180 members .	ground|numberOfMembers	77
+the ground of afc fylde can be found in the county of lancashire and they have 3180 members .	ground|numberOfMembers	78
+binignit is a type of dessert with the ingredient sago , a cookie is also a dessert .	ingredient&&course|dishVariation	88
+cookies and binignit are types of dessert . a key ingredient of binignit is sago .	dishVariation|ingredient	90
+luciano spalletti plays for udinese calcio and empoli f.c. as well as managing a.s. roma .	club|club_2	91
+the manager of a.s. roma is luciano spalletti who used to play for udinese calcio but now plays for empoli fc .	manager|club&&club_2	92
+arròs negre is from catalonia , spain . the main ingredients of arròs negre are white rice , cuttlefish or squid , cephalopod ink , cubanelle peppers .	country&&region|mainIngredients	94
+a traditional dish from the catalonia region in spain is arròs negre . the main ingredients in it are , white rice , cuttlefish or squid , cephalopod ink , cubanelle peppers .	country&&region|mainIngredients	95
+arròs negre is a traditional dish from catalonia , spain . the main ingredients in arròs negre are white rice , cuttlefish or squid , cephalopod ink and cubanelle peppers .	country&&region|mainIngredients	96
+led by the united states house of representatives , antioch is part of contra costa county , part of the san francisco bay area .	leaderTitle|isPartOf	100
+led by the united states house of representatives , antioch , part of contra costa county , which is part of the san francisco bay area , in california .	leaderTitle|isPartOf&&isPartOf_2	102
+available in print form , ' 1634 : the bavarian crisis ' by virginia demarce and eric flint has 448 pages .	author&&mediaType|numberOfPages&&author	109
+1634 : the bavarian crisis is written by virginia demarce and eric flint and has 448 pages in print .	author|mediaType&&numberOfPages	111
+christian panucci plays at a.s. roma . he also manages a.s. livorno calcio .	club|manager	112
+a.s livorno calcio is managed by christian panucci , who plays for a s roma .	manager|club	113
+a.s. livorno calcio is managed by christian panucci who plays at the a.s. roma .	manager|club	114
+the association for computing machinery is led by alexander l. wolf and is headquartered in new york city . they publish acm transactions on information systems .	leaderName|publisher&&headquarter	115
+alexander l. wolf is a leader of the association for computing machinery , headquarters in new york city , are the publishers of acm transactions on information systems .	leaderName|leaderName	116
+france , led by gérard larcher and manuel valls , is the home of baked alaska . of this french - speaking nation , baked alaska is also popular in hong kong .	country|region&&leaderName&&language	123
+adirondack regional airport serves the city of lake placid and the city of saranac , new york , the airport is 507 metres above sea level with a runway length of 2003.0 .	cityServed|elevationAboveTheSeaLevel_(in_metres)&&runwayLength&&cityServed	125
+the manager of a.f.c. blackpool is stuart parker who played for blackburn rovers fc .	manager|club	129
+stuart parker is the manager of a.f.c. blackpool , and plays for blackburn rovers f.c.	manager|club	130
+amarillo is part of potter county , texas in the united states . african americans are an ethnic group in the united states .	isPartOf&&country|ethnicGroup	137
+amarillo is part of potter county in texas in the u.s. washington , d.c. is the u.s. capital and african americans are an ethnic group in that country .	isPartOf&&country|ethnicGroup	138
+amarillo is in texas , in the united states , the capital of which is washington , d.c.	country|capital	141
+washington , d.c. is the capital of the united states , which is the home country to amarillo , texas .	capital|country	142
+amarillo , texas is located within the united states , where the capital is washington , d.c.	country|capital	143
+the bhajji originates from the karnataka region of india . the main ingredients are gram flour and vegetables however its also known as a bhaji or bajji .	ingredient|alternativeName	145
+200 public square is located in cleveland , part of cuyahoga county , ohio which is led by frank g jackson .	location&&isPartOf|leaderName	146
+frank g jackson leads cleveland , part of cuyahoga county in ohio where 200 public square is located .	leaderName|location	148
+the turkish martyrs memorial is located in baku , the capital of azerbaijan , where the leader ( prime minister of azerbaijan ) is called artur rasizade .	location|leaderName&&leaderTitle&&capital	150
+the baku turkish martyrs ' memorial is located in baku , the capital of azerbaijan , which is led by the prime minister of azerbaijan , artur rasizade .	location|leaderName&&leaderTitle	151
+the author of a fortress of grey ice is j.v. jones and it is available in print .	author|mediaType	155
+a fortress of grey ice is available in print and was written by j. v. jones .	mediaType|author	156
+a fortress of grey ice was written by j. v. jones and is available in print .	author|mediaType	157
+massimo drago plays for u.s castrovillari calcio and a.s.d. s.s. nola 1925 . he also manages ac cesena .	club|club_2	161
+one of the main ingredients in binignit is banana and it can be found in the philippines .	mainIngredients|country	163
+the binignit dish , containing banana , can be found in the philippines .	mainIngredients|country	164
+binignit comes from the philippines and has banana as the main ingredient .	country|mainIngredients	165
+arrabbiata is an italian sauce that contains chili pepper .	country|ingredient	166
+arrabbiata sauce , containing chili pepper , can be found in italy .	ingredient|country	167
+the united states air force is operating al asad airbase in iraq with runway 08/26 that is 3990.0 long .	location&&runwayName|runwayLength	169
+adisham hall , in the tudor and jacobean architectural style , completed in 1931 and located in haputale .	location&&architecturalStyle|location	172
+adisham hall in haputale was finished in 1931 in the tudor and jacobean style .	location|architecturalStyle	173
+agra airport in india is operated by the indian air force . it has the iata location identifier of agr and the icao identifier of viag .	location|IATA_Location_Identifier&&ICAO_Location_Identifier	177
+agra airport in india is operated by the indian air force . it has the location identifier of viag and the iata location identifier of agr .	location|IATA_Location_Identifier&&ICAO_Location_Identifier	179
+a fortress of grey ice , by j v jones , has the oclc number 51969173 , the isbn number 0 - 7653 - 0633 - 6 and is available in hardcover .	author&&ISBN_number|mediaType	180
+a fortress of grey ice , written by j.v. jones and produced in hardcover , has the isbn number 0 - 7653 - 0633 - 6 and the oclc number 51969173 .	author|mediaType&&ISBN_number&&OCLC_number	181
+a t charlie johnson , editor of aip advances , studied at stanford university and is a resident of the united states .	editor|almaMater	183
+part of colombian cuisine , bandeja paisa is a traditional dish from the paisa region . one of the main ingredients in this dish is avocado .	country|ingredient	185
+adirondack regional airport serves the city of lake placid , new york and saranac lake , new york . the runway is feet long .	cityServed|runwayLength&&cityServed	188
+adirondack regional airport serves both lake placid and saranac lake , new york . the length of the runway at regional airport is .	cityServed|runwayLength&&cityServed	190
+the manager of a.c. chievo verona is rolando maran , who was born in italy .	manager|placeOfBirth	194
+rolando maran , who has managed ac chievo verona , was born in italy .	manager|placeOfBirth	195
+associazione calcio chievoverona is managed by italian born rolando maran .	manager|placeOfBirth	196
+' 1634 : the bavarian crisis ' , which was written by eric flint , is the sequel to the grantville gazettes .	author|precededBy	197
+1634 : the bavarian crisis was written by eric flint and preceded by the grantville gazettes .	author|precededBy	198
+eric flint is the author of 1634 : the bavarian crisis which is preceded by the grantville gazettes .	author|precededBy	199
+the al asad airbase is situated in the al anbar province , iraq and has a runway length of 3090.0 .	location|runwayLength	200
+al asad airbase is located at al anbar province , iraq and has a runway length is 3090.0 .	location|runwayLength	201
+al asad airbase is located in al anbar province , iraq and has a runway length of 3090.0 .	location|runwayLength	202
+bolt , a comic character is also known as larry bolatinsky was created by ernie colon and gary cohn .	alternativeName|creator	203
+the comic character of bolt has the alternative name of larry bolatinsky and was created by ernie colon and the comic book writer , gary cohn .	alternativeName|creator	204
+ernie colon and gary cohn created the comic character bolt , who has the alternative name larry bolatinsky .	creator&&creator_2|creator&&alternativeName	205
+alcatraz versus the evil librarians is published in hardcover , is 320 pages long and has the oclc number of 7877110 .	mediaType&&numberOfPages|mediaType&&OCLC_number	207
+alcatraz versus the evil librarians is published in hardcover , is 320 pages long and has the oclc number 78771100 .	mediaType&&numberOfPages|mediaType&&OCLC_number	208
+adisham hall is located in sri lanka and has the architectural style tudor revival .	location|architecturalStyle	217
+the capital city of the united states is washington d.c. some asian americans live in the united states and a wizard of mars was published there .	country&&ethnicGroup|country	226
+the accademia di architettura di mendrisio in mendrisio , ticino switzerland was established in 1996 and currently has 100 staff . the dean of the academy is mario botta .	country&&established|academicStaffSize&&dean	230
+108 st georges terrace was completed in 1988 and has a floor count of 50 .	completionDate|floorCount	237
+108 st georges terrace , completed in 1988 , has 50 floors .	completionDate|floorCount	238
+108 st georges terrace has a floor count of 50 and was completed in 1988 .	floorCount|completionDate	239
+eaten in the philippines , batchoy has the main ingredients , noodles , pork organs , vegetables , chicken , shrimp , and beef .	country|mainIngredients&&ingredient	240
+the 3arena , which was designed by the architect company populous , is located in dublin .	architect|location	243
+the 3arena , designed by populous , is located in dublin .	architect|location	244
+3arena is located in dublin , which was built by the company populous .	location|architect	245
+adare manor can be found in county limerick , which is part of munster .	location|isPartOf	246
+adare manor is located in county limerick which is part of munster .	location|isPartOf	247
+adare manor is located in county limerick , which is part of munster .	location|isPartOf	248
+alpharetta is part of fulton county , georgia in the united states . the us is home to an ethnic group called african americans .	country|ethnicGroup&&country	249
+fulton county is the location of alpharetta , georgia , in the united states , where african americans are one of the ethnic groups .	country|ethnicGroup	251
+aek athens f.c. has 69618 members and its ground is in greece .	numberOfMembers|ground	252
+aek athens 's ground is in greece and the club has 69618 members .	ground|numberOfMembers	253
+aek 's ground is in greece and has 69618 members .	ground|numberOfMembers	254
+in texas , the county seat of tarrant county is fort worth , its also the location of arlington and houston ( the largest city ) . spanish is spoken in texas .	isPartOf|language	260
+added to national register of historic places on february the 27nd , 1987 ( reference number 87000823 ) , the asilomar conference grounds was built in 1913 and are located in pacific grove , california .	location&&added_to_the_National_Register_of_Historic_Places&&ReferenceNumber_in_the_National_Register_of_Historic_Places|location	263
+the asilomar conference grounds were constructed in 1913 in pacific grove , california , and were added to the national register of historic places on february the 27nd 1987 with reference number 87000823 .	location&&yearOfConstruction|added_to_the_National_Register_of_Historic_Places&&ReferenceNumber_in_the_National_Register_of_Historic_Places	264
+atlantic city , is a part of new jersey , united states , where the largest city is new york city . washington , d.c. is the capital of the u.s , where white americans are an ethnic group .	isPartOf|largestCity|capital&&ethnicGroup	3
+new york city ( ) is the largest u.s. city . atlantic city , new jersey are also part of the united states with its capital as washington , dc and home to white americans .	largestCity|capital&&country|ethnicGroup&&country	4
+the " associazione calcio lumezzane spa " is the full name of a.c. lumezzane who play in lega pro / a and have 4150 members .	fullname|league|numberOfMembers	14
+associazione calcio lumezzane spa ( abbreviated to a.c. lumezzane ) play in the lega pro / a and has 4150 members .	fullname|league|numberOfMembers	15
+the fullname of a.c. lumezzane is associazione calcio lumezzane spa. it is in the lega pro / a league and has 4150 members .	fullname|league|numberOfMembers	16
+cornell university is located in the state of new york . it is affiliated with the association of american universities and is the publisher of administrative science quarterly .	state|affiliation|publisher	23
+cornell university which is in new york , is affiliated with the association of american universities and is the publisher of administrative science quarterly .	state|affiliation|publisher	25
+antioch , california has a utc offset of - 7 , the population is 102372 , the area code is , and has a total area of 75.324 square km .	UTCOffset|populationTotal|areaTotal	28
+barack obama is the leader of the united states where albuquerque , new mexico is located and asian americans are an ethnic group .	leader|country|ethnicGroup	29
+albuquerque , new mexico is in the united states ; where barack obama is the leader and asian americans call home .	country|leader|ethnicGroup	30
+albuquerque , new mexico is in the united states , of which barack obama is a leader and asian americans are an ethnic group .	country|leader|ethnicGroup	31
+the manager of az alkmaar is john van den brom who is in the jong ajax club and plays for istanbulspor a.s.	manager|club|club_2	36
+buzz aldrin , ( born glen ridge , new is a us national who became a member of the nasa operated apollo 11 crew , having previously served as a fighter pilot .	birthPlace|nationality|birthPlace&&was_a_crew_member_of&&operator	39
+barny cakes come from is france where they speak french . the leader is either françois hollande and/or gerard larcher .	country|language|country	40
+barny cakes comes from france where french is spoken and leaders include gerard larcher and francois hollande .	country|language|leaderName&&leaderName_2	41
+france , where french is spoken and which has the leaders francois hollande and gérard larcher is also home to the barny cake .	language|leaderName&&leaderName_2|country	42
+lafayette township , madison county , indiana is in the united states and the township is home to anderson while is the state capital .	country|isPartOf|country&&capital	43
+alcatraz versus the evil librarians is from the united states and written in the english language which is spoken in great britain .	country|language|spokenIn	44
+alcatraz versus the evil librarians is from the united states , it was in english , that is the language spoken in great britain .	country|language|spokenIn	45
+auburn is part of both king county and pierce county in washington which is located in the united states . it has a population density of 914.8 inhabitants per sq km and covers a total area of sq .	isPartOf&&isPartOf_2|country|country&&areaTotal	50
+auburn is part of pierce county and king county , washington , u.s. the population density of auburn is 914.8 inhabitants per sq km . and the total area is sq .	isPartOf|country|country&&areaTotal	51
+allama iqbal international airport , which serves the city of lahore , is located in punjab , pakistan . the leader of which is malik muhammad rafique rajwana .	cityServed|country|leaderName	52
+silvano aureoles conejo is the leader in mexico . the country where the currency is the peso and where the food bionico is found .	leaderName|currency|leaderName	58
+bionico is from mexico where silvano aureoles conejo is the leader and the currency is the mexican peso .	country|leaderName|currency	59
+taro is an ingredient in binignit which is a dessert . , a cookie is a dessert .	ingredient|course|dishVariation	65
+taro is an ingredient in binignit which should be served as the dessert course . a cookie is a dessert .	ingredient|course|dishVariation	66
+1634 the ram rebellion comes from the united states where the leader is known as the president and one of the ethnic groups are the african americans .	country|leaderTitle|ethnicGroup	69
+1634 the ram rebellion was written in the united states where the leader is known as the president , and the african americans are an ethnic group .	country|leaderTitle|ethnicGroup	70
+1634 : the ram rebellion was written in the us were the leader is known as the president and one of the ethnic groups is african american .	country|country|ethnicGroup	71
+aek athens are managed by gus poyet who is associated with the real zaragoza , a football club and played for chelsea f.c.	manager|club|club_2	79
+gus poyet played for chelsea f.c. and was the manager for aek athens fc but he is now in the real zaragoza club .	club_2|manager|club	80
+aek athens f.c. manager is gus poyet who 's club is real zaragoza , having previously played for chelsea f.c.	manager|club|club_2	81
+bakewell tart is a variation of bakewell pudding which originates from the derbyshire dales . some main ingredients in bakewell pudding are ground almonds , jam , butter and eggs .	dishVariation|region|mainIngredients	82
+the main ingredients of bakewell pudding are ground almond , jam , butter and eggs . it is a variant of bakewell tart and comes from the derbyshire dales region .	mainIngredients|mainIngredients|region	83
+bakewell pudding has ground almond , jam , butter and eggs as main ingredients . it is a variation of bakewell pudding and originates from the derbyshire dales .	mainIngredients|mainIngredients|region	84
+wolters kluwer , the parent company of lippincott williams & wilkins that publishes aids ( journal ) , is in the uk where elizabeth ii is the leader .	publisher|country|leaderName	85
+wolters kluwer is the parent company of lippincott williams & wilkins . they publish the aids ( journal ) in the united kingdom where the leader is elizabeth ii .	parentCompany|publisher|country&&leaderName	87
+sago is one of the ingredients in the dish binignit which is a dessert course . cookies are also a type of dessert .	ingredient|course|dishVariation	89
+luciano spalletti played for udinese calcio and now manages a.s. roma and plays for empoli f.c ..	club|manager|club_2	93
+a.f.c. fylde are based at bryning lane and their full name is " association football club fylde . " they have 3180 members and competed in the 2014 season .	ground|numberOfMembers&&fullname|season	97
+association football club fylde ( abbreviated to a.f.c. fylde ) has 3180 members , are based at bryning lane and competed in the 2014 season .	fullname|ground&&numberOfMembers|season	98
+antioch is part of contra costa county , located in the san francisco bay area of california . the leader of antioch is the united states house of representatives .	isPartOf|isPartOf_2|leaderTitle	101
+1634 : the bavarian crisis was written by virginia demarce and eric flint , has 448 pages and is available in print form .	author|numberOfPages|mediaType	110
+the association for computing machinery , led by alexander l. wolf , is headquartered in new york city . they published acm transactions on information systems .	leaderName|headquarter|publisher	117
+native americans are an ethnic group in the united states , where english is the language . also in the united states , is albany , in georgia .	ethnicGroup|language|country	118
+albany , georgia is located in the united states where english is the official language . the native americans are an ethnic group within the united states .	country|language|country&&ethnicGroup	120
+adirondack regional airport serves the city of saranac lake and lake placid in new york . it is 507 m above sea level and its runway is m long .	cityServed|elevationAboveTheSeaLevel_(in_metres)&&cityServed|elevationAboveTheSeaLevel_(in_metres)&&runwayLength	126
+albany , georgia , is in the united states , where english is spoken , and , where native americans are one of the ethnic groups .	country|language|country&&ethnicGroup	127
+albany is part of the state of georgia in the united states . the country uses the english language and includes the ethnic group of native americans .	country|language|country&&ethnicGroup	128
+paulo sousa once played for inter milan and juventus fc . he now manages acf fiorentina and plays for maccabi tel aviv f.c ..	club&&club_3|manager&&club|club_2	131
+the baku turkish martyrs memorial , which native name is türk şehitleri anıtı , has been dedicated to ottoman army soldiers killed in the battle of baku .	nativeName|dedicatedTo|dedicatedTo	134
+the baku turkish martyrs ' memorial is known locally as türk şehitleri anıtı and is dedicated to the ottoman army soldiers killed in the battle of baku .	nativeName|dedicatedTo|dedicatedTo	135
+bhajji , alternative names : bhaji and bajji , originate from the karnataka region of india and contain the main ingredients of gram flour and vegetables .	country|region|mainIngredients&&ingredient	144
+200 public square is in cleveland which is part of cuyahoga county , ohio . the leader in cleveland is frank g jackson .	location|isPartOf|leaderName	147
+prime minister of azerbaijan is the official title of the leader of azerbaijan and his name is artur rasizade . the baku turkish martyrs ' memorial can be found in baku , the capital of azerbaijan .	leaderTitle|leaderName|capital&&location	149
+adolfo suarez madrid - barajas airport is located in madrid , paracuellos de jarama , san sebastian de los reyes and alcobendas at an elevation of 610.0 metres above sea level . it is operated by enaire and has a runway name of with a length of 4100.0 .	location|elevationAboveTheSeaLevel_(in_metres)|runwayLength&&runwayName	152
+romania 's leader is klaus iohannis . although the capital city is bucharest , the 1 decembrie 1918 university is located in the city of alba iulia in romania .	leaderName|capital|country&&city	158
+the 1 decembrie 1918 university is located in alba iulia , romania . the capital of the country is bucharest and it 's leader is klaus iohannis .	country|capital|leaderName	159
+the 1 decembrie 1918 university is located in the romanian city of alba iulia . the leader of romania is klaus iohannis and the capital city is bucharest .	country|leaderName|capital	160
+massimo drago played for a.s.d. s.s. nola 1925 , now he manages a.c. cesena and plays for u.s castrovillari calcio .	club_2|manager|club	162
+operated by the united states air force , al asad airbase ( iraq ) has a runway name 08/26 , and a runway length 3990.0 .	operatingOrganisation|location&&runwayName|runwayLength	168
+adisham hall is located in haputale and was completed in the tudor and jacobean style in 1931 .	location|completionDate|architecturalStyle	171
+the 11th mississippi infantry monument is located in pennsylvania , united states . it was established in 2000 and categorised as contributing property .	country|established|category	174
+the 11th mississippi infantry monument ( established in 2000 ) is in pennsylvania in the united states , where it is categorised as a contributing property .	established|country&&established|category	175
+the 11th mississippi infantry monument is located in pennsylvania in the united states . established in the year 2000 , the monument falls under the category of contributing property .	country|established|category	176
+the united states is the residence of a t charlie johnson who edited aip advances and has stanford university for an alma mater .	editor|residence|almaMater	184
+avocado is one of the ingredients in the dish bandeja paisa , which is a dish from colombian cuisine . it originates from the paisa region .	ingredient|country|ingredient	186
+avocado is one of the ingredients in the dish bandeja paisa , which is typical colombian cuisine originating from the paisa region .	ingredient|country|region	187
+lake placid , n.y. is served by the adirondack regional airport , where the length of the runway is 2003.0 . and serves the city of saranac lake , new york .	cityServed|runwayLength|cityServed	189
+cookies and binignit , which contains banana as a key ingredient , are types of desserts and should be served as that course .	ingredient|dishVariation|ingredient	191
+banana is an ingredient in binignit which is a dessert . a cookie is also a dessert .	ingredient|course|dishVariation	192
+binignit is a dessert which contains the ingredient of bananas . cookie is another dessert .	course|ingredient|dishVariation	193
+alcatraz versus the evil librarians is published in hardcover and has 320 pages . the oclc number is 78771100 .	mediaType|numberOfPages|OCLC_number	206
+the school of business and social sciences at the aarhus university in aarhus , denmark was established in 1928 . it has 16,000 students and 737 academic staff . the leader of denmark is lars lokke rasmussen .	country&&established|numberOfStudents|established&&academicStaffSize&&leaderName	209
+margrethe ii is the leader of denmark where the faroese language is spoken . the country is the location of aarhus airport in tirstrup , part of the central denmark region .	country|language|country&&location&&isPartOf	211
+margrethe ii of denmark is the leader of denmark where the faroese language is spoken . aarhus airport is located in tirstrup , part of the central denmark region .	leaderName|language|country&&location&&isPartOf	212
+the location of aarhus airport is tirstrup , part of the central denmark region , in denmark . where the leader is margrethe ii of denmark and where the language is faroese .	location&&isPartOf|leaderName|language	213
+adare manor was designed by architect philip charles hardwick and construction finished in 1862 . the manor is owned by j p mcmanus .	architect|completionDate|owner	214
+adare manor 's architect was philip charles hardwick and it was completed in 1862 . jp mcmanus owns adare manor .	architect|completionDate|owner	215
+designed by architect philip charles hardwick , the adare manor was completed in 1862 and is now owned by j p mcmanus .	architect|completionDate|owner	216
+adisham hall is located in sri lanka and it 's architectural style is tudor revival .	location|architecturalStyle|architecturalStyle	218
+adisham hall is located in sri lanka and it 's architectural style is tudor revival .	location|architecturalStyle|architecturalStyle	219
+the capital of the united states is washington d.c , the language of this country is english . amarillo , that its a place located in this country is part of potter county in the state of texas .	capital|language|country&&state	220
+amarillo is part of potter county in texas in the united states whose capital is washington dc and english is the language .	isPartOf&&country|capital|language	221
+amarillo is part of potter county , texas , in the u.s. , where the capital is washington dc and english is the language spoken .	isPartOf&&country|capital|language	222
+the leader of sri lanka is ranil wickremesinghe , but in the eastern province it is austin fernando . this is where the ampara hospital is located in ampara district .	country&&leaderName|leaderName_2|country	223
+ampara hospital is in the ampara district of eastern province , sri lanka . the leader of eastern province is austin fernando and the leader of sri lanka is ranil wickremesinghe .	country|leaderName&&leaderName_2|leaderName&&country	224
+ampara hospital is located in ampara district , eastern province , sri lanka which is led by austin fernando . ranil wickremesinghe is a leader of the country .	country|leaderName&&leaderName_2|leaderName	225
+the united states are home to asian americans as well as where " a wizard of mars " was published . washington d.c. is the capital .	ethnicGroup|country|capital	227
+washington d. c. is the capital of the united states , where many asian americans live . a wizard of mars was written in the united states .	country|ethnicGroup|country	228
+the school of business and social sciences at the aarhus university in aarhus , denmark is affiliated with the european university association in brussels . denmark has a monarchy and a magistrate government . its leader is lars lokke rasmussen .	country|leaderTitle|leaderName	235
+noodles are an ingredient in batchoy , it also includes pork organs , vegetables , chicken , shrimp and beef . it hails from the philippines .	ingredient|mainIngredients|ingredient	242
+alpharetta is part of fulton county , georgia which is in the united states . african americans are an ethnic group in the us .	isPartOf|country|ethnicGroup	250
+the city of lahore , pakistan , is served by allama iqbal international airport . it is operated by the pakistan civil aviation authority . it has a runway length of 2900 .	location|operatingOrganisation|runwayLength	255
+allama iqbal international airport in pakistan serves the city of lahore , has a runway length of 2900.0 and is operated by pakistan civil aviation authority .	location|runwayLength|operatingOrganisation	256
+allama iqbal international airport is located in lahore pakistan . it has a runway length of 2900 and is operated by the pakistan civil aviation authority .	location|runwayLength|operatingOrganisation	257
+the asilomar conference grounds constructed in 1913 is located at pacific grove , california . it was added to the national register of historic places on 27 february 1987 with the reference number 87000823 .	location&&yearOfConstruction|location|added_to_the_National_Register_of_Historic_Places&&ReferenceNumber_in_the_National_Register_of_Historic_Places	265
+angola , indiana , ( part of steuben county ) , is in the united states . the country where english is spoken , and where one of the ethnic groups , is asian americans .	isPartOf&&country|language|ethnicGroup	270
+arros negre is from the catalonia region ( led by parliament ) of spain and enjoyed by spaniards .	region|leaderName|ethnicGroup	273
+atlantic city is part of new jersey , u.s. and white americans are an ethnic group . the capital of the united states is washington dc , but the largest city is new york .	isPartOf|country&&ethnicGroup|capital|largestCity	5
+agra airport is located in uttar of bundelkhand ) and operated by the indian air force . ram naik is the leader of uttar pradesh . the indian air force uses hal light combat helicopters .	location&&isPartOf|operatingOrganisation|location|operatingOrganisation	19
+the total area of antioch , california is 75.324 square km and uses utc offset of has a total population of 102372 inhabitants and its area code is .	areaTotal|UTCOffset|populationTotal|areaCode	26
+the total area of antioch , california is 75.324 square km . , has an utc offset of -7 and its population is 102372 . the area code there is .	areaTotal|UTCOffset|populationTotal|areaCode	27
+buzz aldrin was a us national who was born in glen ridge , new jersey . he was a fighter pilot and crew member on the apollo 11 program organized by nasa .	nationality|birthPlace|occupation|was_a_crew_member_of&&operator	37
+buzz aldrin was a united states national . born glen ridge new jersey , who served as a fighter pilot before being a crew member on apollo 11 , program organized by nasa .	birthPlace|occupation|was_a_crew_member_of|operator	38
+located in pakistan , the city of lahore is served by allama iqbal international airport which is punjab pakistan where the leader is malik muhammad rafique rajwana .	country|cityServed|country|leaderName	53
+the name of the leader in mexico is silvano aureoles conejo whose currency is the mexican peso . bionico is a food found in that country .	leaderName|currency|country|leaderName	57
+felipe vi of spain is the leader of spain , whose main ethnic group is spaniards arròs negre is a traditional dish from the catalonia region of spain , whose leader is carles puigdemont .	country|ethnicGroup&&country|leaderName&&country|leaderName	72
+arros negre is a spanish dish from the region of catalonia where carles puigdemont is a leader spaniards are an ethnic group in spain and the leader is felipe vi .	country&&region|leaderName|ethnicGroup|country	73
+alan shepard , born on november 18 , from nwc in 1957 with an m.a. alan shepard served as a test pilot , and was selected by nasa in shepard , born in new hampshire , died in california , .	almaMater|occupation|was_selected_by_NASA|deathPlace&&birthPlace	74
+alan shepard was born in new hampshire on november 18th , 1923 . he graduated from nwc in 1957 with an m.a. he was selected by nasa in 1959 and he was a test pilot . he died in california .	birthPlace&&birthDate|almaMater&&was_selected_by_NASA|occupation|deathPlace	75
+aids journal , published by lippincott williams & williams , is from the united kingdom ( led by elizabeth ii ) . the parent company of lippincott is wolters kluwer .	publisher|country|leaderName|country	86
+afc fylde , which has the full name " association football club fylde " are based at bryning lane . the club has 3180 members and played in 2014 .	fullname|ground|numberOfMembers|season	99
+administrative science quarterly was published by cornell university , located in ithaca , new york , and affiliated with the association of public and land grant universities , as well as with the association of american universities . president of cornell university is elizabeth garrett .	publisher|publisher|affiliation_2|affiliation	103
+affiliated with the association of public and land grant universities and the association of american universities . , cornell university is the publisher of the administrative science quarterly . the university is located in ithaca new york and the president is elizabeth garrett .	affiliation&&city|affiliation|city|affiliation&&president	104
+edwin e. aldrin , jr. was better known as buzz aldrin , a fighter pilot and member of apollo 11 after nasa picked him for the space program in 1963 . aldrin was born on january 20th , 1930 in glen ridge , new jersey and a graduate of mit 's sc . d. program in 1963 .	alternativeNames&&birthDate|was_selected_by_NASA&&was_a_crew_member_of|birthPlace&&birthDate|almaMater	106
+edwin e. aldrin , jr. was better known by his nickname of buzz aldrin and as a test pilot he was picked to crew apollo 11 by nasa in 1963 . aldrin was born in glen ridge , new jersey on january and in 1963 he graduated from mit with a sc . d.	alternativeNames|was_a_crew_member_of|birthPlace&&birthDate|almaMater	107
+english is spoken in the united states , where native americans are an ethnic group . the us is home to albany , which is located in georgia .	language|ethnicGroup|language|country	119
+the french language is spoken in france where the leaders are manuel valls and gerard larcher . baked alaska is from france but it 's also served in hong kong .	language|leaderName|country|region&&country	121
+baked alaska comes from france where the leaders include gérard larcher and manuel valls and they speak french . it is also served in hong kong .	country|leaderName&&leaderName_2|language|country&&region	122
+lake placid and the city of saranac lake ( both in new york ) are served by the adirondack regional airport . this airport is 507 metres above sea level and has a runway that is metres long .	cityServed|elevationAboveTheSeaLevel_(in_metres)|runwayLength|elevationAboveTheSeaLevel_(in_metres)	124
+attached to the club inter milan , paulo sousa 's club is juventus . he also plays for maccabi tel aviv f.c. and is manager of acf fiorentina .	manager|club|club_2|manager	132
+paulo sousa is the manager of acf fiorentina and his club is juventus . he plays for both plays for maccabi tel aviv f.c. and the inter milan club .	manager|club|club_2|club_3	133
+addis ababa city hall is 42 m high and has a 140000.0 ( square metres ) floor area . construction began in 1961 and it was completed in 1964 . the current tenants are the government of addis ababa .	height|floorArea&&buildingStartDate|completionDate|floorArea&&currentTenants	139
+addis ababa city hall 's was started in 1961 and completed in 1964 . it is 42 metres high and has 140000 square metres of floor area . the " government of addis ababa " are the current tenants of that hall .	buildingStartDate|completionDate&&height|floorArea|currentTenants	140
+the us air force operates the al asad airbase in iraq . it has a runway length of 3,990 and it 's runway is named 08/26 .	location|runwayLength|runwayLength|runwayName	170
+agra airport is in india , which is operated by the indian air force . the iata i.d. of the agra airport is agr ; the icao location identifier of agra airport is viag .	location|operatingOrganisation|IATA_Location_Identifier|location	178
+j v jones is the author of a fortress of grey ice which was published in hardcover . the oclc number is 51969173 and the isbn number is 0 - 7653 - 0633 - 6 .	author|mediaType|OCLC_number|ISBN_number	182
+denmark , which is led by lars lokke rasmussen is the location of the school of business and social sciences at the aarhus university in the city of aarhus . the school was established in 1928 and has 16000 students and an academic staff of 737 .	leaderName|country|established|academicStaffSize&&numberOfStudents	210
+accademia di architettura di mendrisio in mendrisio , switzerland has 100 employees , was established in 1996 and is overseen by dean mario botta . the school 's location is ticino .	country|established|city|established	229
+the accademia di architettura di mendrisio is located in the city of mendrisio , region ticino in switzerland . it was founded in 1996 and the dean is mario botta . there is currently 100 members of staff .	country&&city|established|dean|academicStaffSize	231
+the school of business and social sciences at the aarhus university in aarhus , denmark , is affiliated with the european university association , whose headquarters can be found in brussels . denmark 's leader , lars lokke rasmussen , is known as the monarchy of denmark and the aarhus government has a magistrate .	country&&affiliation|headquarters|leaderName|country	236
+batchoy is a dish eaten in the philippines . it is a noodle dish which includes pork organs , vegetables , chicken , shrimp and beef .	ingredient|country|ingredient|mainIngredients	241
+arlington is part of tarrant county in texas where fort worth is the county seat . spanish is spoken in texas where houston is the largest city .	isPartOf|isPartOf_2|language|language	258
+arlington is part of tarrant county in texas , where houston is the largest city and spanish is spoken . the county seat of tarrant county is fort worth .	isPartOf|largestCity|language|language&&countySeat	259
+alan bean is a retired american , who was born in wheeler , texas . he served as a test pilot and was selected by nasa in 1963 .	status|birthPlace|occupation|was_selected_by_NASA	261
+alan bean is a us national born in wheeler , texas . he is a retired test pilot who joined nasa in 1963 .	nationality|birthPlace|occupation|was_selected_by_NASA	262
+angola , indiana , is part of steuben county , united states where americans live . the asian americans are an ethnic group of the united states and english is the language spoken .	isPartOf|demonym|ethnicGroup|language	269
+spaniards are the ethnic group in spain , where a traditional dish is arròs negre . it comes from the region of catalonia , which is led by the parliament of catalonia .	ethnicGroup|country|region|leaderName	271
+arros negre is a traditional dish from spain , where the ethnic group is the spaniards arros negre is from the region of catalonia , whose leaders are the parliament of catalonia .	country|ethnicGroup|country|leaderName	272
+the hal light combat helicopter is a helicopter used by the indian air force which operates agra airport . this airport is located in uttar pradesh ( part of bundelkhand ) , where ram naik is the leader .	operatingOrganisation|aircraftHelicopter|operatingOrganisation|location|leaderName	17
+agra airport is in uttar of bundelkhand ) and operated by the indian air force . the hal light combat helicopter is a helicopter used by the indian air force . ram naik is a leader of uttar pradesh .	location|operatingOrganisation|aircraftHelicopter|operatingOrganisation|location	18
+william anders is a us citizen , who was born in british hong kong and graduated from afit , m.s. in 1962 . he is a retired test pilot , retiring on . he was a crew member on apollo 8 .	nationality|birthPlace|almaMater|occupation|was_a_crew_member_of&&birthPlace	55
+william anders is an american fighter pilot who was born in british hong kong . he graduated , with an m.s. , from afit in 1962 . he served as a crew member on apollo 8 . he retired on 1969 - 09 - 01 .	nationality|birthPlace|almaMater|was_a_crew_member_of|dateOfRetirement	56
+cornell university is affiliated with the association of public and land grant universities and the association of american universities . the university is located in ithaca new york and is overseen by its president , elizabeth garrett . it is responsible for publishing the administrative science quarterly .	publisher|affiliation|city|president|affiliation	105
+edwin e. " buzz " aldrin jr was a fighter pilot who was born in glen ridge , new jersey on 1930 01 20 . in 1963 , he graduated from massachusetts institute of technology in 1963 with a doctorate in science and was selected by nasa to be part of their apollo 11 crew .	occupation|birthPlace&&birthDate|almaMater|was_selected_by_NASA|was_a_crew_member_of	108
+washington dc is the capital of the united states , where african americans are an ethnic group . the us is also where you will find amarillo , which is part of potter county in texas .	capital|ethnicGroup|capital|ethnicGroup|country	136
+adolfo suarez madrid - barajas airport , which is operated by enaire , is located in madrid , paracuellos de jarama , san sebastian de los reyes and alcobendas . the airport is 610 metres above sea level , and has a runway length of 4,100 which is named 14l/32r.	operatingOrganisation|location|elevationAboveTheSeaLevel_(in_metres)|runwayLength|runwayName	153
+adolfo suarez madrid - barajas airport , operated by enaire , is located in madrid , paracuellos de jarama , san sebastian de los reyes and alcobendas . it is located 610 metres above sea level and has a runway name of 14l/32r which is 4100.0 in length .	operatingOrganisation|location|elevationAboveTheSeaLevel_(in_metres)|runwayName|runwayLength	154
+a severed wasp is from the united states where the native americans are an ethnic group . the capital city is washington dc and uses the english language which is also spoken in great britain .	country|ethnicGroup|capital|language|spokenIn	232
+the language of both great britain and the united states is english . it is in the united states , where the capital is washington dc and the ethnic group of native americans are found . the country is also the origin of the book " a severed wasp " .	spokenIn|country|capital|ethnicGroup|country	233
+the native americans are an ethnic group in the united states where the book a severed wasp originated . the capital of the us is washington dc and the language spoken in the us , and also great britain , is english .	ethnicGroup|country|capital|language|spokenIn	234
+the adare manor is in the republic of ireland , which leader is enda kenny . the architect is augustus pugin , who was born in bloomsbury . one of the significant buildings designed by augustus pugin is the palace of westminster .	country|leaderName|architect|significantBuilding|significantBuilding	266
+adare manor is located in the republic of ireland , whose leader is enda kenny . its architect was augustus pugin , who was born in bloomsbury . another significant building designed by pugin is the palace of westminster .	country|leaderName|architect|significantBuilding|significantBuilding	267
+americans live in the united states , where english is spoken and where asian americans are an ethnic group . the us is the location of angola , which is in steuben county , indiana .	demonym|language|ethnicGroup|country|isPartOf	268
+the baku turkish martyrs memorial in azerbaijan is dedicated to ottoman army soldiers killed in the battle of baku . it was designed by hüseyin bütüner and hilmi güner , and constructed from red granite and white marble . baku is the capital of azerbaijan , a country whose leaders include artur rasizade .	location|dedicatedTo|designer|location|capital|leader	13

@@ -1,0 +1,1847 @@
+eatType area	0 1
+eatType area	0 1
+eatType customerrating near	0 1 1
+eatType near customerrating	0 0 1
+eatType customerrating near	0 1 1
+eatType area	1 1
+eatType area	0 1
+eatType near customerrating	1 1 1
+eatType customerrating near	0 1 1
+eatType near customerrating	1 1 1
+eatType food area near	0 1 0 1
+eatType food area near familyFriendly	1 0 0 1 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType food area near	1 1 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType familyFriendly area near	1 1 0 1
+eatType near familyFriendly	0 1 1
+eatType familyFriendly food near	0 1 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType familyFriendly area near	0 1 0 1
+eatType food area near	1 0 0 1
+eatType familyFriendly food near	0 1 0 1
+eatType food area near	1 0 0 1
+eatType food area near familyFriendly	1 0 0 1 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType food area near	0 1 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType food area near familyFriendly	1 0 0 1 1
+eatType familyFriendly food area near	0 0 1 0 1
+eatType food area near familyFriendly	1 0 0 1 1
+eatType familyFriendly area near	0 1 0 1
+eatType familyFriendly near	0 1 1
+eatType food near familyFriendly	1 0 1 1
+eatType familyFriendly food area near	0 1 1 0 1
+eatType familyFriendly area near	0 1 0 1
+eatType food area near	0 1 0 1
+eatType food near familyFriendly	1 0 1 1
+eatType near customerrating	0 1 1
+eatType near customerrating priceRange	0 1 0 1
+eatType near customerrating	0 0 1
+eatType near	0 1
+eatType near	1 1
+eatType near customerrating	0 1 1
+eatType near customerrating priceRange	0 1 0 1
+eatType near customerrating	1 1 1
+eatType near	0 1
+eatType near	1 1
+eatType near customerrating	0 0 1
+eatType near customerrating	0 0 1
+eatType near customerrating	0 0 1
+eatType near priceRange	0 0 1
+eatType near	1 1
+eatType near customerrating	0 1 1
+eatType near	1 1
+eatType near	1 1
+eatType customerrating near	0 1 1
+eatType near customerrating	0 1 1
+eatType near customerrating	0 1 1
+eatType near priceRange	0 0 1
+eatType near	1 1
+eatType near customerrating	0 1 1
+eatType near	1 1
+eatType near	1 1
+eatType near	1 1
+eatType near	1 1
+eatType near	1 1
+eatType near	1 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType familyFriendly area near	0 1 0 1
+food area near familyFriendly	1 0 1 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType food area near	0 1 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType food near	0 0 1
+eatType familyFriendly area near	1 1 0 1
+eatType familyFriendly area near	1 1 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType near familyFriendly	0 1 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType food area near	0 1 0 1
+eatType familyFriendly food area near	0 1 1 0 1
+eatType familyFriendly area near	0 1 0 1
+eatType food area near	0 1 0 1
+eatType food area near familyFriendly	1 0 0 1 1
+eatType familyFriendly food area near	0 1 1 0 1
+eatType familyFriendly food area near	0 1 1 0 1
+eatType area familyFriendly	0 1 1
+eatType near	1 1
+eatType food area near familyFriendly	1 0 0 1 1
+eatType familyFriendly area near	1 1 0 1
+eatType food area near	1 0 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType familyFriendly food near	0 1 1 1
+eatType near	1 1
+eatType near	1 1
+eatType familyFriendly food area near	0 1 1 0 1
+eatType familyFriendly area near	0 1 0 1
+eatType food area near familyFriendly	1 0 0 1 1
+eatType food area near	0 1 0 1
+eatType food area near familyFriendly	1 0 0 1 1
+eatType food near	0 0 1
+eatType familyFriendly area near	1 1 0 1
+eatType familyFriendly area near	1 1 0 1
+eatType food area near familyFriendly	1 0 0 1 1
+eatType near familyFriendly	0 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType food area near	0 1 0 1
+eatType food area near familyFriendly	1 0 0 1 1
+eatType familyFriendly area near	0 1 0 1
+eatType food area near	0 1 0 1
+eatType food area near familyFriendly	1 0 0 1 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType familyFriendly area	0 0 1
+eatType near	1 1
+eatType food area near familyFriendly	1 0 0 1 1
+eatType familyFriendly area near	1 1 0 1
+eatType food area near	1 0 0 1
+eatType food area near familyFriendly	1 0 0 1 1
+eatType familyFriendly food near	0 1 0 1
+eatType customerrating near	0 1 1
+eatType customerrating near	0 1 1
+eatType near	1 1
+eatType customerrating near	0 1 1
+eatType customerrating near	0 1 1
+eatType near	1 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType familyFriendly area near	0 1 0 1
+eatType familyFriendly food near	0 1 0 1
+food area familyFriendly near	0 1 0 1
+eatType food area near	1 0 0 1
+eatType near area area_2	1 0 0 1
+eatType familyFriendly area near area_2	0 0 1 0 1
+eatType familyFriendly near	0 1 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType food area near familyFriendly	1 0 0 1 1
+eatType familyFriendly food area near	0 0 1 0 1
+eatType food area near familyFriendly	1 0 0 1 1
+eatType near	1 1
+eatType familyFriendly near	0 1 1
+eatType food area near	0 1 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType familyFriendly area near	0 1 0 1
+eatType familyFriendly food near	0 1 0 1
+eatType food near	0 0 1
+eatType near area	1 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType familyFriendly area near	0 1 0 1
+eatType familyFriendly food near	0 1 0 1
+eatType food area near	0 1 0 1
+eatType near area area_2	1 0 0 1
+eatType familyFriendly area near area_2	0 0 1 0 1
+eatType familyFriendly near	0 1 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType familyFriendly food area near	0 0 1 0 1
+eatType familyFriendly food area near	0 0 1 0 1
+eatType familyFriendly food area near	0 0 1 0 1
+eatType familyFriendly near	0 1 1
+eatType food area near	0 1 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType familyFriendly area near	0 1 0 1
+eatType familyFriendly food near	0 1 0 1
+eatType food near	0 0 1
+eatType area	1 1
+eatType	1
+eatType area	1 1
+eatType	1
+eatType area	1 1
+eatType customerrating near	0 1 1
+eatType near	1 1
+near customerrating	0 1
+eatType customerrating near	0 1 1
+eatType customerrating near	1 0 1
+eatType area	1 1
+eatType near customerrating	0 1 1
+eatType near	0 1
+eatType customerrating near	0 1 1
+eatType near customerrating	0 1 1
+eatType familyFriendly customerrating near	0 1 1 1
+eatType near	0 1
+eatType familyFriendly near	0 1 1
+eatType near customerrating	1 1 1
+eatType familyFriendly customerrating near	0 1 1 1
+eatType familyFriendly customerrating near	1 1 0 1
+eatType familyFriendly customerrating near	0 1 0 1
+eatType near customerrating familyFriendly	0 1 1 1
+eatType near customerrating	0 0 1
+eatType familyFriendly customerrating near	0 1 0 1
+eatType near familyFriendly	0 0 1
+near familyFriendly	0 1
+eatType near customerrating familyFriendly	0 1 1 1
+eatType familyFriendly customerrating near	0 1 0 1
+eatType near customerrating familyFriendly	0 1 1 1
+eatType near familyFriendly	0 0 1
+eatType near familyFriendly	0 0 1
+familyFriendly near	1 1
+eatType familyFriendly customerrating near	0 1 0 1
+eatType near	1 1
+eatType near customerrating familyFriendly	0 1 1 1
+eatType familyFriendly near	0 1 1
+eatType near customerrating	0 1 1
+eatType near	1 1
+eatType near customerrating familyFriendly	0 1 1 1
+eatType near customerrating familyFriendly	0 1 1 1
+eatType near customerrating familyFriendly	0 1 1 1
+near customerrating familyFriendly	1 1 1
+eatType familyFriendly customerrating near	0 1 1 1
+eatType near	0 1
+eatType near familyFriendly	0 0 1
+eatType near customerrating	1 1 1
+eatType familyFriendly customerrating near	0 1 1 1
+eatType familyFriendly customerrating near	0 1 1 1
+eatType familyFriendly customerrating near	0 1 0 1
+eatType familyFriendly customerrating near	0 1 0 1
+eatType near customerrating	0 1 1
+eatType familyFriendly customerrating near	0 1 1 1
+eatType near familyFriendly	0 0 1
+eatType familyFriendly customerrating near	1 1 0 1
+eatType familyFriendly customerrating near	0 1 0 1
+eatType familyFriendly customerrating near	0 1 0 1
+eatType near familyFriendly	0 0 1
+eatType near familyFriendly	0 0 1
+eatType familyFriendly customerrating near	0 1 0 1
+eatType near	1 1
+eatType familyFriendly customerrating near	0 1 1 1
+eatType familyFriendly near	0 1 1
+eatType customerrating near	0 1 1
+eatType near	1 1
+eatType familyFriendly customerrating near	1 1 0 1
+eatType familyFriendly customerrating near	0 1 0 1
+eatType familyFriendly customerrating near	0 1 0 1
+eatType food area near	0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType food near customerrating priceRange	1 0 1 0 1
+eatType priceRange food customerrating familyFriendly area near	0 1 1 1 0 0 1
+eatType familyFriendly food customerrating area near eatType_2	0 1 1 1 0 0 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType priceRange food customerrating familyFriendly area near eatType_2	0 1 1 0 1 0 0 1
+eatType priceRange food customerrating familyFriendly area near	0 1 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+priceRange food customerrating familyFriendly area near	0 1 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType familyFriendly food customerrating area near	0 1 1 1 0 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly priceRange_2	0 0 1 0 0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType priceRange food customerrating familyFriendly near	0 0 1 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly priceRange_2	0 0 1 0 0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+food near familyFriendly	1 1 1
+eatType priceRange food customerrating familyFriendly area near	0 1 0 1 0 0 1
+eatType food near customerrating familyFriendly	0 0 1 0 1
+eatType priceRange food near	1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating familyFriendly area near	0 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType priceRange food customerrating familyFriendly area near eatType_2	0 1 1 1 1 0 0 1
+eatType priceRange food customerrating familyFriendly area near	0 1 0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType food area customerrating familyFriendly near	1 0 1 0 0 1
+eatType familyFriendly food customerrating area near	0 1 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType near priceRange customerrating priceRange_2	0 0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly customerrating_2	0 0 1 0 0 1 0 1
+eatType food near customerrating familyFriendly	1 0 0 1 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly priceRange_2	0 0 1 0 0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType familyFriendly food area near	0 0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType priceRange food customerrating familyFriendly area near	0 1 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly priceRange_2	0 0 1 0 0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food area near customerrating	0 0 1 0 1 1
+eatType priceRange food area familyFriendly near food_2	0 0 1 1 0 0 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType priceRange food customerrating familyFriendly area near	0 0 1 1 0 0 1
+eatType priceRange near	1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType familyFriendly customerrating area priceRange near	0 1 0 0 1 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType familyFriendly food near priceRange	0 1 0 1 1
+eatType familyFriendly food customerrating near	0 0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+priceRange food customerrating familyFriendly area near	0 1 1 0 0 1
+eatType priceRange food customerrating familyFriendly area near	0 1 0 1 0 0 1
+eatType priceRange food area near	0 0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating familyFriendly area near eatType_2	0 1 1 0 1 0 0 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType customerrating area near	1 0 0 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating familyFriendly area near	0 1 0 1 0 0 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating familyFriendly area near	0 1 0 1 0 0 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating familyFriendly near	0 0 1 1 0 1
+eatType priceRange food customerrating familyFriendly near	0 0 1 1 0 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly area near	0 1 0 1
+eatType customerrating area near	1 0 0 1
+eatType	1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType priceRange food customerrating familyFriendly area near	0 0 1 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType food area near	0 1 0 1
+eatType priceRange food customerrating familyFriendly area near	0 0 1 1 0 0 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType priceRange food customerrating familyFriendly area near	0 0 1 1 0 0 1
+eatType priceRange food area near	0 0 1 0 1
+eatType priceRange food customerrating area near priceRange_2	0 0 1 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType near familyFriendly	0 0 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+food area familyFriendly customerrating near	1 1 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly food near priceRange	0 1 1 0 1
+eatType familyFriendly food near	0 1 1 1
+eatType priceRange food area near familyFriendly	0 0 1 0 0 1
+priceRange food customerrating familyFriendly area near	1 1 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food area near familyFriendly	0 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+priceRange food area near familyFriendly	1 1 0 1 1
+eatType food near	0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly priceRange_2	0 0 1 0 0 1 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType near priceRange customerrating	0 0 1 1
+eatType near priceRange familyFriendly	0 0 1 1
+eatType familyFriendly customerrating area near priceRange area_2 priceRange_2	1 1 0 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly priceRange_2	0 0 1 0 0 1 0 1
+eatType priceRange near	0 1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food area near familyFriendly	0 0 1 0 0 1
+eatType familyFriendly customerrating area near	0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType food area customerrating familyFriendly near	1 0 0 1 0 1
+eatType food near customerrating familyFriendly	0 0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating near	0 0 1 0 1
+eatType familyFriendly food customerrating area near	0 1 1 1 0 1
+eatType priceRange food customerrating familyFriendly area near	0 1 0 1 0 0 1
+eatType priceRange food customerrating familyFriendly near	0 0 1 1 0 1
+eatType near	1 1
+eatType priceRange near	0 1 1
+eatType food customerrating area near	1 0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly priceRange_2	0 0 1 0 0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating familyFriendly area near customerrating_2	0 0 1 1 1 0 0 1
+eatType priceRange food customerrating familyFriendly area near customerrating_2	0 0 1 1 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly priceRange_2	0 0 1 0 0 1 0 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType near	1 1
+eatType near area	0 0 1
+eatType priceRange food near	1 0 0 1
+eatType familyFriendly food near	0 1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food near	0 1 0 1
+eatType priceRange food area near familyFriendly priceRange_2	0 1 0 0 1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType familyFriendly priceRange area near	0 0 1 0 1
+eatType priceRange near	1 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType familyFriendly priceRange near	0 0 1 1
+eatType priceRange near area	1 1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType familyFriendly priceRange area near	0 0 1 0 1
+eatType priceRange near area	0 1 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType familyFriendly priceRange area near	1 1 0 0 1
+eatType priceRange food area near	0 1 0 0 1
+eatType familyFriendly near	0 1 1
+eatType food near	1 1 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+priceRange food area near familyFriendly	1 0 0 1 1
+eatType familyFriendly area near	0 1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food near familyFriendly	1 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating familyFriendly area near eatType_2	0 0 1 1 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food area near familyFriendly	0 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating familyFriendly near eatType_2	0 0 1 1 0 0 1
+eatType priceRange food customerrating familyFriendly area near eatType_2	0 0 1 1 1 0 0 1
+eatType familyFriendly food customerrating area near	0 1
+eatType familyFriendly food customerrating area near	0 1 1 1 0 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType familyFriendly customerrating area near priceRange	0 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange near area	0 1 0 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange near	0 1 1
+eatType food customerrating area near	0 1 0 0 1
+eatType near customerrating eatType_2	1 1 0 1
+eatType eatType_2 near	0 1 1
+eatType priceRange food customerrating familyFriendly area near eatType_2	0 0 1 1 1 0 0 1
+eatType familyFriendly customerrating area near priceRange	0 0 1 0 0 1
+eatType familyFriendly customerrating area near area_2	1 1 1 0 0 1
+eatType familyFriendly customerrating priceRange near area area_2	0 0 1 1 0 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType familyFriendly priceRange area near	1 1 0 0 1
+eatType priceRange food area near familyFriendly	0 1 1 0 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType food customerrating familyFriendly priceRange near	0 0 1 0 0 1
+priceRange food customerrating familyFriendly near	0 1 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating familyFriendly near eatType_2	0 0 1 1 0 0 1
+eatType food customerrating area near	0 1 0 0 1
+eatType priceRange food customerrating familyFriendly area near eatType_2	0 0 1 1 1 0 0 1
+eatType priceRange food area near customerrating	0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType food customerrating area near	0 1 0 0 1
+eatType food area near	1 0 0 1
+eatType priceRange food area near customerrating eatType_2	0 1 0 0 1 0 1
+eatType near priceRange familyFriendly	0 0 1 1
+eatType familyFriendly near	0 1 1
+eatType customerrating area near	1 0 0 1
+eatType familyFriendly area near	0 1 0 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType priceRange near area	0 1 0 1
+eatType near priceRange	0 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType familyFriendly customerrating area priceRange near	0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly priceRange_2	0 0 1 0 0 1 0 1
+eatType familyFriendly food near priceRange	0 1 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food area near	0 0 1 0 1
+priceRange food customerrating area near familyFriendly	1 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly customerrating area near priceRange	0 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly priceRange_2	0 0 1 0 0 1 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType near	1 1
+eatType familyFriendly priceRange area near	1 1 0 0 1
+eatType priceRange near area	0 1 0 1
+eatType familyFriendly priceRange area near	0 1 0 0 1
+eatType familyFriendly customerrating area priceRange near	0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food area near familyFriendly	0 0 1 0 0 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly customerrating_2	0 0 1 0 0 1 0 1
+eatType familyFriendly customerrating area priceRange near	0 1 0 0 1 1
+eatType familyFriendly customerrating area priceRange near	0 1 0 0 1 1
+eatType familyFriendly food customerrating area near	0 1 1 1 0 1
+eatType food near priceRange	0 0 1 1
+eatType near customerrating area priceRange	0 1 0 0 1
+eatType near area	1 0 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType priceRange food near	1 0 0 1
+eatType familyFriendly customerrating area near priceRange area_2 priceRange_2	1 1 0 0 1 0 0 1
+eatType food near customerrating familyFriendly eatType_2	0 0 1 0 0 1
+eatType priceRange food customerrating familyFriendly near	0 0 1 1 0 1
+eatType familyFriendly customerrating area priceRange near	0 1 0 0 1 1
+eatType familyFriendly food area near eatType_2	1 1 1 0 0 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType familyFriendly customerrating area priceRange near	0 1 0 0 1 1
+eatType food area near	0 1 0 1
+eatType familyFriendly customerrating area near	0 1 0 0 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType priceRange near	0 1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly priceRange_2	0 0 1 0 0 1 0 1
+food area near	0 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType near customerrating familyFriendly	0 1 1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly customerrating area near priceRange	0 0 1 0 0 1
+eatType familyFriendly area near	0 1 0 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType priceRange customerrating area near	1 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly customerrating area priceRange near	0 1 0 0 1 1
+eatType priceRange food area near familyFriendly area_2	0 1 0 0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+near customerrating priceRange food	1 1 0 1
+eatType priceRange food customerrating familyFriendly area near area_2	0 0 1 1 1 0 0 1
+eatType priceRange customerrating area near	1 1 0 0 1
+eatType priceRange food customerrating familyFriendly area near eatType_2	0 0 1 1 1 0 0 1
+eatType food near customerrating priceRange	0 0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType familyFriendly customerrating area near priceRange	0 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly customerrating area priceRange near	0 1 0 0 1 1
+eatType priceRange food area near familyFriendly	0 0 1 0 0 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+priceRange food area near customerrating	0 1 0 1 1
+eatType priceRange food customerrating area near eatType_2	0 0 1 1 0 0 1
+eatType near priceRange familyFriendly	0 0 1 1
+eatType familyFriendly customerrating near	0 1 0 1
+eatType priceRange food customerrating near	0 0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food area near familyFriendly	0 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly customerrating_2	0 0 1 0 0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly customerrating area priceRange near	0 1 0 0 1 1
+eatType priceRange food customerrating familyFriendly near	0 0 1 1 0 1
+eatType food customerrating area near	0 1 0 0 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food area near customerrating	0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType food area customerrating familyFriendly near	1 0 0 1 0 1
+eatType priceRange near	0 1 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType priceRange food area near familyFriendly	0 0 1 0 0 1
+eatType near	0 1
+eatType near area	0 0 1
+eatType priceRange food near	1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly customerrating_2	0 0 1 0 0 1 0 1
+eatType priceRange food area near familyFriendly	0 0 1 0 0 1
+eatType familyFriendly food near	0 1 1 1
+eatType priceRange food customerrating familyFriendly near	0 0 1 1 0 1
+eatType familyFriendly food near	0 0 1 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType food near priceRange	0 0 1 1
+eatType priceRange food area near familyFriendly priceRange_2	0 1 0 0 1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType familyFriendly priceRange area near	0 0 1 0 1
+eatType near priceRange	0 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType near priceRange familyFriendly	0 0 1 1
+eatType priceRange near area	1 1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType familyFriendly priceRange area near	0 0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+priceRange food customerrating familyFriendly area near	0 1 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating familyFriendly area near	0 0 1 1 0 0 1
+eatType familyFriendly customerrating near	1 1 0 1
+eatType priceRange near	0 1 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType customerrating near	0 1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food near	0 1 0 1
+eatType familyFriendly near	0 1 1
+eatType near priceRange familyFriendly	0 1 0 1
+eatType familyFriendly customerrating priceRange near	0 1 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly priceRange area near	1 1 0 0 1
+eatType familyFriendly priceRange area near area_2	0 1 0 1 0 1
+eatType priceRange near area	0 1 0 1
+eatType priceRange food area near familyFriendly	0 0 1 0 0 1
+eatType priceRange food area near familyFriendly	0 0 1 0 0 1
+eatType priceRange food area near familyFriendly	0 0 1 0 0 1
+eatType familyFriendly priceRange area near	1 1 0 0 1
+eatType priceRange food area near	0 0 1 0 1
+eatType near familyFriendly	0 0 1
+eatType food near	0 0 1
+eatType priceRange food area near familyFriendly	0 0 1 0 0 1
+eatType familyFriendly area near	0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating familyFriendly area near	0 1 0 1 0 0 1
+eatType familyFriendly food customerrating area near	0 1 1 1 0 1
+eatType priceRange food customerrating area near familyFriendly customerrating_2	0 0 1 0 0 1 0 1
+eatType familyFriendly customerrating area priceRange near	0 1 0 0 1 1
+eatType priceRange food area near customerrating	0 1 0 0 1 1
+eatType familyFriendly food area near	0 0 1 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType priceRange food area near customerrating	0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly food customerrating area near	0 1 1 1 0 1
+eatType familyFriendly customerrating area priceRange near	0 1 0 0 1 1
+eatType familyFriendly customerrating near	0 1 1 1
+eatType priceRange customerrating area near	0 1 1 0 1
+eatType familyFriendly customerrating priceRange near	0 1 0 0 1
+priceRange food customerrating familyFriendly area near	1 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType near area	1 0 1
+eatType priceRange near area	0 1 0 1
+eatType priceRange food customerrating familyFriendly area near	0 0 1 1 0 0 1
+eatType priceRange food area near customerrating	0 1 0 0 1 1
+priceRange food area near customerrating	0 1 0 1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food area near customerrating	0 1 0 0 1 1
+eatType near	1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType food area near	0 1 0 1
+eatType familyFriendly customerrating area near	0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food near familyFriendly	1 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food area near	0 1 0 0 1
+eatType food customerrating area near	0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly food customerrating area near	0 1 1 1 0 1
+eatType familyFriendly customerrating area priceRange near	0 1 0 0 1 1
+eatType priceRange food near	0 1 0 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+area near	0 1
+eatType priceRange food area near familyFriendly	0 0 1 0 0 1
+eatType food area near familyFriendly	1 0 0 1 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType familyFriendly priceRange area near	1 1 0 0 1
+eatType priceRange food area near familyFriendly	0 0 1 0 0 1
+eatType familyFriendly priceRange area near	1 1 0 0 1
+eatType food area near	0 1 0 1
+eatType priceRange food area near familyFriendly	0 0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food near	0 1 0 1
+eatType priceRange food area near familyFriendly	0 0 1 0 0 1
+eatType familyFriendly food near priceRange	0 1 0 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType familyFriendly priceRange near	0 1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType familyFriendly area near	0 1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+near priceRange familyFriendly	0 1 1
+eatType priceRange near	1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType food area near	0 1 0 1
+eatType familyFriendly food area near	0 0 1 0 1
+eatType priceRange near area	1 1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType near area	1 0 1
+eatType priceRange near area	1 0 0 1
+eatType familyFriendly priceRange area near	1 1 0 0 1
+eatType familyFriendly priceRange near	0 1 0 1
+eatType familyFriendly near	0 1 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType area near eatType_2	1 0 0 1
+eatType familyFriendly priceRange near area area_2	1 1 1 0 0 1
+priceRange food area familyFriendly near	1 1 1 0 1
+eatType priceRange food area near familyFriendly	0 0 1 0 0 1
+eatType priceRange near area	0 1 0 1
+eatType priceRange food area near familyFriendly	0 0 1 0 0 1
+eatType priceRange food area near	0 0 1 0 1
+eatType priceRange food area near familyFriendly	0 0 1 0 0 1
+eatType familyFriendly priceRange area near	1 1 0 0 1
+eatType priceRange food area near familyFriendly	0 0 1 0 0 1
+eatType priceRange food area near familyFriendly	0 0 1 0 0 1
+eatType near priceRange	0 0 1
+eatType near	1 1
+eatType familyFriendly area near	0 1 0 1
+eatType priceRange food near	0 1 0 1
+eatType priceRange near area	1 0 0 1
+eatType priceRange food area near	0 0 1 0 1
+eatType priceRange near	0 1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly priceRange customerrating near eatType_2	0 0 1 0 0 1
+near	1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType familyFriendly customerrating area near	1 1 0 0 1
+eatType priceRange food area near customerrating	0 0 1 0 0 1
+priceRange food area near	0 1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType priceRange near area	1 0 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType food area customerrating familyFriendly near	1 0 0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+priceRange food customerrating familyFriendly area near	0 1 1 0 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType food area near	0 1 0 1
+eatType familyFriendly customerrating area near	1 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType familyFriendly food near	0 1 0 1
+eatType food area near	0 1 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food customerrating familyFriendly area near	0 0 1 1 0 0 1
+eatType priceRange food customerrating familyFriendly area near	0 0 1 1 0 0 1
+eatType food customerrating area near	0 1 0 0 1
+eatType priceRange food customerrating familyFriendly area near eatType_2	0 0 1 1 1 0 0 1
+eatType food area customerrating familyFriendly near	1 0 1 0 0 1
+eatType food area customerrating familyFriendly near	1 0 0 1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly customerrating area priceRange near	0 1 0 0 1 1
+eatType familyFriendly customerrating area near	0 1 0 0 1
+eatType near	1 1
+eatType familyFriendly area near	0 1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType customerrating near	0 1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly customerrating area priceRange near	0 1 0 0 1 1
+eatType priceRange food customerrating familyFriendly near	0 0 1 1 0 1
+eatType food area near familyFriendly	1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly food customerrating area near	0 1 1 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType near familyFriendly	0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType familyFriendly food area near	0 0 1 0 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly priceRange_2	0 0 1 0 0 1 0 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType familyFriendly food area near eatType_2	1 1 1 0 0 1
+eatType near priceRange	0 0 1
+eatType familyFriendly area near	0 1 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType near area	0 0 1
+eatType priceRange food customerrating familyFriendly area near eatType_2	0 0 1 1 1 0 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType food near customerrating area	0 0 1 0 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType familyFriendly customerrating area priceRange near	0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType customerrating near eatType_2	0 1 0 1
+eatType familyFriendly food customerrating area near	0 1 1 1 0 1
+eatType near priceRange customerrating	0 0 1 1
+eatType priceRange near area	0 1 0 1
+near customerrating area priceRange	1 0 0 1
+eatType familyFriendly customerrating area near priceRange	0 0 1 0 0 1
+eatType familyFriendly customerrating area near priceRange	0 0 1 0 0 1
+eatType familyFriendly customerrating priceRange near	0 1 1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating familyFriendly near eatType_2	0 0 1 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange near	1 0 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly area near	0 1 0 1
+eatType familyFriendly food customerrating area near	0 1 1 1 0 1
+eatType familyFriendly customerrating area priceRange near	0 1 0 0 1 1
+eatType food near customerrating familyFriendly	0 0 1 0 1
+food customerrating near	1 1 1
+eatType familyFriendly customerrating area near	0 1 1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType food area near	0 1 0 1
+eatType familyFriendly food near	0 1 0 1
+eatType food customerrating familyFriendly priceRange near eatType_2	1 0 1 1 0 0 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType familyFriendly priceRange area near	0 0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly customerrating area near priceRange	0 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange customerrating area near	0 1 1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+priceRange food area near familyFriendly	1 0 0 1 1
+eatType priceRange customerrating area near eatType_2	1 1 1 0 0 1
+eatType customerrating area near eatType_2 customerrating_2	1 0 1 0 0 1
+eatType near customerrating priceRange area area_2	0 1 1 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType food area near eatType_2	0 1 0 0 1
+eatType priceRange food area near eatType_2	1 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly customerrating area priceRange near eatType_2	0 1 0 1 0 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly food customerrating area near	0 1 1 1 0 1
+eatType familyFriendly priceRange near area eatType_2	1 1 1 0 0 1
+eatType familyFriendly customerrating priceRange near	0 0 1 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType familyFriendly customerrating area near priceRange	0 0 1 0 0 1
+eatType food near customerrating area	0 0 1 0 1
+eatType familyFriendly customerrating area priceRange near	0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType near familyFriendly	0 0 1
+eatType priceRange customerrating near eatType_2	1 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType priceRange food customerrating familyFriendly area near eatType_2	0 0 1 1 1 0 0 1
+eatType familyFriendly customerrating area priceRange near	0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType food near customerrating area	0 0 1 0 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType food area near	0 1 0 1
+eatType familyFriendly customerrating area near	0 1 1 0 1
+eatType familyFriendly priceRange area near	1 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType near customerrating area	0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType food near customerrating area eatType_2	0 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType familyFriendly customerrating area near	0 1 0 0 1
+eatType familyFriendly customerrating area priceRange near	0 1 0 0 1 1
+eatType familyFriendly food customerrating area near eatType_2	0 1 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly customerrating area near	0 1 0 0 1
+eatType food near customerrating area	0 0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly priceRange_2	0 0 1 0 0 1 0 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType familyFriendly food customerrating area near eatType_2	0 1 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly priceRange_2	0 0 1 0 0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly customerrating area near priceRange	0 0 1 0 0 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType familyFriendly food area near	0 0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange near	1 0 1
+eatType familyFriendly priceRange near	0 1 0 1
+eatType near customerrating area priceRange	0 1 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType familyFriendly priceRange area near	1 1 0 0 1
+eatType food area near	0 1 0 1
+eatType priceRange food area near familyFriendly	0 0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food near	1 1 0 1
+eatType priceRange food area near familyFriendly	0 0 1 0 0 1
+eatType familyFriendly food near priceRange	0 1 0 0 1
+eatType food area near familyFriendly	1 0 0 1 1
+eatType familyFriendly priceRange near	0 0 1 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType familyFriendly area near	0 1 0 1
+eatType near priceRange	0 0 1
+eatType priceRange food area near familyFriendly	0 0 1 0 0 1
+eatType priceRange food area near familyFriendly	0 0 1 0 0 1
+eatType food area near	0 1 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType priceRange near area	1 1 0 1
+eatType priceRange food area near familyFriendly	0 0 1 0 0 1
+eatType priceRange food area near	0 0 1 0 1
+eatType near area	1 0 1
+eatType priceRange near area	1 1 0 1
+eatType familyFriendly priceRange area near	1 1 0 0 1
+eatType near priceRange familyFriendly	0 0 1 1
+eatType familyFriendly near	0 1 1
+eatType priceRange food area near familyFriendly	0 0 1 0 0 1
+eatType area near eatType_2	1 0 0 1
+eatType familyFriendly priceRange area near area_2	0 1 0 1 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType priceRange near area	0 1 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType priceRange food area near	0 1 0 0 1
+eatType familyFriendly priceRange area near	1 1 0 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType priceRange food area near familyFriendly	0 0 1 0 0 1
+eatType near priceRange	0 0 1
+eatType near	1 1
+eatType familyFriendly area near	0 1 0 1
+eatType priceRange food near	0 1 0 1
+eatType priceRange near area	1 0 0 1
+eatType priceRange food area near	0 1 0 0 1
+eatType priceRange food area near familyFriendly	0 0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType familyFriendly food near	0 1 0 1
+eatType food area near	1 0 0 1
+eatType food area near familyFriendly	1 0 0 1 1
+eatType priceRange food area familyFriendly near eatType_2	0 1 0 1 0 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType familyFriendly food near priceRange	0 1 0 1 1
+eatType food area customerrating familyFriendly near	1 0 1 0 0 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType food area near eatType_2	1 0 1 0 1
+eatType food area near	0 1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+priceRange food customerrating familyFriendly area near priceRange_2	0 1 1 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food area near	0 1 0 0 1
+eatType near priceRange customerrating	0 0 1 1
+near customerrating area priceRange	1 0 0 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+priceRange food customerrating familyFriendly area near	0 1 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType food near	1 0 1
+eatType priceRange food customerrating area near familyFriendly priceRange_2	0 0 1 0 0 1 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+food area familyFriendly customerrating near	0 1 1 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType food area near familyFriendly	1 0 0 1 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food area familyFriendly near area_2	0 1 0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType familyFriendly area near	1 1 0 1
+eatType food area near familyFriendly	1 0 0 1 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType food area near	1 1 0 1
+eatType priceRange food area near	0 0 1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType priceRange food area near	0 1 0 0 1
+eatType familyFriendly food area near	0 0 1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food area familyFriendly near area_2	0 1 0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food area near	0 0 1 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food area near	0 0 1 0 1
+eatType familyFriendly area near	0 1 0 1
+eatType familyFriendly food area near	0 0 1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType food area near	0 1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType priceRange food area near eatType_2	1 0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType familyFriendly food near priceRange	0 1 0 1 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType familyFriendly food near priceRange	0 1 0 1 1
+eatType food near familyFriendly	1 0 1 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food area familyFriendly near eatType_2	0 1 0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food area familyFriendly near priceRange_2	0 0 1 1 0 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType familyFriendly priceRange area near	0 0 1 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType familyFriendly priceRange area near	1 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType food near	0 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food near	1 0 0 1
+eatType near area	0 0 1
+eatType food area near	0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType priceRange food customerrating area near familyFriendly priceRange_2	0 0 1 0 0 1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType food area near familyFriendly	1 0 0 1 1
+eatType priceRange food near area	1 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType priceRange food area near eatType_2	1 0 1 0 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType priceRange food near familyFriendly	0 1 0 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType priceRange food near familyFriendly	0 0 1 0 1
+eatType familyFriendly food near	0 0 1 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food area near	0 0 1 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType priceRange food area familyFriendly near eatType_2	0 1 0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food area familyFriendly near priceRange_2	0 0 1 1 0 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType familyFriendly priceRange area near	0 0 1 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType priceRange food area near	0 0 1 0 1
+eatType familyFriendly priceRange area near	0 0 1 0 1
+eatType food near	0 0 1
+eatType familyFriendly food area near	0 0 1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food near	1 0 0 1
+eatType near area	0 0 1
+eatType food area near	0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food near	0 1 0 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly priceRange_2	0 0 1 0 0 1 0 1
+eatType food customerrating area near	1 0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly priceRange_2 customerrating_2	0 0 1 0 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly customerrating_2	0 0 1 0 0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly customerrating area priceRange near	0 1 0 0 1 1
+eatType familyFriendly food near	0 1 0 1
+eatType food near customerrating priceRange	1 0 1 0 1
+eatType food area customerrating familyFriendly near	1 0 0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly customerrating area near priceRange	0 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly priceRange_2	0 0 1 0 0 1 0 1
+eatType priceRange food customerrating familyFriendly near	0 0 1 1 0 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating familyFriendly area near	0 0 1 1 0 0 1
+eatType priceRange food area near	0 1 0 0 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food customerrating familyFriendly area near	0 0 1 1 0 0 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType familyFriendly customerrating area near priceRange	0 1 0 0 1 1
+eatType priceRange food customerrating familyFriendly area near	0 0 1 1 0 0 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food near area	1 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType food area near	0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType near customerrating	0 0 1
+eatType food customerrating area near	1 0 1 0 1
+eatType familyFriendly food customerrating area near	0 1 1 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly customerrating_2	0 0 1 0 0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType food area near	0 1 0 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType familyFriendly customerrating area priceRange near	0 1 0 0 1 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+near customerrating familyFriendly area	1 1 0 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating familyFriendly area near	0 0 1 1 0 0 1
+eatType food area customerrating familyFriendly near	1 0 1 0 0 1
+eatType food near customerrating familyFriendly	0 0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType near area	1 0 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType food near customerrating area	0 0 1 0 1
+eatType familyFriendly priceRange near	0 0 1 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType priceRange food customerrating familyFriendly area near	0 0 1 1 0 0 1
+eatType priceRange food customerrating familyFriendly area near	0 0 1 1 0 0 1
+eatType familyFriendly customerrating area near priceRange	0 0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType food area customerrating familyFriendly near	1 0 1 0 0 1
+eatType priceRange food customerrating familyFriendly near	0 0 1 1 0 1
+eatType priceRange food customerrating familyFriendly area near	0 1 0 1 0 0 1
+priceRange food near	1 1 1
+eatType familyFriendly food near priceRange	0 1 0 0 1
+eatType customerrating area near	1 0 0 1
+eatType food area customerrating familyFriendly near	1 0 1 0 0 1
+eatType food near customerrating area	0 0 1 0 1
+eatType priceRange food customerrating familyFriendly area near	0 0 1 1 0 0 1
+eatType priceRange food customerrating familyFriendly area near	0 0 1 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly customerrating_2	0 0 1 0 0 1 0 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType near area	1 0 1
+eatType familyFriendly customerrating near	0 1 1 1
+eatType food near customerrating familyFriendly	0 0 1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food customerrating familyFriendly area near	0 1 0 1 0 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating familyFriendly area near	0 1 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly customerrating_2	0 0 1 0 0 1 0 1
+eatType familyFriendly customerrating area near priceRange	0 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly priceRange_2	0 0 1 0 0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly food near	0 1 0 1
+eatType familyFriendly food customerrating near	0 1 0 0 1
+eatType priceRange food near familyFriendly	0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType near area	1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly customerrating area near priceRange	0 0 1 0 0 1
+eatType priceRange food area near customerrating	0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType customerrating area near customerrating_2	1 1 0 0 1
+eatType priceRange customerrating area near	0 1 0 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType near priceRange customerrating	0 0 1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly area near	1 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType food area near familyFriendly	1 0 0 1 1
+eatType familyFriendly food customerrating area near customerrating_2	0 1 0 1 0 0 1
+eatType food area near	0 1 0 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType priceRange food customerrating familyFriendly area near priceRange_2	0 0 1 1 1 0 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType food area near	0 1 0 1
+eatType near	0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType familyFriendly customerrating area near	0 1 0 0 1
+eatType familyFriendly priceRange near	0 0 1 1
+eatType familyFriendly near	0 1 1
+eatType familyFriendly priceRange area near	1 1 0 0 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType priceRange food area familyFriendly	0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType priceRange food area near familyFriendly eatType_2	0 0 1 0 1 0 1
+eatType near familyFriendly	1 0 1
+eatType priceRange food area near familyFriendly food_2	0 0 1 0 1 0 1
+eatType familyFriendly area near	1 1 0 1
+eatType familyFriendly food near priceRange	0 1 0 1 1
+eatType priceRange near	1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType familyFriendly priceRange area near	0 0 1 0 1
+eatType familyFriendly food near	0 1 0 1
+eatType near	0 1
+eatType near familyFriendly	0 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType food area near	0 1 0 1
+eatType priceRange food area near familyFriendly	0 0 1 0 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType food near	0 0 1
+eatType priceRange near area	0 1 0 1
+area near priceRange	0 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType familyFriendly area near	0 1 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType familyFriendly priceRange area near	0 0 1 0 1
+eatType priceRange near	1 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType familyFriendly priceRange area near	0 0 1 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType food area near	1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange near	1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange near area	1 1 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType priceRange food area near	0 1 1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType familyFriendly food near priceRange	0 1 0 1 1
+eatType food area near familyFriendly	1 0 0 1 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType priceRange food customerrating area near familyFriendly customerrating_2	0 0 1 0 0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType familyFriendly food customerrating area near eatType_2	0 1 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly priceRange_2	0 0 1 0 0 1 0 1
+eatType familyFriendly customerrating area near priceRange	0 0 1 0 0 1
+near customerrating familyFriendly priceRange	1 1 1 1
+eatType familyFriendly food customerrating area near	0 1 1 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType near customerrating familyFriendly	0 1 1 1
+eatType familyFriendly customerrating area near	1 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly priceRange_2	0 0 1 0 0 1 0 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType priceRange food customerrating familyFriendly area near	0 0 1 1 0 0 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType familyFriendly customerrating area priceRange near	0 1 0 0 1 1
+eatType priceRange food customerrating familyFriendly area near	0 0 1 1 0 0 1
+priceRange food customerrating familyFriendly area near	0 1 1 0 0 1
+eatType food area near	0 1 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType familyFriendly customerrating priceRange near	0 0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType near priceRange	1 1 1
+eatType area	0 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType familyFriendly area near	0 1 0 1
+eatType priceRange food customerrating familyFriendly area near	0 0 1 1 0 0 1
+eatType familyFriendly priceRange area near	0 0 1 0 1
+eatType familyFriendly priceRange near	0 0 1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating familyFriendly area near eatType_2	0 0 1 1 1 0 0 1
+eatType priceRange food customerrating familyFriendly area near eatType_2	0 0 1 1 1 0 0 1
+eatType priceRange food customerrating familyFriendly area near food_2	0 0 1 1 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly customerrating area priceRange near	0 1 0 0 1 1
+eatType food customerrating area near	1 0 1 0 1
+eatType near area	1 0 1
+eatType priceRange food customerrating area near familyFriendly priceRange_2	0 0 1 0 0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType near customerrating familyFriendly	0 1 1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType food area customerrating familyFriendly near	1 0 0 1 0 1
+eatType priceRange near area	1 0 0 1
+eatType familyFriendly food customerrating area near	0 1 1 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly food customerrating area near eatType_2	0 1 0 1 0 0 1
+eatType food area customerrating familyFriendly near	1 0 0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType priceRange food customerrating familyFriendly near	0 0 1 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType near	1 1
+eatType priceRange near eatType_2 eatType_3	1 1 0 0 1
+eatType familyFriendly area near	0 1 0 1
+eatType familyFriendly near	0 1 1
+eatType familyFriendly priceRange near	0 0 1 1
+eatType priceRange near area	0 1 0 1
+eatType familyFriendly food customerrating area near	0 1 1 1 0 1
+eatType priceRange food customerrating familyFriendly area near	0 0 1 1 0 0 1
+eatType priceRange food customerrating familyFriendly area near	0 0 1 1 0 0 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType familyFriendly food customerrating area near	0 1 1 1 0 1
+eatType familyFriendly food customerrating area near	0 1 1 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating familyFriendly area near	0 0 1 1 0 0 1
+eatType priceRange food customerrating familyFriendly area near food_2	0 0 1 1 1 0 0 1
+eatType near customerrating priceRange	0 0 1 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType priceRange food customerrating familyFriendly near	0 0 1 1 0 1
+eatType near customerrating	1 1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType food area customerrating familyFriendly near	1 0 0 1 0 1
+eatType priceRange food customerrating familyFriendly area near	0 0 1 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType food area near familyFriendly	1 0 0 1 1
+eatType priceRange food near area	1 1 0 0 1
+eatType priceRange food customerrating familyFriendly area near eatType_2	0 0 1 1 1 0 0 1
+eatType food area customerrating familyFriendly near	1 0 0 1 0 1
+eatType priceRange near	1 0 1
+eatType near area	1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating familyFriendly area near eatType_2	0 0 1 1 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food near	1 0 0 1
+eatType priceRange food customerrating familyFriendly near	0 0 1 1 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType priceRange food area near priceRange_2	1 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly food customerrating area near	0 1 1 1 0 1
+eatType familyFriendly food near priceRange eatType_2	0 0 1 0 0 1
+eatType familyFriendly food area near eatType_2	1 1 1 0 0 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType familyFriendly customerrating area near priceRange	0 0 1 0 0 1
+near customerrating familyFriendly priceRange area	1 1 1 0 1
+eatType priceRange food customerrating familyFriendly area near	0 0 1 1 0 0 1
+eatType food customerrating area near	1 0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food near area	1 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType customerrating area eatType_2	0 1 0 1
+eatType priceRange food customerrating familyFriendly area near eatType_2	0 0 1 1 1 0 0 1
+eatType familyFriendly food customerrating area near	0 1 1 1 0 1
+eatType customerrating area near	0 1 0 1
+eatType priceRange food customerrating area near customerrating_2	0 0 1 1 0 0 1
+near priceRange	0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType food area customerrating familyFriendly near	1 0 0 1 0 1
+eatType priceRange food area near customerrating	0 1 0 0 1 1
+eatType priceRange food customerrating familyFriendly near	0 0 1 1 0 1
+eatType priceRange food customerrating area near familyFriendly customerrating_2	0 0 1 0 0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType food area customerrating familyFriendly near	1 0 1 0 0 1
+eatType food customerrating familyFriendly priceRange near	0 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly food customerrating area near	0 1 1 0 0 1
+eatType priceRange food customerrating familyFriendly near	0 0 1 1 0 1
+eatType food area near	1 1 0 1
+eatType near priceRange	0 0 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType near priceRange familyFriendly	0 0 1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating familyFriendly near	0 0 1 1 0 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType food area customerrating familyFriendly near	1 0 0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly customerrating near eatType_2	0 1 1 0 1
+eatType food area customerrating familyFriendly near	1 0 1 0 0 1
+eatType familyFriendly customerrating area near eatType_2	1 1 1 0 0 1
+eatType familyFriendly customerrating area priceRange near	0 1 0 0 1 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType familyFriendly priceRange area near eatType_2	0 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food near area	1 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food near area	1 1 0 0 1
+eatType familyFriendly food near	0 1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+priceRange food area familyFriendly near	1 0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating familyFriendly near	0 0 1 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly food customerrating area near	0 1 1 1 0 1
+eatType familyFriendly customerrating priceRange near	0 0 1 0 1
+eatType near customerrating familyFriendly	0 1 1 1
+eatType familyFriendly food customerrating near	0 1 0 0 1
+eatType familyFriendly food near eatType_2	0 1 1 0 1
+eatType familyFriendly customerrating area near priceRange	0 0 1 0 0 1
+eatType priceRange food customerrating familyFriendly area near	0 0 1 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly food customerrating area near	0 1 1 1 0 1
+eatType familyFriendly customerrating area near priceRange	0 0 1 0 0 1
+eatType priceRange food customerrating familyFriendly area near	0 0 1 1 0 0 1
+eatType familyFriendly food customerrating area near	0 1 1 1 0 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType familyFriendly customerrating area priceRange near eatType_2	0 1 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange customerrating area near	1 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly customerrating area near priceRange	0 0 1 0 0 1
+eatType familyFriendly priceRange near	0 0 1 1
+eatType priceRange near area	1 1 0 1
+eatType near customerrating priceRange	0 0 1 1
+near familyFriendly priceRange	0 1 1
+eatType familyFriendly food customerrating area near	0 1 1 1 0 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType food area customerrating familyFriendly near	1 0 0 1 0 1
+eatType food customerrating area near	1 0 1 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType food area near familyFriendly	1 0 0 1 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType familyFriendly food area priceRange	0 0 1 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType food area near familyFriendly	1 0 0 1 1
+eatType priceRange food area near familyFriendly eatType_2	0 0 1 0 1 0 1
+eatType near familyFriendly	0 1 1
+eatType priceRange food area near familyFriendly food_2	0 0 1 0 1 0 1
+eatType familyFriendly area near	1 1 0 1
+eatType priceRange food near familyFriendly	0 0 1 0 1
+eatType priceRange near	1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType familyFriendly priceRange area near	0 0 1 0 1
+eatType familyFriendly food near	0 1 0 1
+eatType near	0 1
+eatType near familyFriendly	0 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType priceRange food area near	0 1 0 0 1
+eatType food area near	1 0 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType food near	0 0 1
+eatType priceRange near area	0 1 0 1
+eatType priceRange food area near	0 1 0 0 1
+eatType familyFriendly area near	0 1 0 1
+eatType priceRange food area near familyFriendly	0 0 1 0 0 1
+eatType familyFriendly priceRange area near	1 1 0 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType priceRange food area near familyFriendly	0 0 1 0 0 1
+eatType priceRange food area near	0 0 1 0 1
+eatType familyFriendly priceRange area near	0 0 1 0 1
+eatType food area near familyFriendly	1 0 0 1 1
+eatType food area near	0 1 0 1
+eatType priceRange food area near familyFriendly	0 0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange near	0 1 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange near area	1 1 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType priceRange food area near	0 1 1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food near familyFriendly	1 1 0 0 1
+eatType food area near familyFriendly	1 0 0 1 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType familyFriendly priceRange area near	1 1 0 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType familyFriendly food area near	0 0 1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+priceRange food area familyFriendly near	1 0 1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType food area near	1 0 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType familyFriendly area near	1 1 0 1
+eatType food area near	1 1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+priceRange food area near	0 1 0 1
+eatType familyFriendly area near	0 1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType familyFriendly food near	0 1 0 1
+eatType familyFriendly priceRange area near	0 1 0 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType familyFriendly food near priceRange	0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+priceRange food area near	0 1 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType familyFriendly near eatType_2	0 1 0 1
+eatType familyFriendly priceRange near	0 0 1 1
+eatType priceRange near	1 0 1
+eatType familyFriendly priceRange area near	0 0 1 0 1
+eatType food area near familyFriendly	1 0 0 1 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType familyFriendly food near priceRange	0 1 0 1 1
+eatType priceRange food near area	1 1 0 0 1
+eatType priceRange food near familyFriendly	1 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food near	1 1 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType familyFriendly priceRange area near	0 0 1 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType food area near familyFriendly	1 0 0 1 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType familyFriendly area near	0 1 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType priceRange food area near	0 1 0 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType priceRange food area near	0 0 1 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType familyFriendly area near	0 1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType familyFriendly food near	0 1 0 1
+eatType familyFriendly priceRange area near	1 1 0 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType priceRange food area near familyFriendly	0 0 1 0 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType priceRange food area near	0 1 0 0 1
+eatType priceRange food near familyFriendly	0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType familyFriendly near eatType_2	0 1 0 1
+eatType familyFriendly priceRange near	0 0 1 1
+eatType near priceRange	0 0 1
+eatType familyFriendly priceRange area near	0 0 1 0 1
+eatType food area near familyFriendly	1 0 0 1 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food near familyFriendly	0 1 0 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType familyFriendly food near priceRange	0 1 0 1 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food near	1 0 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType near priceRange familyFriendly	0 1 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType priceRange near	1 0 1
+eatType familyFriendly near	0 1 1
+eatType familyFriendly priceRange area near	0 0 1 0 1
+eatType priceRange near area	1 1 0 1
+eatType food area near	0 1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food area near	0 1 0 0 1
+eatType familyFriendly priceRange area near	0 0 1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+food area near familyFriendly	1 0 1 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType familyFriendly food area priceRange	0 1 0 0 1
+eatType familyFriendly food	0 1 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType near familyFriendly	0 0 1
+eatType priceRange near area	0 1 0 1
+eatType food near	0 0 1
+eatType familyFriendly area near	0 1 0 1
+eatType priceRange near	1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType familyFriendly food near	0 1 0 1
+eatType food area near familyFriendly	1 0 0 1 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food near familyFriendly	0 0 1 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType food area near	0 1 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+priceRange food area near familyFriendly	1 0 0 1 1
+eatType priceRange food area near familyFriendly	0 0 1 0 0 1
+eatType food near	0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType familyFriendly priceRange near	0 0 1 1
+eatType near area	1 0 1
+priceRange food area familyFriendly near	1 0 1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType priceRange food area near familyFriendly	0 0 1 0 0 1
+eatType familyFriendly priceRange area near	1 1 0 0 1
+eatType familyFriendly area near	0 1 0 1
+eatType familyFriendly priceRange area near	1 1 0 0 1
+eatType familyFriendly priceRange area near	1 1 0 0 1
+eatType priceRange food area near familyFriendly	0 0 1 0 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType near	0 1
+eatType food area near	0 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food area near	0 1 0 0 1
+eatType familyFriendly priceRange near	1 0 0 1
+eatType priceRange food area near	0 1 0 0 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType near priceRange	0 0 1
+eatType familyFriendly food customerrating area near	0 1 1 1 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food near area	1 1 0 0 1
+eatType customerrating area near	0 1 0 1
+eatType familyFriendly customerrating priceRange near	0 1 0 0 1
+eatType near customerrating priceRange	0 1 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType familyFriendly priceRange area near	0 0 1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType familyFriendly food near priceRange	0 1 0 1 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType familyFriendly priceRange near	0 0 1 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType familyFriendly food customerrating area near eatType_2	0 1 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType familyFriendly food customerrating area near	0 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food area near customerrating	0 0 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType near customerrating priceRange	0 1 1 1
+eatType priceRange near area	1 1 0 1
+eatType familyFriendly near eatType_2	0 1 0 1
+eatType familyFriendly customerrating priceRange near	0 0 1 0 1
+eatType priceRange food near food_2	0 0 1 0 1
+eatType priceRange food customerrating area near	1 0 1 0 0 1
+eatType priceRange food customerrating familyFriendly area near	0 0 1 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating familyFriendly area near eatType_2	0 0 1 1 1 0 0 1
+eatType priceRange food customerrating familyFriendly area near eatType_2	0 0 1 1 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly	0 0 1 0 0 1 1
+eatType priceRange food customerrating area near eatType_2	0 0 1 1 0 0 1
+eatType priceRange food customerrating area near familyFriendly priceRange_2	0 0 1 0 0 1 0 1
+eatType near priceRange familyFriendly	0 1 0 1
+eatType priceRange food near area	1 1 0 0 1
+eatType priceRange near	1 0 1
+eatType familyFriendly near	0 1 1
+eatType familyFriendly priceRange area near	1 1 0 0 1
+eatType priceRange near area	1 1 0 1
+eatType food area near	0 1 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType priceRange food area near	0 1 0 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType priceRange food area familyFriendly	0 1 0 0 1
+eatType familyFriendly food	0 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType familyFriendly near	0 1 1
+eatType priceRange near area	0 1 0 1
+eatType food near	0 0 1
+eatType familyFriendly area near	0 1 0 1
+eatType near priceRange	0 0 1
+eatType priceRange food area near familyFriendly	0 0 1 0 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType familyFriendly food near	0 1 0 1
+eatType food area near familyFriendly	1 0 0 1 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType familyFriendly food near priceRange	0 1 0 1 1
+eatType priceRange food area near	0 0 1 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType food area near	0 1 0 1
+eatType food area near familyFriendly	1 0 0 1 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType priceRange food area near familyFriendly	0 0 1 0 0 1
+eatType food near	0 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType familyFriendly priceRange near	0 0 1 1
+eatType near area	1 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType priceRange food area near	0 1 0 0 1
+eatType priceRange food area near familyFriendly	0 0 1 0 0 1
+eatType familyFriendly priceRange area near	1 1 0 0 1
+eatType familyFriendly area near	0 1 0 1
+eatType familyFriendly priceRange area near	1 1 0 0 1
+eatType familyFriendly priceRange area near	1 1 0 0 1
+eatType priceRange food area near familyFriendly	0 0 1 0 0 1
+eatType near	1 1
+eatType food area near	0 1 0 1
+eatType priceRange food area familyFriendly near	0 1 0 1 0 1
+eatType familyFriendly priceRange area near	0 0 1 0 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType familyFriendly food near priceRange	0 1 0 1 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType near priceRange familyFriendly	0 0 1 1
+eatType priceRange food area near familyFriendly	1 0 1 0 0 1
+eatType area	1 1
+eatType area	1 1
+eatType familyFriendly food area near	0 1 0 0 1
+food area near familyFriendly	1 0 1 1
+eatType food area near	1 0 0 1
+eatType food near	1 1 1
+eatType familyFriendly area near	0 1 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType food area near eatType_2	1 1 0 0 1
+eatType familyFriendly food near	0 1 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType food area near	1 0 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType food near	1 0 1
+eatType near area	1 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType priceRange near	1 0 1
+eatType food area near	1 0 0 1
+eatType familyFriendly area near	1 1 0 1
+food area near familyFriendly	1 0 1 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType food area near familyFriendly	1 0 0 1 1
+eatType food area near	1 0 0 1
+eatType food near	1 0 1
+eatType familyFriendly area near	0 1 0 1
+eatType familyFriendly food area near	0 0 1 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType food area near eatType_2	1 1 0 0 1
+eatType familyFriendly food near	0 1 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType food area near	1 0 0 1
+eatType food area near familyFriendly	1 1 0 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType food near	1 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType near priceRange	0 0 1
+eatType food area near	1 0 0 1
+eatType familyFriendly area near	0 1 0 1
+eatType familyFriendly food area near	0 1 0 0 1
+eatType area	0 1
+eatType customerrating near	0 1 1
+eatType near	1 1
+eatType customerrating near	1 0 1
+eatType near	1 1
+eatType area	1 1
+eatType customerrating near	1 0 1
+eatType near	1 1
+eatType customerrating near	0 1 1
+eatType near	1 1
