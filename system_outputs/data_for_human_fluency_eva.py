@@ -17,7 +17,7 @@ if __name__ == '__main__':
                     continue
                 flist = line.split(': ')
                 label = flist[0]
-                sentence = ': '.join(flist[1:])
+                sentence = ': '.join(flist[1:]).replace('\t', ' ')
                 if label not in selected_dict:
                     selected_dict[label] = []
                 selected_dict[label].append(sentence)
